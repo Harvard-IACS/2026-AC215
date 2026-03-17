@@ -159,12 +159,10 @@ The heart of this course is experiential learning. We fervently believe that you
 | ------------------------------------------------------------ | ------ |
 | [MS1](https://harvard-iacs.github.io/2026-AC215/milestone1/) | 4%     |
 | [MS2](https://harvard-iacs.github.io/2026-AC215/milestone2/) | 10%    |
-| [MS3](https://harvard-iacs.github.io/2026-AC215/milestone3/) | 25%    |
+| [MS3](https://harvard-iacs.github.io/2026-AC215/milestone3/) | 22%    |
 | [MS4](https://harvard-iacs.github.io/2026-AC215/milestone4/) | 14%    |
-| [MS5](https://harvard-iacs.github.io/2026-AC215/milestone5/) | 35%    |
-| [HW1](https://harvard-iacs.github.io/2026-AC215/HW1/)        | 4%     |
-| [HW2](https://harvard-iacs.github.io/2026-AC215/HW2/)        | 4%     |
-| [HW3](https://harvard-iacs.github.io/2026-AC215/HW3/)        | 4%     |
+| [MS5](https://harvard-iacs.github.io/2026-AC215/milestone5/) | 34%    |
+| Quizzes (6 total; best 4 count)                             | 16%    |
 
 For more information about the projects and milestones, you can click the links above or visit the [project page](https://harvard-iacs.github.io/2026-AC215/projects/).
 
