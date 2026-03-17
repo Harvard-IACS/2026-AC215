@@ -180,27 +180,13 @@ For more information about the projects and milestones, you can click the links 
 
 Consistent and timely completion of assignments is imperative in this course. All course milestones must be submitted by **9:00 PM EST** on the specified due dates.  
 
-Attendance at lectures and sections is **required for all on-campus students**. The teaching staff will record on-campus attendance. For every **4 sessions attended, on-campus students will earn 1 additional late day**. **Any effort to misrepresent attendance will be considered a violation of the honor code and dealt with accordingly.**
-
-Students start with **zero late days** at the beginning of the semester. **They earn 1 late day for every 4 lectures attended**, encouraging regular participation.
-
-If a student has **exhausted all their late days**, **late assignments will not be accepted**. The late day policy is designed to provide maximum flexibility upfront and is intended to cover common disruptions such as illness, travel, or busy schedules. As such, additional late days will **not** be granted for these reasons.
+Attendance at lectures and sections is **required for all on-campus students**. 
 
 In cases of **serious or extended circumstances** (e.g., prolonged illness, family emergency), students should contact the course staff as soon as possible. In such cases, we may consider alternate arrangements, but please note that extended absences may make it difficult to meet the learning objectives of the course within the semester.
-
-You are allowed a maximum of **three late days per assignment**.  
-
-For group project milestones, the **total number of late days available to the group must be at least equal to the number of group members multiplied by 4**. This ensures sufficient flexibility for the entire team.
-
-If the group’s combined late days do not meet this requirement, the group **cannot** collectively extend the deadline. We encourage groups to plan accordingly and support all members in managing their late days responsibly.
 
 **Final Milestone / Midterms:** No extensions will be permitted for the final milestone or midterms under any circumstances. Therefore, careful time management is strongly encouraged to ensure that you can meet this critical deadline.
 
 *If you have a medical or personal emergency, contact us as soon as possible — do not wait until the deadline passes.*
-
-### Extension School Late Days
-
-**Extension School** students are allocated a maximum of **6 late days** with **at most 3 days applied to any single assignment**.
 
 ### Academic Honesty
 
