@@ -13,8 +13,8 @@ seo:
 # **MLOps & LLMOps: Production AI Systems** - AC215
 {:.no_toc}
 
-## **<span style="color: red;">Enrollment is closed - the class has reached capacity.</span>**
-{:.no_toc}
+<!-- ## **<span style="color: red;">Enrollment is closed - the class has reached capacity.</span>**
+{:.no_toc} -->
 
 ## Table of contents
 {: .no_toc .text-delta }
