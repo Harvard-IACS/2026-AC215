@@ -23,8 +23,7 @@ seo:
 {:toc}
 
 ---
-draft: April 2, 2026  
-Update: June 16, 2026
+draft: March 17, 2026  
 
 ---
 
@@ -127,7 +126,7 @@ It's important to note that while prior knowledge in these areas will provide a 
 
 - **Sessions:** Structured lectures focusing on the core topics.  
 - **Office Hours:** Dedicated time with your Teaching Fellow (TF) for questions, clarifications, or project guidance.  
-- **Individual Assignments (3):** These assignments ensure you grasp key learning objectives.  
+- **Quizzes (6 total; best 4 of 6 count):** Short, in-class, closed-book assessments designed to evaluate understanding of core concepts.
 - **Team Projects:** Collaborate with classmates to build a fully functional AI application.  
 - **Discussion Forums:** Engage in peer-to-peer learning, discussions, and knowledge sharing.  
 - **Supplementary Readings:** To complement the topics covered in lectures and enrich your academic comprehension, a selection of readings has been curated. As this is an evolving field, the ability to continuously update your knowledge through independent reading is an integral part of the course.
