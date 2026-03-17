@@ -23,8 +23,8 @@ seo:
 {:toc}
 
 ---
-draft: April 2, 2025  
-Update: June 16, 2025
+draft: April 2, 2026  
+Update: June 16, 2026
 
 ---
 
@@ -158,16 +158,16 @@ The heart of this course is experiential learning. We fervently believe that you
 
 | Milestone                                                    | Weight |
 | ------------------------------------------------------------ | ------ |
-| [MS1](https://harvard-iacs.github.io/2025-AC215/milestone1/) | 4%     |
-| [MS2](https://harvard-iacs.github.io/2025-AC215/milestone2/) | 10%    |
-| [MS3](https://harvard-iacs.github.io/2025-AC215/milestone3/) | 25%    |
-| [MS4](https://harvard-iacs.github.io/2025-AC215/milestone4/) | 14%    |
-| [MS5](https://harvard-iacs.github.io/2025-AC215/milestone5/) | 35%    |
-| [HW1](https://harvard-iacs.github.io/2025-AC215/HW1/)        | 4%     |
-| [HW2](https://harvard-iacs.github.io/2025-AC215/HW2/)        | 4%     |
-| [HW3](https://harvard-iacs.github.io/2025-AC215/HW3/)        | 4%     |
+| [MS1](https://harvard-iacs.github.io/2026-AC215/milestone1/) | 4%     |
+| [MS2](https://harvard-iacs.github.io/2026-AC215/milestone2/) | 10%    |
+| [MS3](https://harvard-iacs.github.io/2026-AC215/milestone3/) | 25%    |
+| [MS4](https://harvard-iacs.github.io/2026-AC215/milestone4/) | 14%    |
+| [MS5](https://harvard-iacs.github.io/2026-AC215/milestone5/) | 35%    |
+| [HW1](https://harvard-iacs.github.io/2026-AC215/HW1/)        | 4%     |
+| [HW2](https://harvard-iacs.github.io/2026-AC215/HW2/)        | 4%     |
+| [HW3](https://harvard-iacs.github.io/2026-AC215/HW3/)        | 4%     |
 
-For more information about the projects and milestones, you can click the links above or visit the [project page](https://harvard-iacs.github.io/2025-AC215/projects/).
+For more information about the projects and milestones, you can click the links above or visit the [project page](https://harvard-iacs.github.io/2026-AC215/projects/).
 
 ---
 
