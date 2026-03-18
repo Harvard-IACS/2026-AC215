@@ -187,17 +187,20 @@ For more information about the projects and milestones, you can click the links 
 - **Teaching Staff Helpline:** For matters specific to the teaching staff, please send your queries to ac215harvard@gmail.com.  
 - **Email the Instructor:** For private or individual concerns, please feel free to directly email the instructor.
 
-### Deadline Policy
-
-Consistent and timely completion of assignments is imperative in this course. All course milestones must be submitted by **9:00 PM EST** on the specified due dates.  
-
 Attendance at lectures and sections is **required for all on-campus students**. 
 
-In cases of **serious or extended circumstances** (e.g., prolonged illness, family emergency), students should contact the course staff as soon as possible. In such cases, we may consider alternate arrangements, but please note that extended absences may make it difficult to meet the learning objectives of the course within the semester.
+### Deadline Policy
 
-**Final Milestone / Midterms:** No extensions will be permitted for the final milestone or midterms under any circumstances. Therefore, careful time management is strongly encouraged to ensure that you can meet this critical deadline.
+Consistent and timely completion of assignments is important in this course. All course milestones must be submitted by **9:00 PM EST** on the specified due dates.  
 
-*If you have a medical or personal emergency, contact us as soon as possible — do not wait until the deadline passes.*
+
+**Late Days:**  
+All students are allocated a maximum of **3 late days** to use throughout the semester. These late days may be applied only to **MS1–MS4**. Students may use their allocated late days without prior approval.  
+
+Late days **cannot** be used for **quizzes or MS5 (final milestone)**.  
+
+If a student has exhausted all late days, late submissions will not be accepted. Exceptions will be considered only in **extreme cases** (e.g., serious medical or other University-excused circumstances) and will be evaluated on a case-by-case basis. Documentation may be required.
+
 
 ### Academic Honesty
 
