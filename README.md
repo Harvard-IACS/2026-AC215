@@ -46,50 +46,39 @@ Whether you are an AI enthusiast wanting to understand the intricacies of Machin
 
 ### Course Topics Overview
 
-The course is structured around building and deploying real AI systems. Below is an overview of the main topics (see [full topics list](https://docs.google.com/spreadsheets/d/e/2PACX-1vSaPiVfDbW8OKMwQQZrOp8SiduXsg1rNHhMjUNjJNAlBrXrIxF6K5SiNiq53upolQ/pubhtml?gid=182104043&single=true)):
+We have designed an in-depth curriculum to ensure a comprehensive understanding of AI-Ops. Here's a closer look at the topics we'll be covering (see [full topics list](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRGX6JiavaCkk11eg-BKSGvU9D5KKXaBONw9ZflnKJK52QUuTTpDnHpBhxSoBf95Q/pubhtml?gid=182104043&single=true) ) for a full list of topics):
 
 
 1. **Introduction:** 
-   - 	Overview of AI-Ops and its role in modern AI systems.
-2. **LLMs Topics:** 
-   - Working with LLM APIs, retrieval (RAG) and agent-style workflows
-	- Tools such as LangChain and LlamaIndexs
+   - Begin with an understanding of the importance of AI-Ops and how it fits in the broader AI and software development ecosystem.
+2. **LLM Topics:** 
+   - Large Language Models (LLMs) have led to many new tools and agents that students will use in their projects. In these lectures, we'll look at some of these tools, such as LangChain, LamaIndex, and API calls. We'll also explore RAGS and AI agents, which make it easy to work with LLMs.
 3. **Virtual Environments and Virtual Machines:** 
-   -	Virtual environments and virtual machines
-	-	Reproducibility and system isolation
+   - Delve into the foundations of isolated software environments, their importance in AI development, and how virtual machines offer a layer of abstraction over physical hardware.
 4. **Containers:** 
-   -	Docker and containerized workflows
-	-	Differences from virtual machines
+   - Understand the concept of containerization using tools like Docker, and how they differ from virtual machines.
 5. **Data Pipelines, & Cloud Storage:** 
-	-	Data ingestion, preprocessing, and versioning
-	-	TF Data, TF Records, PyTorch Dataset/DataLoader
-	-	Cloud storage systems
-     ​
-6. **Training Workflows:** 
-	-	Experiment tracking (e.g., Weights & Biases)
-	-	Multi-GPU training and scalable workflows
-	-	Fine-tuning models, including LLMs
 
-7. **Inference and Deployment:** 
-	-	Model optimization (distillation, quantization, LoRA)
-	-	Serving models and post-deployment monitoring
-	-	Tools such as Cloud Run, Vertex AI, and Kubeflow
+   - Learn core data management techniques including ETL and data versioning. Learn to leverage TF Data and TF Records, PyTorch's Dataset and DataLoader for efficient data handling. Also we will learn how cloud storage solutions fit into the AI-Ops ecosystem.solutions. Explore specialized tools for managing large-scale datasets for computer vision and language models. 
      ​
-8. **Application Design, Setup, and Code Organization:** 
-  	-	Structuring AI applications
-	-	Code organization and system design
+6. **Advanced Training Workflows:** 
+   - We will look into techniques of advanced training workflows, covering experiment tracking with tools like Weights & Biases, leveraging multi-GPU setups for accelerated training, exploring serverless training options using Vertex AI, and fine-tuning large language models (LLMs) . 
+
+7. **Advanced Inference Workflows:** 
+   - Understand the nuances of model optimization techniques like distillation, quantization, compression, and Low-Rank Approximation (LORA). We then move to model deployment, hosting, and serving large language models (LLMs) effectively. Explore post-deployment monitoring for model performance, data drift detection, and testing strategie.  Cloud Functions, Cloud Run, Kubeflow, and Vertex AI Pipelines.
+     ​
+8. **App Design, Setup, and Code Organization:** 
+      - Best practices in designing user-centric AI applications, setting up your development environment, and organizing code for scalability and maintainability.
         ​
 9. **APIs & Frontend:** 
-   -	Building APIs to serve models
-	-	Designing simple user-facing interfaces
+      - Learn about RESTful APIs to serve your models and design user interfaces for seamless user interactions.
         ​
 10. **Scaling (k8):** 
-  	-	Kubernetes and distributed systems
-	-	Scaling applications in production
+       - Delve into Kubernetes, its significance in deploying containerized applications, and understand how to scale your applications to cater to millions of users.
          ​
 
 
-Students will develop an understanding of how to move from models to full systems, with emphasis on practical implementation and real-world constraints.
+As we journey through these topics, students will gain a holistic perspective, bridging the gap between model development and real-world deployment. With a blend of theory and practical exercises, this course ensures that by the end, you're not just familiar with these concepts, but proficient in applying them.
 
 ---
 
@@ -170,8 +159,8 @@ The heart of this course is experiential learning. We fervently believe that you
 | ------------------------------------------------------------ | ------ |
 | [MS1](https://harvard-iacs.github.io/2026-AC215/milestone1/) | 4%     |
 | [MS2](https://harvard-iacs.github.io/2026-AC215/milestone2/) | 10%    |
-| [MS3](https://harvard-iacs.github.io/2026-AC215/milestone3/) | 18%    |
-| [MS4](https://harvard-iacs.github.io/2026-AC215/milestone4/) | 18%    |
+| [MS3](https://harvard-iacs.github.io/2026-AC215/milestone3/) | 22%    |
+| [MS4](https://harvard-iacs.github.io/2026-AC215/milestone4/) | 14%    |
 | [MS5](https://harvard-iacs.github.io/2026-AC215/milestone5/) | 34%    |
 | Quizzes (6 total; best 4 count)                             | 16%    |
 
@@ -187,20 +176,31 @@ For more information about the projects and milestones, you can click the links 
 - **Teaching Staff Helpline:** For matters specific to the teaching staff, please send your queries to ac215harvard@gmail.com.  
 - **Email the Instructor:** For private or individual concerns, please feel free to directly email the instructor.
 
-Attendance at lectures and sections is **required for all on-campus students**. 
-
 ### Deadline Policy
 
-Consistent and timely completion of assignments is important in this course. All course milestones must be submitted by **9:00 PM EST** on the specified due dates.  
+Consistent and timely completion of assignments is imperative in this course. All course milestones must be submitted by **9:00 PM EST** on the specified due dates.  
 
+Attendance at lectures and sections is **required for all on-campus students**. The teaching staff will record on-campus attendance. For every **4 sessions attended, on-campus students will earn 1 additional late day**. **Any effort to misrepresent attendance will be considered a violation of the honor code and dealt with accordingly.**
 
-**Late Days:**  
-All students are allocated a maximum of **3 late days** to use throughout the semester. These late days may be applied only to **MS1–MS4**. Students may use their allocated late days without prior approval.  
+Students start with **zero late days** at the beginning of the semester. **They earn 1 late day for every 4 lectures attended**, encouraging regular participation.
 
-Late days **cannot** be used for **quizzes or MS5 (final milestone)**.  
+If a student has **exhausted all their late days**, **late assignments will not be accepted**. The late day policy is designed to provide maximum flexibility upfront and is intended to cover common disruptions such as illness, travel, or busy schedules. As such, additional late days will **not** be granted for these reasons.
 
-If a student has exhausted all late days, late submissions will not be accepted. Exceptions will be considered only in **extreme cases** (e.g., serious medical or other University-excused circumstances) and will be evaluated on a case-by-case basis. Documentation may be required.
+In cases of **serious or extended circumstances** (e.g., prolonged illness, family emergency), students should contact the course staff as soon as possible. In such cases, we may consider alternate arrangements, but please note that extended absences may make it difficult to meet the learning objectives of the course within the semester.
 
+You are allowed a maximum of **three late days per assignment**.  
+
+For group project milestones, the **total number of late days available to the group must be at least equal to the number of group members multiplied by 4**. This ensures sufficient flexibility for the entire team.
+
+If the group’s combined late days do not meet this requirement, the group **cannot** collectively extend the deadline. We encourage groups to plan accordingly and support all members in managing their late days responsibly.
+
+**Final Milestone / Midterms:** No extensions will be permitted for the final milestone or midterms under any circumstances. Therefore, careful time management is strongly encouraged to ensure that you can meet this critical deadline.
+
+*If you have a medical or personal emergency, contact us as soon as possible — do not wait until the deadline passes.*
+
+### Extension School Late Days
+
+**Extension School** students are allocated a maximum of **6 late days** with **at most 3 days applied to any single assignment**.
 
 ### Academic Honesty
 
@@ -215,14 +215,14 @@ If a student has exhausted all late days, late submissions will not be accepted.
 
 ### Feedback & Evaluation
 
-- Continuous feedback is vital for the learning process. While the course has several grading components, always focus on understanding rather than just marks.  
+- Continuous feedback is vital for the learning process. While the course has several grading components, always focus on understanding rather than just marks. Please provide feedback on the course structure, content, and delivery so we can continually improve.
 
 ---
 
 ## Policy on Usage of Publicly Available Class Material
 
 1. **Permitted Use:**  
-   Class materials are provided for students enrolled in the course. They may be used for personal educational purposes only and should not be redistributed.
+   Class Material is made available primarily for the educational benefit of enrolled students and may be used by others for personal educational purposes only.
 
 2. **Prohibited Use:**  
    - Selling or commercializing any part of the Class Material.  
@@ -232,6 +232,8 @@ If a student has exhausted all late days, late submissions will not be accepted.
 3. **Attribution:**  
    Any permitted use of the Class Material must carry appropriate acknowledgment of the source (e.g., the instructor's name, course title, and institution).
 
+4. **Enforcement:**  
+   Failure to comply with this policy may result in legal action and/or disciplinary measures as applicable.
 
 ### Consent
 
@@ -241,30 +243,26 @@ By accessing and using the Class Material, you indicate your acknowledgment and 
 
 ## Accessibility
 
-Harvard students needing academic adjustments or accommodations because of a documented disability must present their Accommodation Action Plan from the [Disability Access Office (DAO)](https://dao.fas.harvard.edu/) and speak with the Course Heads as early as possible in the semester. Failure to do so may result in the Course Heads' inability to respond in a timely manner. All discussions will remain confidential, although Faculty are invited to contact DAO to discuss appropriate implementation.
+We are committed to ensuring that this course is accessible to everyone. If you require special accommodations or have any specific needs, please contact the course administrators as soon as possible.
 
-Harvard Extension School is committed to providing an inclusive, accessible academic community for students with disabilities and chronic health conditions. The Accessibility Services Office (ASO) [https://extension.harvard.edu/student-experience/accessibility-services/](https://extension.harvard.edu/student-experience/accessibility-services/) offers accommodations and supports to students with documented disabilities. If you have a need for accommodations or adjustments in your course, please contact the Accessibility Services Office [by email or by phone](https://extension.harvard.edu/student-experience/accessibility-services/#contact).
-
+Adherence to accessibility policies and a commitment to fairness, respect for your learning journey, and consideration for the learning journey of your peers are expected from all students.
 
 ---
 
-### Diversity and Inclusion Statement
+## Inclusion and Belonging Statement
 
-As educators, we aim to build a diverse, inclusive, and representative community offering opportunities in data science to everyone. We will encourage learning that advances ethical data science, exposes bias in the ways data & data science can be (and all too frequently is) used, and advances research into fair and responsible data science.
+In this data science class, we strive to create a diverse and inclusive learning environment that respects all identities, including race, gender, class, sexuality, religion, and ability. Our goal is to:
 
-We need your help to create a learning environment that supports a diversity of thoughts, perspectives, and experiences, and honors your identities (including but not limited to race, gender, class, sexuality, religion, ability, etc.) To help accomplish this:
+- Advance ethical data science and expose biases in its applications.  
+- Encourage a variety of thoughts, perspectives, and experiences.  
+- Be a supportive resource, open to understanding and adapting to your unique needs.
 
-* If you have a name and/or set of pronouns that differ from those in your official Harvard records, please let us know!
+To foster inclusion:
 
-* If you feel like your performance in the class is being impacted by your experiences outside of class, please do not hesitate to come and talk with us. We want to be a resource for you. Remember that you can also submit anonymous feedback (which will lead to us making a general announcement to the class, if necessary, to address your concerns). If you prefer to speak with someone outside of the course, you may find helpful resources at the Harvard Office of Community and Campus Life.
-
-* We (like many people) are still learning about diverse perspectives and identities. If something was said in class (by anyone) that made you feel uncomfortable, please talk to us about it.
-
-* As a participant in course discussions, you are expected to respect your classmates’ diverse backgrounds and perspectives.
-
-Our course will discuss diversity, inclusion, and ethics in data science. Please contact us (in person or electronically) or submit anonymous feedback if you have any suggestions for how we can improve.
-
-For additional resources, guidance, and support related to diversity and inclusion, please refer to the [Harvard Office of Community and Campus Life](https://ccl.harvard.edu/).
+- Please inform us if your name or pronouns differ from official records.  
+- If something affects your class performance or if you feel uncomfortable with any classroom interactions, reach out to us. You may also find resources at the Harvard Office of Diversity and Inclusion.  
+- Respect and consideration for diverse backgrounds and perspectives are expected from all participants.  
+- Your feedback is essential in enhancing diversity, inclusion, and ethics within our class. Feel free to contact us or submit anonymous suggestions.
 
 ---
 
