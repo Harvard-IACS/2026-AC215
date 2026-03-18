@@ -7,7 +7,7 @@ nav_order: 1
 
 # Schedule
 
-Overall schedule can be found [here](https://docs.google.com/spreadsheets/d/1n1ELCBZQrAsLv1pMIyirkQBvUPiPAztC/edit?usp=sharing&ouid=113094128082842199613&rtpof=true&sd=true).
+Overall schedule can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSaPiVfDbW8OKMwQQZrOp8SiduXsg1rNHhMjUNjJNAlBrXrIxF6K5SiNiq53upolQ/pubhtml?gid=182104043&single=true).
  
 
 <style>

@@ -46,39 +46,50 @@ Whether you are an AI enthusiast wanting to understand the intricacies of Machin
 
 ### Course Topics Overview
 
-We have designed an in-depth curriculum to ensure a comprehensive understanding of AI-Ops. Here's a closer look at the topics we'll be covering (see [full topics list](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRGX6JiavaCkk11eg-BKSGvU9D5KKXaBONw9ZflnKJK52QUuTTpDnHpBhxSoBf95Q/pubhtml?gid=182104043&single=true) ) for a full list of topics):
+The course is structured around building and deploying real AI systems. Below is an overview of the main topics (see [full topics list](https://docs.google.com/spreadsheets/d/e/2PACX-1vSaPiVfDbW8OKMwQQZrOp8SiduXsg1rNHhMjUNjJNAlBrXrIxF6K5SiNiq53upolQ/pubhtml?gid=182104043&single=true)):
 
 
 1. **Introduction:** 
-   - Begin with an understanding of the importance of AI-Ops and how it fits in the broader AI and software development ecosystem.
-2. **LLM Topics:** 
-   - Large Language Models (LLMs) have led to many new tools and agents that students will use in their projects. In these lectures, we'll look at some of these tools, such as LangChain, LamaIndex, and API calls. We'll also explore RAGS and AI agents, which make it easy to work with LLMs.
+   - 	Overview of AI-Ops and its role in modern AI systems.
+2. **LLMs Topics:** 
+   - Working with LLM APIs, retrieval (RAG) and agent-style workflows
+	- Tools such as LangChain and LlamaIndexs
 3. **Virtual Environments and Virtual Machines:** 
-   - Delve into the foundations of isolated software environments, their importance in AI development, and how virtual machines offer a layer of abstraction over physical hardware.
+   -	Virtual environments and virtual machines
+	-	Reproducibility and system isolation
 4. **Containers:** 
-   - Understand the concept of containerization using tools like Docker, and how they differ from virtual machines.
+   -	Docker and containerized workflows
+	-	Differences from virtual machines
 5. **Data Pipelines, & Cloud Storage:** 
-
-   - Learn core data management techniques including ETL and data versioning. Learn to leverage TF Data and TF Records, PyTorch's Dataset and DataLoader for efficient data handling. Also we will learn how cloud storage solutions fit into the AI-Ops ecosystem.solutions. Explore specialized tools for managing large-scale datasets for computer vision and language models. 
+	-	Data ingestion, preprocessing, and versioning
+	-	TF Data, TF Records, PyTorch Dataset/DataLoader
+	-	Cloud storage systems
      ​
-6. **Advanced Training Workflows:** 
-   - We will look into techniques of advanced training workflows, covering experiment tracking with tools like Weights & Biases, leveraging multi-GPU setups for accelerated training, exploring serverless training options using Vertex AI, and fine-tuning large language models (LLMs) . 
+6. **Training Workflows:** 
+	-	Experiment tracking (e.g., Weights & Biases)
+	-	Multi-GPU training and scalable workflows
+	-	Fine-tuning models, including LLMs
 
-7. **Advanced Inference Workflows:** 
-   - Understand the nuances of model optimization techniques like distillation, quantization, compression, and Low-Rank Approximation (LORA). We then move to model deployment, hosting, and serving large language models (LLMs) effectively. Explore post-deployment monitoring for model performance, data drift detection, and testing strategie.  Cloud Functions, Cloud Run, Kubeflow, and Vertex AI Pipelines.
+7. **Inference and Deployment:** 
+	-	Model optimization (distillation, quantization, LoRA)
+	-	Serving models and post-deployment monitoring
+	-	Tools such as Cloud Run, Vertex AI, and Kubeflow
      ​
-8. **App Design, Setup, and Code Organization:** 
-      - Best practices in designing user-centric AI applications, setting up your development environment, and organizing code for scalability and maintainability.
+8. **Application Design, Setup, and Code Organization:** 
+  	-	Structuring AI applications
+	-	Code organization and system design
         ​
 9. **APIs & Frontend:** 
-      - Learn about RESTful APIs to serve your models and design user interfaces for seamless user interactions.
+   -	Building APIs to serve models
+	-	Designing simple user-facing interfaces
         ​
 10. **Scaling (k8):** 
-       - Delve into Kubernetes, its significance in deploying containerized applications, and understand how to scale your applications to cater to millions of users.
+  	-	Kubernetes and distributed systems
+	-	Scaling applications in production
          ​
 
 
-As we journey through these topics, students will gain a holistic perspective, bridging the gap between model development and real-world deployment. With a blend of theory and practical exercises, this course ensures that by the end, you're not just familiar with these concepts, but proficient in applying them.
+Students will develop an understanding of how to move from models to full systems, with emphasis on practical implementation and real-world constraints.
 
 ---
 
