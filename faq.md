@@ -6,11 +6,11 @@ nav_order: 6
 ---
 ## FAQ 
 
-### 1. How is attendance recorded, and what counts as “attendance”?
+### 1. Is attendance mandatory?
 
-Attendance is recorded by having students complete an online quiz question that includes a secret code displayed on the board during the session. To be counted as present, students must attend at least **80% of the session** and actively participate when prompted. Brief or partial attendance will **not** earn attendance credit.
+For **on-campus students**, attendance is expected and strongly encouraged, but it is not formally tracked. Quizzes are administered during class time, and regular attendance is strongly associated with better performance.
 
-**Note:** This attendance policy does **not** apply to Extension School students, who are not required to attend live sessions either in person or via Zoom.
+**Extension School students** are not required to attend live lectures (in person or via Zoom), but they remain responsible for all course content, quizzes, and deadlines.
 
 ---
 
@@ -20,19 +20,18 @@ Using **small snippets** (e.g., a few lines) for utility or helper functions is 
 
 ---
 
-### 3. Can I collaborate with classmates on assignments?
+### 3. Can I collaborate with classmates on milestones?
 
-Collaboration and discussion are encouraged for learning, but all submitted work must be your own. Avoid dividing tasks that prevent you from understanding the entire assignment. Excessive copying or submitting identical work will be treated as academic dishonesty.
+Collaboration and discussion are encouraged for learnin. Avoid dividing tasks that prevent you from understanding the entire milestone.
 
 ---
 
 ### 4. What are the policies on using AI tools (e.g., ChatGPT) for assignments?
 
-You’re welcome to use large language models (LLMs) as a support tool—for brainstorming, or checking your understanding. Think of them as a helper, not a replacement for your own problem-solving and writing. What you turn in should always reflect **your understanding**. If you have NOT used AI tools, just make a brief note in your code comments or write-up. 
-
+You’re welcome to use large language models (LLMs) as a support tool—for brainstorming, or checking your understanding. Think of them as a helper, not a replacement for your own problem-solving and writing. What you turn in should always reflect **your understanding**. 
 ---
 
-### 5. How are assignments and milestones graded?
+### 5. How are milestones graded?
 
 Detailed rubrics will be provided for each milestone and assignment. Grades will reflect correctness, completeness, code quality, and adherence to requirements. Clear grading criteria are shared upfront to minimize ambiguity.
 
@@ -49,10 +48,11 @@ All project components must be testable and evaluable by the teaching staff. Sub
 No. Sharing, distributing, or publishing course materials outside official channels without explicit permission is prohibited. Violations may lead to disciplinary actions or legal consequences.
 
 ---
-
 ### 8. How do I request accommodations?
 
-Contact the course administrators **as early as possible** to discuss any accessibility needs. Late requests may not be accommodated if they impact course requirements. Refer to Harvard’s accessibility services for support.
+Students seeking accommodations should work directly with Harvard’s Disability Access Office (DAO). Once approved, please share your accommodation letter with the course staff as early as possible so we can make the appropriate arrangements.
+
+Late notifications may limit our ability to implement accommodations in a timely manner.
 
 ---
 
@@ -62,7 +62,7 @@ Reach out to course staff confidentially to discuss any concerns. We prioritize 
 
 ### 10. Is there a class GitHub repository?
 
-Yes. The class [GitHub repository](https://github.com/Harvard-IACS/2024-AC215) contains code examples, notebooks, and resources used throughout the course. You will receive access details during the semester. 
+Yes. The class [GitHub repository](https://github.com/Harvard-IACS/2026-AC215) contains code examples, notebooks, and resources used throughout the course. You will receive access details during the semester. 
 
 ---
 
