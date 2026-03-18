@@ -1,7 +1,7 @@
 ---
-name: Ioana Cristescu
+name: Chris Gumb
 role: Teaching Assistant
 # email: ioana AT gmail
 # website: https://kevinl.info
-photo: ioana.jpg
+photo: chris.jpg
 ---
