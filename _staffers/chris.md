@@ -1,7 +1,7 @@
 ---
 name: Chris Gumb
-role: Teaching Assistant
+role: Preceptor
 # email: ioana AT gmail
 # website: https://kevinl.info
-photo: chris.jpg
+photo: ChrisGumb.jpeg
 ---
