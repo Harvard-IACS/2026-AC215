@@ -215,14 +215,14 @@ If a student has exhausted all late days, late submissions will not be accepted.
 
 ### Feedback & Evaluation
 
-- Continuous feedback is vital for the learning process. While the course has several grading components, always focus on understanding rather than just marks. Please provide feedback on the course structure, content, and delivery so we can continually improve.
+- Continuous feedback is vital for the learning process. While the course has several grading components, always focus on understanding rather than just marks.  
 
 ---
 
 ## Policy on Usage of Publicly Available Class Material
 
 1. **Permitted Use:**  
-   Class Material is made available primarily for the educational benefit of enrolled students and may be used by others for personal educational purposes only.
+   Class materials are provided for students enrolled in the course. They may be used for personal educational purposes only and should not be redistributed.
 
 2. **Prohibited Use:**  
    - Selling or commercializing any part of the Class Material.  
@@ -232,8 +232,6 @@ If a student has exhausted all late days, late submissions will not be accepted.
 3. **Attribution:**  
    Any permitted use of the Class Material must carry appropriate acknowledgment of the source (e.g., the instructor's name, course title, and institution).
 
-4. **Enforcement:**  
-   Failure to comply with this policy may result in legal action and/or disciplinary measures as applicable.
 
 ### Consent
 
@@ -243,26 +241,30 @@ By accessing and using the Class Material, you indicate your acknowledgment and 
 
 ## Accessibility
 
-We are committed to ensuring that this course is accessible to everyone. If you require special accommodations or have any specific needs, please contact the course administrators as soon as possible.
+Harvard students needing academic adjustments or accommodations because of a documented disability must present their Accommodation Action Plan from the [Disability Access Office (DAO)](https://dao.fas.harvard.edu/) and speak with the Course Heads as early as possible in the semester. Failure to do so may result in the Course Heads' inability to respond in a timely manner. All discussions will remain confidential, although Faculty are invited to contact DAO to discuss appropriate implementation.
 
-Adherence to accessibility policies and a commitment to fairness, respect for your learning journey, and consideration for the learning journey of your peers are expected from all students.
+Harvard Extension School is committed to providing an inclusive, accessible academic community for students with disabilities and chronic health conditions. The Accessibility Services Office (ASO) [https://extension.harvard.edu/student-experience/accessibility-services/](https://extension.harvard.edu/student-experience/accessibility-services/) offers accommodations and supports to students with documented disabilities. If you have a need for accommodations or adjustments in your course, please contact the Accessibility Services Office [by email or by phone](https://extension.harvard.edu/student-experience/accessibility-services/#contact).
+
 
 ---
 
-## Inclusion and Belonging Statement
+### Diversity and Inclusion Statement
 
-In this data science class, we strive to create a diverse and inclusive learning environment that respects all identities, including race, gender, class, sexuality, religion, and ability. Our goal is to:
+As educators, we aim to build a diverse, inclusive, and representative community offering opportunities in data science to everyone. We will encourage learning that advances ethical data science, exposes bias in the ways data & data science can be (and all too frequently is) used, and advances research into fair and responsible data science.
 
-- Advance ethical data science and expose biases in its applications.  
-- Encourage a variety of thoughts, perspectives, and experiences.  
-- Be a supportive resource, open to understanding and adapting to your unique needs.
+We need your help to create a learning environment that supports a diversity of thoughts, perspectives, and experiences, and honors your identities (including but not limited to race, gender, class, sexuality, religion, ability, etc.) To help accomplish this:
 
-To foster inclusion:
+* If you have a name and/or set of pronouns that differ from those in your official Harvard records, please let us know!
 
-- Please inform us if your name or pronouns differ from official records.  
-- If something affects your class performance or if you feel uncomfortable with any classroom interactions, reach out to us. You may also find resources at the Harvard Office of Diversity and Inclusion.  
-- Respect and consideration for diverse backgrounds and perspectives are expected from all participants.  
-- Your feedback is essential in enhancing diversity, inclusion, and ethics within our class. Feel free to contact us or submit anonymous suggestions.
+* If you feel like your performance in the class is being impacted by your experiences outside of class, please do not hesitate to come and talk with us. We want to be a resource for you. Remember that you can also submit anonymous feedback (which will lead to us making a general announcement to the class, if necessary, to address your concerns). If you prefer to speak with someone outside of the course, you may find helpful resources at the Harvard Office of Community and Campus Life.
+
+* We (like many people) are still learning about diverse perspectives and identities. If something was said in class (by anyone) that made you feel uncomfortable, please talk to us about it.
+
+* As a participant in course discussions, you are expected to respect your classmates’ diverse backgrounds and perspectives.
+
+Our course will discuss diversity, inclusion, and ethics in data science. Please contact us (in person or electronically) or submit anonymous feedback if you have any suggestions for how we can improve.
+
+For additional resources, guidance, and support related to diversity and inclusion, please refer to the [Harvard Office of Community and Campus Life](https://ccl.harvard.edu/).
 
 ---
 
