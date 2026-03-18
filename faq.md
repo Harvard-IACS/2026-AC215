@@ -29,6 +29,7 @@ Collaboration and discussion are encouraged for learnin. Avoid dividing tasks th
 ### 4. What are the policies on using AI tools (e.g., ChatGPT) for assignments?
 
 You’re welcome to use large language models (LLMs) as a support tool—for brainstorming, or checking your understanding. Think of them as a helper, not a replacement for your own problem-solving and writing. What you turn in should always reflect **your understanding**. 
+
 ---
 
 ### 5. How are milestones graded?
