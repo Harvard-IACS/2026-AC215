@@ -18,26 +18,23 @@ nav_order: 5
 
 {% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
 {% assign num_teaching_assistants = teaching_assistants | size %}
-{% if num_teaching_assistants != 0 %}
 
 {% assign teaching_headtf = site.staffers | where: 'role', 'Head TF' %}
 {% assign num_teaching_headtf = teaching_headtf | size %}
-{% if num_teaching_headtf != 0 %}
 
-
+{% if num_teaching_assistants != 0 or num_teaching_headtf != 0 %}
 
 ## Course Staff
 <div class="staffers-grid">
 {% for staffer in teaching_headtf %}
 {{ staffer }}
 {% endfor %}
-{% endif %}
 
 {% for staffer in teaching_assistants %}
 {{ staffer }}
 {% endfor %}
-{% endif %}
 </div>
+{% endif %}
 
 
 ## Contact 
