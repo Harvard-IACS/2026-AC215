@@ -7,14 +7,19 @@ nav_order: 5
 
 # Staff
 
-## Instructor
+## Instructors
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor1' %}
+{% assign preceptors = site.staffers | where: 'role', 'Preceptor' %}
+<div class="staffers-grid">
 {% for staffer in instructors %}
 {{ staffer }}
 {% endfor %}
 
-
+{% for staffer in preceptors %}
+{{ staffer }}
+{% endfor %}
+</div>
 
 {% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
 {% assign num_teaching_assistants = teaching_assistants | size %}

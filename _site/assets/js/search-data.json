@@ -357,11 +357,11 @@
     "relUrl": "/staff/#staff"
   },"51": {
     "doc": "Staff / Contact",
-    "title": "Instructor",
-    "content": "Pavlos Protopapas . https://www.stellardnn.org/ . ",
-    "url": "/staff/#instructor",
+    "title": "Instructors",
+    "content": "Pavlos Protopapas . https://www.stellardnn.org/ . Chris Gumb . ",
+    "url": "/staff/#instructors",
     
-    "relUrl": "/staff/#instructor"
+    "relUrl": "/staff/#instructors"
   },"52": {
     "doc": "Staff / Contact",
     "title": "Course Staff",
