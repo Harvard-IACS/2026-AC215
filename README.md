@@ -23,7 +23,7 @@ seo:
 {:toc}
 
 ---
-draft: March 17, 2026  
+draft: March 27, 2026  
 
 ---
 
@@ -126,7 +126,7 @@ It's important to note that while prior knowledge in these areas will provide a 
 
 - **Sessions:** Structured lectures focusing on the core topics.  
 - **Office Hours:** Dedicated time with your Teaching Fellow (TF) for questions, clarifications, or project guidance.  
-- **Quizzes (6 total; best 4 of 6 count):** Short, in-class, closed-book assessments designed to evaluate understanding of core concepts.
+- **Quizzes (6 total; best 4 of 6 count):** Short assessments designed to evaluate understanding of core concepts. Quizzes are **in-person for on-campus students** and **online for DCE students**.
 - **Team Projects:** Collaborate with classmates to build a fully functional AI application.  
 - **Discussion Forums:** Engage in peer-to-peer learning, discussions, and knowledge sharing.  
 - **Supplementary Readings:** To complement the topics covered in lectures and enrich your academic comprehension, a selection of readings has been curated. As this is an evolving field, the ability to continuously update your knowledge through independent reading is an integral part of the course.
@@ -159,8 +159,8 @@ The heart of this course is experiential learning. We fervently believe that you
 | ------------------------------------------------------------ | ------ |
 | [MS1](https://harvard-iacs.github.io/2026-AC215/milestone1/) | 4%     |
 | [MS2](https://harvard-iacs.github.io/2026-AC215/milestone2/) | 10%    |
-| [MS3](https://harvard-iacs.github.io/2026-AC215/milestone3/) | 22%    |
-| [MS4](https://harvard-iacs.github.io/2026-AC215/milestone4/) | 14%    |
+| [MS3](https://harvard-iacs.github.io/2026-AC215/milestone3/) | 18%    |
+| [MS4](https://harvard-iacs.github.io/2026-AC215/milestone4/) | 18%    |
 | [MS5](https://harvard-iacs.github.io/2026-AC215/milestone5/) | 34%    |
 | Quizzes (6 total; best 4 count)                             | 16%    |
 
@@ -178,29 +178,31 @@ For more information about the projects and milestones, you can click the links 
 
 ### Deadline Policy
 
-Consistent and timely completion of assignments is imperative in this course. All course milestones must be submitted by **9:00 PM EST** on the specified due dates.  
+All course milestones must be submitted by **9:00 PM ET** on the specified due dates.
 
-Attendance at lectures and sections is **required for all on-campus students**. The teaching staff will record on-campus attendance. For every **4 sessions attended, on-campus students will earn 1 additional late day**. **Any effort to misrepresent attendance will be considered a violation of the honor code and dealt with accordingly.**
+#### Attendance and participation (on-campus students)
 
-Students start with **zero late days** at the beginning of the semester. **They earn 1 late day for every 4 lectures attended**, encouraging regular participation.
+Per university policy, attendance is required for on-campus students. That said, **we do not take attendance**.
+Whether you attend is your choice — but based on extensive prior course data, students who attend (semi-regularly) tend to perform better.
 
-If a student has **exhausted all their late days**, **late assignments will not be accepted**. The late day policy is designed to provide maximum flexibility upfront and is intended to cover common disruptions such as illness, travel, or busy schedules. As such, additional late days will **not** be granted for these reasons.
+- **Lecture recordings**: Lectures will be recorded, but recording quality may not always be ideal.
+- **No in-class midterm/final**: There is no in-class midterm or final exam.
+- **Showcase**: The main end-of-term in-person requirement is the project showcase (currently scheduled for **Dec 10**, subject to change).
 
-In cases of **serious or extended circumstances** (e.g., prolonged illness, family emergency), students should contact the course staff as soon as possible. In such cases, we may consider alternate arrangements, but please note that extended absences may make it difficult to meet the learning objectives of the course within the semester.
+#### Quizzes and the “best 4 of 6” rule
 
-You are allowed a maximum of **three late days per assignment**.  
+- **On-campus students**: Quizzes are **in person**. There is **no online version** and **no make-ups**.
+- **DCE students**: Quizzes will be **online**.
+- **Maximum flexibility**: We use the “best **4 of 6** count” rule to accommodate common disruptions (illness, interviews, travel, etc.). Beyond this flexibility, exceptions are typically not possible without compromising academic requirements.
 
-For group project milestones, the **total number of late days available to the group must be at least equal to the number of group members multiplied by 4**. This ensures sufficient flexibility for the entire team.
+#### Late days (all students)
 
-If the group’s combined late days do not meet this requirement, the group **cannot** collectively extend the deadline. We encourage groups to plan accordingly and support all members in managing their late days responsibly.
+You have **4 late days total** to use across milestones **MS1–MS4**.
 
-**Final Milestone / Midterms:** No extensions will be permitted for the final milestone or midterms under any circumstances. Therefore, careful time management is strongly encouraged to ensure that you can meet this critical deadline.
+- You may use **at most 2 late days per milestone**.
+- **MS5 (final milestone)**: **No late days and no extensions** under any circumstances.
 
-*If you have a medical or personal emergency, contact us as soon as possible — do not wait until the deadline passes.*
-
-### Extension School Late Days
-
-**Extension School** students are allocated a maximum of **6 late days** with **at most 3 days applied to any single assignment**.
+In extreme medical or personal emergencies, contact the course staff as soon as possible. We will review such situations on a case-by-case basis, at the teaching team’s discretion, and requests must be communicated **before the deadline whenever possible**.
 
 ### Academic Honesty
 
