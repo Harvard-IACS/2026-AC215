@@ -124,12 +124,19 @@ It's important to note that while prior knowledge in these areas will provide a 
 
 ### Course Components
 
-- **Sessions:** Structured lectures focusing on the core topics.  
-- **Office Hours:** Dedicated time with your Teaching Fellow (TF) for questions, clarifications, or project guidance.  
-- **Quizzes (6 total; best 4 of 6 count):** Short assessments designed to evaluate understanding of core concepts. Quizzes are **in-person for on-campus students** and **online for DCE students**.
-- **Team Projects:** Collaborate with classmates to build a fully functional AI application.  
-- **Discussion Forums:** Engage in peer-to-peer learning, discussions, and knowledge sharing.  
-- **Supplementary Readings:** To complement the topics covered in lectures and enrich your academic comprehension, a selection of readings has been curated. As this is an evolving field, the ability to continuously update your knowledge through independent reading is an integral part of the course.
+- **Lectures & Tutorials:** Each class is 2 hours. The first ~75 minutes focus on core concepts. The remaining time is a hands-on tutorial where we apply what you just learned.
+
+- **Support Hours / TF Meetings:**  
+  - **Before MS1 (team formation):** Open support hours with TFs for general questions and guidance.  
+  - **After MS1:** Structured team meetings with your assigned TF, focused on project progress and feedback.
+
+- **Quizzes (6 total; best 4 of 6 count):** Short assessments to evaluate understanding of core concepts. Quizzes are **in-person for on-campus students** and **online for DCE students**.
+
+- **Team Projects:** Collaborate with classmates to build a fully functional AI application.
+
+- **Discussion Forums:** Ask questions, share ideas, and help each other.
+
+- **Supplementary Readings:** Curated materials to deepen understanding. This field moves fast, so developing the habit of independent reading is part of the course.
 
 ### Team Projects: Project-Based Learning: Crafting Your Own AI Solutions
 
