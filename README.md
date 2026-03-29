@@ -48,11 +48,11 @@ The goal is simple: by the end of the course, you should be able to design, buil
 
 ### Course Topics Overview
 
-We have designed an in-depth curriculum to ensure a comprehensive understanding of modern AI systems and MLOps. Here's a closer look at the topics we'll be covering (see [full topics list](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRGX6JiavaCkk11eg-BKSGvU9D5KKXaBONw9ZflnKJK52QUuTTpDnHpBhxSoBf95Q/pubhtml?gid=182104043&single=true) ):
+We have designed an in-depth curriculum to ensure a comprehensive understanding of modern AI systems and MLOps. Here's a closer look at the topics we'll be covering (see the [full topics list](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRGX6JiavaCkk11eg-BKSGvU9D5KKXaBONw9ZflnKJK52QUuTTpDnHpBhxSoBf95Q/pubhtml?gid=182104043&single=true) ):
 
 
 1. **Introduction:** 
-   - Begin with an understanding of the importance of AI-Ops and how it fits in the broader AI and software development ecosystem.
+   - Begin with an understanding of the importance of MLOps and how it fits in the broader AI and software development ecosystem.
 2. **LLM Topics:** 
    - Large Language Models (LLMs) have led to many new tools and agents that students will use in their projects. In these lectures, we'll look at some of these tools, such as LangChain, LlamaIndex, and API-based workflows. We will also explore RAG and agent-based systems.
 3. **Virtual Environments and Virtual Machines:** 
@@ -64,10 +64,10 @@ We have designed an in-depth curriculum to ensure a comprehensive understanding 
    - Learn core data management techniques including ETL and data versioning. Work with TF Data, TF Records, and PyTorch Dataset/DataLoader. We will also cover how cloud storage fits into the broader MLOps ecosystem. Explore specialized tools for managing large-scale datasets for computer vision and language models. 
      ​
 6. **Advanced Training Workflows:** 
-   - We will cover advanced training workflows, covering experiment tracking with tools like Weights & Biases, leveraging multi-GPU setups for accelerated training, exploring serverless training options using Vertex AI, and fine-tuning large language models (LLMs). 
+   - We will cover advanced training workflows, including experiment tracking with tools like Weights & Biases, leveraging multi-GPU setups for accelerated training, exploring serverless training options using Vertex AI, and fine-tuning large language models (LLMs). 
 
 7. **Advanced Inference Workflows:** 
-   - Understand the nuances of model optimization techniques like distillation, quantization, compression, and Low-Rank Adaptation (LoRA). We then move to deployment, hosting, and serving of large language models (LLMs). Explore post-deployment monitoring for model performance, data drift detection, and testing strategies.  Cloud Functions, Cloud Run, Kubeflow, and Vertex AI Pipelines.
+   - Understand the nuances of model optimization techniques like distillation, quantization, compression, and Low-Rank Adaptation (LoRA). We then move to deployment, hosting, and serving of large language models (LLMs). Explore post-deployment monitoring for model performance, data drift detection, and testing strategies, using tools such as Cloud Functions, Cloud Run, Kubeflow, and Vertex AI Pipelines.
      ​
 8. **App Design, Setup, and Code Organization:** 
       - Best practices in designing user-centric AI applications, setting up your development environment, and organizing code for scalability and maintainability.
@@ -103,7 +103,7 @@ To ensure a seamless learning experience and to make the most of this course, pa
 1. **Programming Proficiency in Python:**  
    - A strong command over Python's basic constructs, including functions, classes, and modules. Familiarity with libraries like NumPy, Pandas, Matplotlib is essential, as they form the backbone of many data manipulation tasks in AI.
 
-2. **Deep Learning Framework - Tensorflow or PyTorch:**  
+2. **Deep Learning Framework - TensorFlow or PyTorch:**  
    - A working knowledge of the TensorFlow or PyTorch framework is crucial, as many topics will go into its functionalities and methods. Understanding TensorFlow's/PyTorch's basic operations, data handling, and model building mechanisms will be invaluable.
 
 3. **Basic Shell Commands:**  
@@ -147,7 +147,7 @@ In the dynamic realm of AI and AI-Ops, hands-on experience is paramount. This co
 1. **Crafting Your AI Project:**  
    - Students are expected to conceptualize and develop their own projects. While our teaching staff is here to provide ideas and guidance, the core objective is for each student to nurture and shape their original initiative.  
    - By the end of the semester, the aim is to transform your idea into a fully functional web-app or mobile application.  
-   - Project Scope: Your project should incorporate some element of modeling, ensuring it aligns with the learning objectives of the course. Moreover, it is essential that every component of the project CAN be evaluable by our teaching staff.  
+   - Project Scope: Your project should incorporate some element of modeling, ensuring it aligns with the learning objectives of the course. Moreover, it is essential that every component of the project must be evaluable by our teaching staff.  
    - **Unleash Your Creativity:** Whether you're driven by a start-up vision, by research lab innovations, or inspired by a personal hobby, this is your platform to bring that idea to life.  
 
 2. **A Guided Demonstration by Pavlos:**  
@@ -202,7 +202,7 @@ Whether you attend is your choice — but based on extensive prior course data, 
 
 - **On-campus students**: Quizzes are **in person**. There is **no online version** and **no make-ups**.
 - **DCE students**: Quizzes will be **online**.
-- **Maximum flexibility**: We use the “best **4 of 6** count” rule to accommodate common disruptions (illness, interviews, travel, etc.). Beyond this flexibility, exceptions are typically not possible without compromising academic requirements.
+- **Maximum flexibility**: We use the “best **4 of 6** count” rule to accommodate common disruptions (illness, interviews, travel, etc.). Beyond this flexibility, exceptions are very rare. We enforce this consistently for fairness.
 
 #### Late days (all students)
 
