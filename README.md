@@ -23,7 +23,7 @@ seo:
 {:toc}
 
 ---
-draft: March 27, 2026  
+draft: March 29, 2026  
 
 ---
 
@@ -31,41 +31,43 @@ draft: March 27, 2026
 
 ### Course Introduction
 
-In today’s AI-driven world, building a deep learning model is only half the journey. The real challenge lies in turning that model into a reliable application that is scalable, maintainable, and ready for real-world use. Welcome to AC215/E115: Productionizing AI (Machine Learning Operations), where we explore the full lifecycle of machine learning systems, with a particular focus on Large Language Models (LLMs). This course provides a practical and comprehensive view of the workflow, from refining models to deploying them in production environments.
+In today’s AI-driven world, building a model is only half the journey. The real challenge is turning that model into a system that is reliable, scalable, and usable in practice.
 
-We will dive deep into topics like containerization, cloud functions, data pipelines, and advanced training workflows, with specific emphasis on LLMs. You will learn how to utilize LLM APIs effectively, host APIs, fine-tune LLMs for specific tasks, adapt them to various domains, and build applications around them. Our objective is not only to help you grasp these concepts but also to enable you to build and deploy scalable AI applications. We will examine the particular intricacies of LLMs and their applications in real-world scenarios.
+Welcome to AC215/E115: Productionizing AI. This course focuses on the full lifecycle of machine learning systems, with a strong emphasis on Large Language Models (LLMs). We move beyond model development and focus on what it takes to make systems work in the real world.
 
-Whether you are an AI enthusiast wanting to understand the intricacies of Machine Learning Operations or a seasoned professional aiming to fortify your knowledge, this course promises a comprehensive exploration of the production side of AI, with a spotlight on LLM applications and productionizing.
+You will work with containerization, cloud infrastructure, data pipelines, and modern training workflows. We will cover how to use LLM APIs, build applications around them, fine-tune models for specific tasks, and deploy them at scale. We will also explore emerging patterns such as agentic systems and workflows, where models interact with tools and operate as part of larger pipelines.
+
+The goal is simple: by the end of the course, you should be able to design, build, and deploy a complete AI system.
 
 ### Learning Objectives
 
-- Understand the AI-Ops ecosystem and its role in modern AI systems.
-- Master deployment and scaling of AI models, particularly LLMs.
-- Gain practical skills in containerization, cloud infrastructure, data pipelines, and advanced training workflows.
-- Build scalable AI applications and production systems.
+- Understand the MLOps, LLMOps, and AIOps ecosystem and its role in modern AI systems.
+- Deploy and scale AI models, particularly LLM-based systems.
+- Work with containerization, cloud infrastructure, data pipelines, and advanced training workflows.
+- Build and operate scalable AI applications.
 
 ### Course Topics Overview
 
-We have designed an in-depth curriculum to ensure a comprehensive understanding of AI-Ops. Here's a closer look at the topics we'll be covering (see [full topics list](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRGX6JiavaCkk11eg-BKSGvU9D5KKXaBONw9ZflnKJK52QUuTTpDnHpBhxSoBf95Q/pubhtml?gid=182104043&single=true) ) for a full list of topics):
+We have designed an in-depth curriculum to ensure a comprehensive understanding of modern AI systems and MLOps. Here's a closer look at the topics we'll be covering (see [full topics list](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRGX6JiavaCkk11eg-BKSGvU9D5KKXaBONw9ZflnKJK52QUuTTpDnHpBhxSoBf95Q/pubhtml?gid=182104043&single=true) ):
 
 
 1. **Introduction:** 
    - Begin with an understanding of the importance of AI-Ops and how it fits in the broader AI and software development ecosystem.
 2. **LLM Topics:** 
-   - Large Language Models (LLMs) have led to many new tools and agents that students will use in their projects. In these lectures, we'll look at some of these tools, such as LangChain, LamaIndex, and API calls. We'll also explore RAGS and AI agents, which make it easy to work with LLMs.
+   - Large Language Models (LLMs) have led to many new tools and agents that students will use in their projects. In these lectures, we'll look at some of these tools, such as LangChain, LlamaIndex, and API-based workflows. We will also explore RAG and agent-based systems.
 3. **Virtual Environments and Virtual Machines:** 
    - Delve into the foundations of isolated software environments, their importance in AI development, and how virtual machines offer a layer of abstraction over physical hardware.
 4. **Containers:** 
    - Understand the concept of containerization using tools like Docker, and how they differ from virtual machines.
 5. **Data Pipelines, & Cloud Storage:** 
 
-   - Learn core data management techniques including ETL and data versioning. Learn to leverage TF Data and TF Records, PyTorch's Dataset and DataLoader for efficient data handling. Also we will learn how cloud storage solutions fit into the AI-Ops ecosystem.solutions. Explore specialized tools for managing large-scale datasets for computer vision and language models. 
+   - Learn core data management techniques including ETL and data versioning. Work with TF Data, TF Records, and PyTorch Dataset/DataLoader. We will also cover how cloud storage fits into the broader MLOps ecosystem. Explore specialized tools for managing large-scale datasets for computer vision and language models. 
      ​
 6. **Advanced Training Workflows:** 
-   - We will look into techniques of advanced training workflows, covering experiment tracking with tools like Weights & Biases, leveraging multi-GPU setups for accelerated training, exploring serverless training options using Vertex AI, and fine-tuning large language models (LLMs) . 
+   - We will cover advanced training workflows, covering experiment tracking with tools like Weights & Biases, leveraging multi-GPU setups for accelerated training, exploring serverless training options using Vertex AI, and fine-tuning large language models (LLMs). 
 
 7. **Advanced Inference Workflows:** 
-   - Understand the nuances of model optimization techniques like distillation, quantization, compression, and Low-Rank Approximation (LORA). We then move to model deployment, hosting, and serving large language models (LLMs) effectively. Explore post-deployment monitoring for model performance, data drift detection, and testing strategie.  Cloud Functions, Cloud Run, Kubeflow, and Vertex AI Pipelines.
+   - Understand the nuances of model optimization techniques like distillation, quantization, compression, and Low-Rank Adaptation (LoRA). We then move to deployment, hosting, and serving of large language models (LLMs). Explore post-deployment monitoring for model performance, data drift detection, and testing strategies.  Cloud Functions, Cloud Run, Kubeflow, and Vertex AI Pipelines.
      ​
 8. **App Design, Setup, and Code Organization:** 
       - Best practices in designing user-centric AI applications, setting up your development environment, and organizing code for scalability and maintainability.
@@ -73,12 +75,12 @@ We have designed an in-depth curriculum to ensure a comprehensive understanding 
 9. **APIs & Frontend:** 
       - Learn about RESTful APIs to serve your models and design user interfaces for seamless user interactions.
         ​
-10. **Scaling (k8):** 
-       - Delve into Kubernetes, its significance in deploying containerized applications, and understand how to scale your applications to cater to millions of users.
+10. **Scaling (Kubernetes):** 
+       - Delve into Kubernetes, its significance in deploying containerized applications, and understand how to scale your applications to operate at production scale.
          ​
 
 
-As we journey through these topics, students will gain a holistic perspective, bridging the gap between model development and real-world deployment. With a blend of theory and practical exercises, this course ensures that by the end, you're not just familiar with these concepts, but proficient in applying them.
+As we journey through these topics, students will gain a holistic perspective, bridging the gap between model development and real-world deployment. With a blend of theory and practical exercises, this course ensures that by the end, you should be able to apply them in practice.
 
 ---
 
@@ -92,7 +94,7 @@ As we journey through these topics, students will gain a holistic perspective, b
 
 ### Technologies and Platforms
 
-We will demonstrate most ideas using TensorFlow/PyTorch, utilizing the Google Cloud Platform (GCP). Additionally, tutorials will be provided for AWS for reference purposes.
+We use TensorFlow and PyTorch for examples, with a primary focus on Google Cloud Platform (GCP). Additionally, tutorials will be provided for AWS for reference purposes.
 
 ### Prerequisites
 
@@ -105,7 +107,7 @@ To ensure a seamless learning experience and to make the most of this course, pa
    - A working knowledge of the TensorFlow or PyTorch framework is crucial, as many topics will go into its functionalities and methods. Understanding TensorFlow's/PyTorch's basic operations, data handling, and model building mechanisms will be invaluable.
 
 3. **Basic Shell Commands:**  
-   - Comfortability in navigating the command-line interface (CLI), executing shell commands, and performing basic file operations are foundational for many AI-Ops tasks.
+   - Comfort navigating the command-line interface (CLI), executing shell commands, and performing basic file operations are foundational for many AI-Ops tasks.
 
 4. **Basic Data Structures:**  
    - A good grasp of Python's primary data structures, especially dictionaries and lists, will be instrumental in understanding and manipulating data.
@@ -116,7 +118,7 @@ To ensure a seamless learning experience and to make the most of this course, pa
 6. **General AI and ML Concepts:**  
    - While this course is centered around AI-Ops, a basic understanding of AI and machine learning concepts, including what models are and how they are trained, will set the context for many advanced topics.
 
-It's important to note that while prior knowledge in these areas will provide a solid foundation, the course has been structured to ensure gradual progression. Even if you're not an expert in all of the prerequisites, a willingness to learn and engage actively in the course's hands-on components will be crucial for success. If you find yourself struggling with some concepts, we encourage leveraging the course resources, attending office hours, and participating in peer discussions to reinforce your understanding.
+You do not need to be an expert in all of these areas. However, you should be comfortable learning quickly and working through technical material independently. Use course resources, support hours, and peer discussions as needed.
 
 ---
 
@@ -158,7 +160,7 @@ In the dynamic realm of AI and AI-Ops, hands-on experience is paramount. This co
    - It's imperative to understand that a significant portion of your grade hinges on these milestones. They are not just checkpoints but pivotal phases that contribute to your project's holistic development and your learning journey.
 
 **In Summation:**  
-The heart of this course is experiential learning. We fervently believe that your ideas and paralleling them with structured guidance, we can equip you with the tangible skills essential in today's AI-driven world.
+The heart of this course is experiential learning. We fervently believe that your ideas and paralleling them with structured guidance, we can help you build something real and usable.
 
 ### Grade Distribution
 
@@ -295,4 +297,4 @@ You must **not** be currently enrolled in the course when making this request. I
 
 - ✅ **No submissions.** Auditors should **not submit homework, milestones, or participate in course projects**.
 
-- ✅ **Limited access to course resources.** Auditors may not use resources intended for registered students, including **Ed Discussion,  or TF office hours**.
+- ✅ **Limited access to course resources.** Auditors may not use resources intended for registered students, including **Ed Discussion or TF office hours**.
