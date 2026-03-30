@@ -1,12 +1,12 @@
 ---
-title: Week 9 - Midterm , Guest Lecture
+title: Week 9 - Vertex
 ---
 
-Oct 28
-: Midterm
+Oct 27
+<!-- : Midterm -->
 
 
-Oct 30
-: Guest Lecture - Modal Labs
+Oct 29
+<!-- : Guest Lecture - Modal Labs
 
-: [**Midterm due 10/28**](){: .label .label-red }
+: [**Midterm due 10/28**](){: .label .label-red } -->
