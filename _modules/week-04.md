@@ -1,5 +1,5 @@
 ---
-title: Week 4 - Containers, App Design
+title: Week 4 -  Project Ideation week
 ---
 
 Sep 22

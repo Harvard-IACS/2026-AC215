@@ -1,5 +1,5 @@
 ---
-title: Week 3 - Project Ideation week
+title: Week 3 - Agents
 ---
 
 Sep 15
