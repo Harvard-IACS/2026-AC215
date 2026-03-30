@@ -7,6 +7,4 @@ Oct 27
 
 
 Oct 29
-<!-- : Guest Lecture - Modal Labs
-
-: [**Midterm due 10/28**](){: .label .label-red } -->
+<!-- : Guest Lecture - Modal Labs: [**Midterm due 10/28**](){: .label .label-red } -->
