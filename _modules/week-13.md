@@ -3,11 +3,11 @@ title: Week 13 - Thanksgiving
 ---
 
 
-Nov 25 
+Nov 24
 : Thanksgiving Week
 
 Nov 27
 : Thanksgiving Week
   
 
-: [**M4 due 11/25**](){: .label .label-red }
+<!-- : [**M4 due 11/25**](){: .label .label-red } -->
