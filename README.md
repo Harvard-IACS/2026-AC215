@@ -23,7 +23,7 @@ seo:
 {:toc}
 
 ---
-draft: March 29, 2026  
+draft: April 1, 2026  
 
 ---
 
@@ -48,7 +48,7 @@ The goal is simple: by the end of the course, you should be able to design, buil
 
 ### Course Topics Overview
 
-We have designed an in-depth curriculum to ensure a comprehensive understanding of modern AI systems and MLOps. Here's a closer look at the topics we'll be covering (see the [full topics list](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRGX6JiavaCkk11eg-BKSGvU9D5KKXaBONw9ZflnKJK52QUuTTpDnHpBhxSoBf95Q/pubhtml?gid=182104043&single=true) ):
+We have designed an in-depth curriculum to ensure a comprehensive understanding of modern AI systems and MLOps. The topics include (see the [full topics list](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRGX6JiavaCkk11eg-BKSGvU9D5KKXaBONw9ZflnKJK52QUuTTpDnHpBhxSoBf95Q/pubhtml?gid=182104043&single=true) ):
 
 
 1. **Introduction:** 
@@ -79,9 +79,6 @@ We have designed an in-depth curriculum to ensure a comprehensive understanding 
        - Delve into Kubernetes, its significance in deploying containerized applications, and understand how to scale your applications to operate at production scale.
          ​
 
-
-As we journey through these topics, students will gain a holistic perspective, bridging the gap between model development and real-world deployment. With a blend of theory and practical exercises, this course ensures that by the end, you should be able to apply them in practice.
-
 ---
 
 ## Logistics & Tools
@@ -93,32 +90,38 @@ As we journey through these topics, students will gain a holistic perspective, b
 - **For Extension Students Only:** Via Zoom  
 
 ### Technologies and Platforms
+We use TensorFlow and PyTorch for examples, with a primary focus on Google Cloud Platform (GCP). 
 
-We use TensorFlow and PyTorch for examples, with a primary focus on Google Cloud Platform (GCP). Additionally, tutorials will be provided for AWS for reference purposes.
+Equivalent materials are available for AWS. However, we will not demonstrate AWS in lectures, and support for AWS-specific issues will be limited.
 
 ### Prerequisites
 
-To ensure a seamless learning experience and to make the most of this course, participants are expected to come with a foundational knowledge in the following areas:
+You are expected to be comfortable with the following:
 
-1. **Programming Proficiency in Python:**  
-   - A strong command over Python's basic constructs, including functions, classes, and modules. Familiarity with libraries like NumPy, Pandas, Matplotlib is essential, as they form the backbone of many data manipulation tasks in AI.
+1. **Python Programming**  
+   - Writing functions, using classes, and organizing code into modules  
+   - Familiarity with libraries such as NumPy, Pandas, and Matplotlib  
 
-2. **Deep Learning Framework - TensorFlow or PyTorch:**  
-   - A working knowledge of the TensorFlow or PyTorch framework is crucial, as many topics will go into its functionalities and methods. Understanding TensorFlow's/PyTorch's basic operations, data handling, and model building mechanisms will be invaluable.
+2. **Deep Learning (TensorFlow or PyTorch)**  
+   - Basic model building, training, and data handling  
+   - You should have trained simple models before  
 
-3. **Basic Shell Commands:**  
-   - Comfort navigating the command-line interface (CLI), executing shell commands, and performing basic file operations are foundational for many AI-Ops tasks.
+3. **Command Line Basics**  
+   - Navigating directories, running scripts, and basic file operations  
 
-4. **Basic Data Structures:**  
-   - A good grasp of Python's primary data structures, especially dictionaries and lists, will be instrumental in understanding and manipulating data.
+4. **Core Python Data Structures**  
+   - Lists, dictionaries, and how to manipulate them  
 
-5. **File I/O:**  
-   - Knowledge of basic file input/output operations in Python, including reading from and writing to files, is vital for tasks involving data storage and manipulation.
+5. **File I/O**  
+   - Reading from and writing to files  
 
-6. **General AI and ML Concepts:**  
-   - While this course is centered around AI-Ops, a basic understanding of AI and machine learning concepts, including what models are and how they are trained, will set the context for many advanced topics.
+6. **Basic ML Concepts**  
+   - What a model is, how it is trained, and how it is evaluated  
 
-You do not need to be an expert in all of these areas. However, you should be comfortable learning quickly and working through technical material independently. Use course resources, support hours, and peer discussions as needed.
+You do **not** need to be an expert in all of these areas. However, you should be comfortable learning quickly and working through technical material independently.
+
+If you are unsure whether you meet these prerequisites, a simple guideline is:  
+         If you have completed an introductory machine learning course and have written Python code for it, you should be prepared.
 
 ---
 
@@ -136,33 +139,39 @@ You do not need to be an expert in all of these areas. However, you should be co
 
 - **Team Projects:** Collaborate with classmates to build a fully functional AI application.
 
-- **Discussion Forums:** Ask questions, share ideas, and help each other.
 
 - **Supplementary Readings:** Curated materials to deepen understanding. This field moves fast, so developing the habit of independent reading is part of the course.
 
-### Team Projects: Project-Based Learning: Crafting Your Own AI Solutions
+### Team Projects
 
-In the dynamic realm of AI and AI-Ops, hands-on experience is paramount. This course encourages each student to bring a unique perspective by working on self-conceived projects. Here's what you need to know:
+You will **design and build your own project** in a team. The staff will help you scope and refine the idea, but the direction and execution are yours.
 
-1. **Crafting Your AI Project:**  
-   - Students are expected to conceptualize and develop their own projects. While our teaching staff is here to provide ideas and guidance, the core objective is for each student to nurture and shape their original initiative.  
-   - By the end of the semester, the aim is to transform your idea into a fully functional web-app or mobile application.  
-   - Project Scope: Your project should incorporate some element of modeling, ensuring it aligns with the learning objectives of the course. Moreover, it is essential that every component of the project must be evaluable by our teaching staff.  
-   - **Unleash Your Creativity:** Whether you're driven by a start-up vision, by research lab innovations, or inspired by a personal hobby, this is your platform to bring that idea to life.  
+By the end of the term, you should have a **working web or mobile application** that:
+- includes a **meaningful modeling component** (beyond simple API calls), and
+- is **fully evaluable** by the teaching staff (i.e., we can access, run, and assess all major components without relying on private or inaccessible systems).
+The expectation is a project comparable in scope to a small production-ready application.
 
-2. **A Guided Demonstration by Pavlos:**  
-   - We, the teaching team, will undertake a project that Pavlos [proposes](http://formaggio.me) throughout the semester. This serves as a demonstration and reference point.  
-   - Each week will spotlight a different facet of Pavlos' project development. This structured showcase offers students practical insight into course concepts.  
-   - Parallelly, students will be prompted to integrate the week's learnings into their projects, ensuring steady progress toward their end goals.
+1. **Project Development**  
+   - You will propose and develop your own project idea.  
+   - The goal is to build something functional and meaningful, not just a prototype.  
+   - Your project should integrate modeling with a complete system (data, training, deployment, and interface).
 
-3. **Milestones and Assessment:**  
-   - The course will be punctuated with key milestones, designed to assess your project's evolution and your grasp of the AI-Ops concepts. Details of these milestones will be shared in due course.  
-   - It's imperative to understand that a significant portion of your grade hinges on these milestones. They are not just checkpoints but pivotal phases that contribute to your project's holistic development and your learning journey.
+2. **Guided Example Project**  
+   - The teaching team will develop a reference project throughout the semester ([Formaggio](http://formaggio.me)).  
+   - Each week, we will highlight one aspect of this system and connect it to course topics.  
+   - You are expected to apply similar ideas to your own project as the course progresses.
 
-**In Summation:**  
-The heart of this course is experiential learning. We fervently believe that your ideas and paralleling them with structured guidance, we can help you build something real and usable.
+3. **Milestones and Evaluation**  
+   - The project is structured through a series of milestones.  
+   - These milestones are a major component of your grade and track your progress from idea to final system.  
+   - Details for each milestone will be provided during the semester.
+
+**In summary:**  
+The goal is simple: build something real. Your project should be an end-to-end solution that includes modeling, infrastructure, and a usable interface.
 
 ### Grade Distribution
+
+The table below reflects how we weight **steady project progress** and **understanding of core ideas** (quizzes) relative to the full arc above.
 
 | Milestone                                                    | Weight |
 | ------------------------------------------------------------ | ------ |
@@ -191,7 +200,7 @@ All course milestones must be submitted by **9:00 PM ET** on the specified due d
 
 #### Attendance and participation (on-campus students)
 
-Per university policy, attendance is required for on-campus students. That said, **we do not take attendance**.
+Per university policy, attendance is required for on-campus students. However, we do not take attendance and will not enforce it directly. 
 Whether you attend is your choice — but based on extensive prior course data, students who attend (semi-regularly) tend to perform better.
 
 - **Lecture recordings**: Lectures will be recorded, but recording quality may not always be ideal.
@@ -215,18 +224,14 @@ In extreme medical or personal emergencies, contact the course staff as soon as 
 
 ### Academic Honesty
 
-- This course places a strong emphasis on ethical behavior. Whether it's ethically handling data or attributing the work of others, students are expected to maintain high standards of integrity.  
+- Students are expected to maintain high standards of academic integrity.
 - **Acceptable Behaviors:** Discussing course materials, engaging in office hours, debugging with peers, using and citing small portions of code found online, seeking online knowledge, and seeking guidance from tutors.  
 - **Unacceptable Behaviors:** Accessing or sharing solutions before submission, plagiarizing, not citing sources of external code or techniques, paying or offering payment for coursework, and sharing course material with future potential students.  
 - Engaging in unacceptable behaviors will lead to disciplinary action. When in doubt, always consult the course instructors.
 
 ### Collaboration & Teamwork
 
-- Collaboration is encouraged, especially for projects. However, ensure you contribute equally and do not divide tasks in a way that prevents you from understanding all parts of the assignment.
-
-### Feedback & Evaluation
-
-- Continuous feedback is vital for the learning process. While the course has several grading components, always focus on understanding rather than just marks. Please provide feedback on the course structure, content, and delivery so we can continually improve.
+- Collaboration is encouraged, especially for projects. However, all team members are expected to understand and be able to explain all parts of the project.
 
 ---
 
