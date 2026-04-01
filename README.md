@@ -211,6 +211,11 @@ Whether you attend is your choice — but based on extensive prior course data, 
 
 - **On-campus students**: Quizzes are **in person**. There is **no online version** and **no make-ups**.
 - **DCE students**: Quizzes will be **online**.
+
+- **Format:** Quizzes are short (20–30 minutes) and conducted during class time.  
+- **Content:** Quizzes include a mix of conceptual questions and short coding tasks (e.g., reading, completing, or modifying code).  
+- **Scope:** Quizzes focus on recently covered material and are designed to test practical understanding rather than memorization.
+
 - **Maximum flexibility**: We use the “best **4 of 6** count” rule to accommodate common disruptions (illness, interviews, travel, etc.). Beyond this flexibility, exceptions are very rare. We enforce this consistently for fairness.
 
 #### Late days (all students)
