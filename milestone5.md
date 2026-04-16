@@ -5,26 +5,25 @@ parent: Projects
 nav_order: 5
 ---
 
-# Milestone 5: Final Project Delivery
+## Milestone 5: Final Project Delivery
 
-### Key dates:
+### Key Dates
 
-- Showcase: 12/10
-
-- Due Date:  12/11
-
-
+- **Due:** 12/11
+- **Showcase:** 12/10
 
 ---
-## Overview
+
+### Overview
 The final milestone focuses on three key areas:
 1. Production-ready deployment with Kubernetes and Ansible.
 2. Public communication of results through a live showcase.
 
 ---
 
-## Required Deliverables
-### 1. Technical Implementation
+### Required Deliverables
+
+#### 1. Technical Implementation
 - **Kubernetes Deployment**:
   - Deploy the application to a Kubernetes cluster.
   - Demonstrate basic scaling by manually increasing and decreasing the  load.
@@ -44,7 +43,7 @@ The final milestone focuses on three key areas:
     - Validation checks to ensure only models meeting performance thresholds are deployed.
 
 
-### 2. Documentation
+#### 2. Documentation
 - **GitHub Repository**:
   - Include a well-structured and modular codebase.
   - Provide a comprehensive README file with the following sections:
@@ -56,7 +55,7 @@ The final milestone focuses on three key areas:
 
 
 
-### 3. Presentation Materials
+#### 3. Presentation Materials
 - **Video Presentation**:
   - Record a **6-minute video** covering the following:
     - Problem statement and the proposed solution.
@@ -73,7 +72,7 @@ The final milestone focuses on three key areas:
 
 
 
-### 4. Showcase (Dec 10th)
+#### 4. Showcase (Dec 10th)
 - **Event Format**:
   - Each team will have **45 minutes** during the live showcase to present their project.
   - Participants will visit your booth to interact with your application and learn about your implementation.
@@ -89,12 +88,16 @@ The final milestone focuses on three key areas:
   - Clarity of presentation and engagement with participants.
 
 
-## Submission Instructions
+---
+
+### Submission Instructions
 - Submit all deliverables (GitHub repository link, video file, blog post link, and self/peer review forms) via the course submission portal by **11:59 PM, December 11th**.
 - No late submissions
 
 
-## Evaluation Criteria
+---
+
+### Evaluation Criteria
 1. **GitHub (35%)**: Technical Depth, Content, Clarity, Coding Style
 2. **Documentation (25%)**: README and technical report are clear, complete, and easy to follow.
 3. **Presentation and Showcase (40%)**:

@@ -6,13 +6,9 @@ nav_order: 2
 
 ---
 
-### Milestone 2: _MLOps Infrastructure_  
+## Milestone 2: MLOps Infrastructure
 
-**Building Containers and ML Components**
-
----
-
-### Key Date
+### Key Dates
 
 - **Due:** 10/20
 
@@ -26,6 +22,8 @@ You will set up working environments and containerize components for reproducibi
 - **Vision / Other Teams:** Create a robust data setup, fine-tune models for the specific task, and run documented experiments on different model architectures.  
 
 By the end, each team should have the required components in place and a **mock-up of the final application** (refining or extending Milestone 1).
+
+---
 
 ---
 

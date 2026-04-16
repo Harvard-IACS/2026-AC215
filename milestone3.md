@@ -5,15 +5,17 @@ parent: Projects
 nav_order: 3
 ---
 
-## Milestone 3 : Integration and Deployment
+## Milestone 3: Integration and Deployment
 
 These guidelines are meant to provide general direction for preparing your Milestone 3 submission. Every project is unique, so if you believe your work doesn't fully fit within these expectations, please discuss it with your TF. The goal is to ensure that your submission aligns with the spirit of the assignment while still reflecting the specific goals and scope of your project.
 
-**Key Date**
+### Key Dates
 
-- Due: 11/12
+- **Due:** 11/12
 
-**Overview**
+---
+
+### Overview
 
 In the weeks since Milestone 2, we've covered:
 
@@ -27,43 +29,47 @@ In the weeks since Milestone 2, we've covered:
 
 For this milestone, your goal is to **integrate your model into a running system**. You should have a working end-to-end application — from training and deployment to a user-facing interface.
 
-**Requirements**
+---
 
-1. Advanced Training Workflows
+### Requirements
+
+#### 1. Advanced Training Workflows
 
    - Experiment tracking using Weights & Biases (W&B) or an equivalent tool.
    - Serverless training on Vertex AI (or documented equivalent), with at least one training run logged and reproducible.
    - If applicable: multi-GPU training or distributed training setup.
 
-2. Serverless Deployment
+#### 2. Serverless Deployment
 
    - Deploy your model or API using Cloud Functions or Cloud Run.
    - The service should be publicly accessible (or accessible to the teaching staff).
    - Document the deployment configuration and how to redeploy.
 
-3. ML Workflows with Vertex AI
+#### 3. ML Workflows with Vertex AI
 
    - At least one automated ML pipeline or workflow using Vertex AI Pipelines or equivalent.
    - Workflow should cover data preprocessing, model training, and/or evaluation steps.
 
-4. Production Monitoring
+#### 4. Production Monitoring
 
    - Basic monitoring in place: logging, error tracking, and/or performance metrics.
    - Document what is being monitored and how to access logs or dashboards.
 
-5. Working API
+#### 5. Working API
 
    - A functional API that exposes your model's predictions.
    - API should be documented (endpoints, input/output format, example requests).
    - API should be tested (unit tests or integration tests).
 
-6. Functional Frontend
+#### 6. Functional Frontend
 
    - A user-facing interface connected to your API.
    - The frontend should allow a user to interact with your model end-to-end.
    - Can be a simple web app, Streamlit app, or equivalent — polish is not the priority; functionality is.
 
-**Deliverables**
+---
+
+### Deliverables
 
 Note: All deliverables must be submitted via GitHub (milestone3 branch), submit full commit hash on Canvas.
 
@@ -81,7 +87,9 @@ Note: All deliverables must be submitted via GitHub (milestone3 branch), submit 
    - The deployed service responding to a request.
    - The frontend interacting with the API.
 
-**Evaluation Criteria**
+---
+
+### Evaluation Criteria
 
 Your submission will be assessed based on:
 

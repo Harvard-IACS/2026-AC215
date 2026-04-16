@@ -5,11 +5,12 @@ parent: Projects
 nav_order: 1
 ---
 
-### Project Milestone 1 (the Promytheus phase): Project Proposals & Team Formation
+## Milestone 1: Project Proposals & Team Formation
 
-**Key dates:**
-- Project proposals due: 09/29  
-- Staff feedback: TBD  
+### Key Dates
+
+- **Due:** 09/29
+- Staff feedback: TBD
 
 ---
 
@@ -106,6 +107,8 @@ The scope of your project is largely up to you and your team. Whether it’s sim
 
 ---
 
+---
+
 ### Deliverables & Submission Guidelines
 
 - **Deliverable:** A Statement of Work (SOW) proposal  
@@ -115,6 +118,8 @@ The scope of your project is largely up to you and your team. Whether it’s sim
 - **Team Registration:** Ensure your team name and members are listed in the shared spreadsheet  
 
 ⚠️ Proposals without (a) data (Step 3) or (b) scope and preliminary design (Step 4) will not be accepted.  
+
+---
 
 ---
 
