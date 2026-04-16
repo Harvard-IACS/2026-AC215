@@ -8,8 +8,8 @@ nav_order: 1
 ### Project Milestone 1 (the Promytheus phase): Project Proposals & Team Formation
 
 **Key dates:**
-- Project proposals due: 09/25  
-- Staff feedback: 09/29  
+- Project proposals due: 09/29  
+- Staff feedback: TBD  
 
 ---
 

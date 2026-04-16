@@ -10,7 +10,7 @@ Milestone 4 focuses on developing, testing, and deploying a user-facing applicat
 
 ### Key dates:
 
-- Due date:  11/25
+- Due date:  12/1
 
 
 ### Template Repository
