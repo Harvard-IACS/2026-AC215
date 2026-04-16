@@ -31,67 +31,76 @@ For this milestone, your goal is to **integrate your model into a running system
 
 ---
 
-### Requirements
+### Template Repository
+
+[Milestone 3 Template]()
+
+---
+
+### Objectives
 
 #### 1. Advanced Training Workflows
 
-   - Experiment tracking using Weights & Biases (W&B) or an equivalent tool.
-   - Serverless training on Vertex AI (or documented equivalent), with at least one training run logged and reproducible.
-   - If applicable: multi-GPU training or distributed training setup.
+- Experiment tracking using Weights & Biases (W&B) or an equivalent tool.
+- Serverless training on Vertex AI (or documented equivalent), with at least one training run logged and reproducible.
+- If applicable: multi-GPU training or distributed training setup.
 
 #### 2. Serverless Deployment
 
-   - Deploy your model or API using Cloud Functions or Cloud Run.
-   - The service should be publicly accessible (or accessible to the teaching staff).
-   - Document the deployment configuration and how to redeploy.
+- Deploy your model or API using Cloud Functions or Cloud Run.
+- The service should be publicly accessible (or accessible to the teaching staff).
+- Document the deployment configuration and how to redeploy.
 
 #### 3. ML Workflows with Vertex AI
 
-   - At least one automated ML pipeline or workflow using Vertex AI Pipelines or equivalent.
-   - Workflow should cover data preprocessing, model training, and/or evaluation steps.
+- At least one automated ML pipeline or workflow using Vertex AI Pipelines or equivalent.
+- Workflow should cover data preprocessing, model training, and/or evaluation steps.
 
 #### 4. Production Monitoring
 
-   - Basic monitoring in place: logging, error tracking, and/or performance metrics.
-   - Document what is being monitored and how to access logs or dashboards.
+- Basic monitoring in place: logging, error tracking, and/or performance metrics.
+- Document what is being monitored and how to access logs or dashboards.
 
 #### 5. Working API
 
-   - A functional API that exposes your model's predictions.
-   - API should be documented (endpoints, input/output format, example requests).
-   - API should be tested (unit tests or integration tests).
+- A functional API that exposes your model's predictions.
+- API should be documented (endpoints, input/output format, example requests).
+- API should be tested (unit tests or integration tests).
 
 #### 6. Functional Frontend
 
-   - A user-facing interface connected to your API.
-   - The frontend should allow a user to interact with your model end-to-end.
-   - Can be a simple web app, Streamlit app, or equivalent — polish is not the priority; functionality is.
+- A user-facing interface connected to your API.
+- The frontend should allow a user to interact with your model end-to-end.
+- Can be a simple web app, Streamlit app, or equivalent — polish is not the priority; functionality is.
 
 ---
 
 ### Deliverables
 
-Note: All deliverables must be submitted via GitHub (milestone3 branch), submit full commit hash on Canvas.
+All deliverables must be submitted via GitHub (milestone3 branch); submit the full commit hash on Canvas.
 
-1. **Code submission** — all code for the above components, well-organized and documented. Any additions or modifications relative to Milestone 2 must be highlighted in the README.md file.
+#### 1. Code Submission
 
-2. **README.md** — updated to describe:
-   - How to reproduce training runs (experiment tracking setup, Vertex AI job configuration).
-   - How to deploy the service (Cloud Functions/Cloud Run config and commands).
-   - How to run the ML pipeline.
-   - How to access the API (endpoints and example calls).
-   - How to launch the frontend.
+- All code for the components above, well-organized and documented.
+- Any additions or modifications relative to Milestone 2 must be highlighted in the README.md file.
 
-3. **Evidence of a running system** — screenshots, logs, or a short screen recording demonstrating:
-   - A training run tracked in W&B (or equivalent).
-   - The deployed service responding to a request.
-   - The frontend interacting with the API.
+#### 2. README.md
+
+- How to reproduce training runs (experiment tracking setup, Vertex AI job configuration).
+- How to deploy the service (Cloud Functions/Cloud Run config and commands).
+- How to run the ML pipeline.
+- How to access the API (endpoints and example calls).
+- How to launch the frontend.
+
+#### 3. Evidence of a Running System
+
+- A training run tracked in W&B (or equivalent).
+- The deployed service responding to a request.
+- The frontend interacting with the API.
 
 ---
 
 ### Evaluation Criteria
-
-Your submission will be assessed based on:
 
 - **Training Workflows (20%):** Experiment tracking is set up and at least one run is logged and reproducible. Serverless training on Vertex AI is documented and functional.
 - **Deployment (25%):** Service is deployed and accessible. Deployment is documented and reproducible.

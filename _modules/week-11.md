@@ -1,11 +1,13 @@
 ---
-title: Week 11 - Deployment
+title: Week 11 - Frontend & Deployment
 ---
 
+Nov 10
+: Frontend
+  : [Lecture 17](/not-yet/)
+
 Nov 12
-<!-- : Automating Software Development: CI/CD with GitHub Actions and other tools I : [Lecture 17]() -->
+: Deployment - Pulumi
+  : [Lecture 18](/not-yet/)
 
-
-<!-- Nov 13 -->
-<!-- : Automating Software Development: CI/CD with GitHub Actions and other tools I  : [Lecture 18]() -->
-
+    [**Quiz 5**](){: .label .label-blue } &nbsp; [**MS3 due 11/12**](){: .label .label-red }

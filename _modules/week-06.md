@@ -1,12 +1,13 @@
 ---
-title: Week 6 - Containers and CI
+title: Week 6 - Containers & CI
 ---
 
 Oct 6
-<!-- : LLM: RAGs / Agents : [Lecture 9](https://edstem.org/us/courses/84347/lessons/150024/slides/869792) -->
+: Containers III
+  : [Lecture 8](/not-yet/)
+
+    [**Quiz 2**](){: .label .label-blue }
 
 Oct 8
-<!-- : LLM: Agents : [Lecture 10](https://edstem.org/us/courses/84347/lessons/150280/slides/871682) -->
-
-
-  
+: Automating Software Development - CI & Unit Testing
+  : [Lecture 9](/not-yet/)

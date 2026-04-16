@@ -1,9 +1,13 @@
 ---
-title: Week 5 - LLMs finetuning and more containers
+title: Week 5 - LLM Finetuning & Containers
 ---
 
 Sep 29
-<!-- : LLM: Instruction Based GPT, ChatGPT : [Lecture 7](https://edstem.org/us/courses/84347/lessons/149686/slides/867434) -->
+: LLM - Finetuning
+  : [Lecture 6](/not-yet/)
+
+    [**MS1 due 09/29**](){: .label .label-red }
 
 Oct 1
-<!-- : 	LLM: ChatGPT : [Lecture 8](https://edstem.org/us/courses/84347/lessons/149873/slides/868980) -->
+: Containers II
+  : [Lecture 7](/not-yet/)

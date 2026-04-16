@@ -1,10 +1,11 @@
 ---
-title: Week 12 - Scaling Kubernetes 
+title: Week 12 - Scaling Kubernetes
 ---
 
 Nov 17
-<!-- : Deployment: Pulumi : [Lecture 19]() -->
+: Scaling - Kubernetes
+  : [Lecture 19](/not-yet/)
 
 Nov 19
-<!-- : Scaling: Kubernetes   : [Lecture 20]() -->
-
+: Automating Software Development - CI/CD with GitHub Actions II
+  : [Lecture](/not-yet/)

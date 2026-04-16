@@ -1,9 +1,13 @@
 ---
-title: Week 10 - APIs and Frontend
+title: Week 10 - Monitoring & APIs
 ---
 
 Nov 3
-<!-- : APIs : [Lecture 15]() -->
+: Evaluating and Monitoring ML Systems in Production
+  : [Lecture 15](/not-yet/)
+
+    [**Quiz 4**](){: .label .label-blue }
 
 Nov 5
-<!-- : Frontend : [Lecture 16](): [**HW2 due 11/06**](){: .label .label-red } -->
+: APIs
+  : [Lecture 16](/not-yet/)

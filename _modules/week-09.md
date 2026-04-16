@@ -1,10 +1,11 @@
 ---
-title: Week 9 - Vertex
+title: Week 9 - Vertex AI & System Tradeoffs
 ---
 
 Oct 27
-<!-- : Midterm -->
-
+: ML Workflows with Vertex AI
+  : [Lecture 13](/not-yet/)
 
 Oct 29
-<!-- : Guest Lecture - Modal Labs: [**Midterm due 10/28**](){: .label .label-red } -->
+: System Tradeoffs - Performance, Cost, and Design Choices
+  : [Lecture 14](/not-yet/)
