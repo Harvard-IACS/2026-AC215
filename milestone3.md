@@ -7,8 +7,6 @@ nav_order: 3
 
 ## Milestone 3: Integration and Deployment
 
-These guidelines are meant to provide general direction for preparing your Milestone 3 submission. Every project is unique, so if you believe your work doesn't fully fit within these expectations, please discuss it with your TF. The goal is to ensure that your submission aligns with the spirit of the assignment while still reflecting the specific goals and scope of your project.
-
 ### Key Dates
 
 - **Due:** 11/12
@@ -16,6 +14,8 @@ These guidelines are meant to provide general direction for preparing your Miles
 ---
 
 ### Overview
+
+These guidelines are meant to provide general direction for preparing your Milestone 3 submission. Every project is unique, so if you believe your work doesn't fully fit within these expectations, please discuss it with your TF. The goal is to ensure that your submission aligns with the spirit of the assignment while still reflecting the specific goals and scope of your project.
 
 In the weeks since Milestone 2, we've covered:
 

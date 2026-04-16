@@ -14,11 +14,17 @@ nav_order: 1
 
 ---
 
+### Overview
+
+For the first milestone, your team will **propose a project** that aligns with your personal, professional, and academic interests and passions.
+
+Allowing you to propose your own projects will enhance your engagement and lead to better learning outcomes. This approach will also foster independence, critical thinking, and creativity, preparing you for real-world scenarios where you may be required to initiate and lead your own projects. Call on your inner data scientist and take charge of your project experience.
+
+---
+
 ### Objectives
 
-For the first milestone, your team will **propose a project** that aligns with your personal, professional, and academic interests and passions.  
-
-Allowing you to propose your own projects will enhance your engagement and lead to better learning outcomes. This approach will also foster independence, critical thinking, and creativity, preparing you for real-world scenarios where you may be required to initiate and lead your own projects. Call on your inner data scientist and take charge of your project experience.  
+Complete the four steps below to submit a valid project proposal.
 
 ---
 

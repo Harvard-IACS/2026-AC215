@@ -21,7 +21,7 @@ The final milestone focuses on three key areas:
 
 ---
 
-### Required Deliverables
+### Deliverables
 
 #### 1. Technical Implementation
 - **Kubernetes Deployment**:

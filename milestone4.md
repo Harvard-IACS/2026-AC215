@@ -3,14 +3,19 @@ layout: page
 title: Milestone 4
 parent: Projects
 nav_order: 4
+---
 
 ## Milestone 4: Development and Deployment
-
-Milestone 4 focuses on developing, testing, and deploying a user-facing application that integrates all components from previous milestones. This milestone ensures the project is functional, well-tested, and ready for real-world usage through automation and deployment strategies.
 
 ### Key Dates
 
 - **Due:** 12/1
+
+---
+
+### Overview
+
+Milestone 4 focuses on developing, testing, and deploying a user-facing application that integrates all components from previous milestones. This milestone ensures the project is functional, well-tested, and ready for real-world usage through automation and deployment strategies.
 
 ---
 
