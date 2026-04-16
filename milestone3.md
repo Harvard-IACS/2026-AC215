@@ -33,7 +33,7 @@ For this milestone, your goal is to **integrate your model into a running system
 
 ### Template Repository
 
-[Milestone 3 Template]()
+<span style="color: red">**[ADD LINK]**</span> Milestone 3 Template — URL to be added.
 
 ---
 

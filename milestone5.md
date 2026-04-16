@@ -25,7 +25,7 @@ The final milestone focuses on two key areas:
 
 ### Template Repository
 
-[Milestone 5 Template]()
+<span style="color: red">**[ADD LINK]**</span> Milestone 5 Template — URL to be added.
 
 ---
 

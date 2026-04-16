@@ -48,7 +48,7 @@ The goal is simple: by the end of the course, you should be able to design, buil
 
 ### Course Topics Overview
 
-We have designed an in-depth curriculum to ensure a comprehensive understanding of modern AI systems and MLOps. The topics include (see the [full topics list](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRGX6JiavaCkk11eg-BKSGvU9D5KKXaBONw9ZflnKJK52QUuTTpDnHpBhxSoBf95Q/pubhtml?gid=182104043&single=true) ):
+We have designed an in-depth curriculum to ensure a comprehensive understanding of modern AI systems and MLOps. The topics include (<span style="color: red">**[ADD LINK — verify 2026 topics list]**</span> [full topics list](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRGX6JiavaCkk11eg-BKSGvU9D5KKXaBONw9ZflnKJK52QUuTTpDnHpBhxSoBf95Q/pubhtml?gid=182104043&single=true)):
 
 
 1. **Introduction:** 
