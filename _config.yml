@@ -29,9 +29,9 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   Canvas:
-    - 'https://canvas.harvard.edu/courses/154355'
+    - 'https://canvas.harvard.edu/courses/170012'
   Ed:
-    - 'https://edstem.org/us/courses/154355/discussion/'
+    - 'https://edstem.org/us/courses/91100/discussion'
   AC215 on GitHub:
     - 'https://github.com/Harvard-IACS/2026-AC215'
 footer_content:
