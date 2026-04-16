@@ -1,0 +1,25 @@
+milestones:
+  - name: MS1
+    title: Project Proposals, Team formation
+    due_date: 2026-09-29
+    grade_percent: 4
+
+  - name: MS2
+    title: MLOps Infrastructure & Advanced Training Workflows
+    due_date: 2026-10-20
+    grade_percent: 10
+
+  - name: MS3
+    title: Midterm Presentation (video)
+    due_date: 2026-11-12
+    grade_percent: 18
+
+  - name: MS4
+    title: Full-Stack Development
+    due_date: 2026-12-01
+    grade_percent: 18
+
+  - name: MS5
+    title: Final Presentation and Deliverables
+    due_date: 2026-12-11
+    grade_percent: 34
