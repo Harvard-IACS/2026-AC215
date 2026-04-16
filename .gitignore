@@ -5,3 +5,19 @@ _site/
 Gemfile.lock
 .specstory/
 .cursorindexingignore
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Claude Code local settings and skills
+.claude/
+
+# Quiz answer keys (do not publish)
+quizzes/
+quiz_lecture_mapping.yaml
