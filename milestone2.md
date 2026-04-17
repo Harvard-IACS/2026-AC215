@@ -26,7 +26,7 @@ By the end, each team should have the required components in place and a **mock-
 
 ### Template Repository
 
-<span style="color: red">**[ADD LINK]**</span> Milestone 2 Template (previous year: `ac2152024_template`) — needs 2026 template URL.
+<span style="color: red">**[ADD LINK]**</span>
 
 ---
 

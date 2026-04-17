@@ -29,7 +29,7 @@ Complete the four steps below to submit a valid project proposal.
 #### 1. Create Teams (Groups of 3–4 Students)
 
 - **Platform for team formation:** You may use the Ed platform to find teammates. Alternatively, you may form teams independently.
-- **Team registration:** <span style="color: red">**[ADD LINK — verify 2026 roster sheet]**</span> Once you have finalized your team, please enter your team name and the names of all team members in [this shared spreadsheet](https://docs.google.com/spreadsheets/d/1aqCV86KroZbTKRhsPAjxzqeVSMoEqHGWZIIBSp9X6LU/edit?usp=sharing).
+- **Team registration:** Once you have finalized your team, please enter your team name and the names of all team members in [this shared spreadsheet](https://docs.google.com/spreadsheets/d/1nuIo1i_mpAnyGEJre4_Skaj4OdPwlQ0YNUtibINTpA8/edit?usp=sharing).
 
 #### 2. Submit Statement of Work (Project Proposal)
 

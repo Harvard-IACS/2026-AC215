@@ -15,8 +15,10 @@ __pycache__/
 .venv/
 venv/
 
-# Claude Code local settings and skills
-.claude/
+# Claude Code local settings (track .claude/commands/ so skills are shared)
+.claude/settings.local.json
+.claude/cache/
+.claude/history.jsonl
 
 # Quiz answer keys (do not publish)
 quizzes/

@@ -21,7 +21,7 @@ Milestone 4 focuses on developing, testing, and deploying a user-facing applicat
 
 ### Template Repository
 
-<span style="color: red">**[ADD LINK]**</span> Milestone 4 Template — URL to be added.
+<span style="color: red">**[ADD LINK]**</span>
 
 ---
 

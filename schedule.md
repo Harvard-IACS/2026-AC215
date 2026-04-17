@@ -25,7 +25,7 @@ Overall schedule can be found [here](https://docs.google.com/spreadsheets/d/e/2P
 
 ### Setup & Installation
 
-Refer to the [setup and installation document](https://docs.google.com/document/d/18FI-qlsSQ3kPve9wPUYQMQyoNcxgjeEHRE7twb7PevM/edit?usp=sharing) for a full list of softwares and tools we will be using in this class
+Refer to the [setup and installation document](https://docs.google.com/document/d/1WR6Ph0EqNb2XHiXP9Pm8aCu62Y6jDLPOiu0S8GBWwnc/edit?usp=sharing) for a full list of softwares and tools we will be using in this class
 
 ### Policy on Usage of Publicly Available Class Material
 
