@@ -134,6 +134,7 @@ If you are unsure whether you meet these prerequisites, a simple guideline is:
 - **Support Hours / TF Meetings:**  
   - **Before MS1 (team formation):** Open support hours with TFs for general questions and guidance.  
   - **After MS1:** Structured team meetings with your assigned TF, focused on project progress and feedback.
+  - **MS2–MS4 evaluations:** Each of these milestones is evaluated **during your regular weekly TF meeting** as a **15-minute team presentation (with slides) to your assigned project TF**. The TF will ask questions of the team and of individual members about both the progress shown in the slides and the details of your GitHub repository.
 
 - **Quizzes (6 total; best 4 of 6 count):** Short assessments to evaluate understanding of core concepts. Quizzes are **in-person for on-campus students** and **online for DCE students**.
 
@@ -164,6 +165,8 @@ The expectation is a project comparable in scope to a small production-ready app
 3. **Milestones and Evaluation**  
    - The project is structured through a series of milestones.  
    - These milestones are a major component of your grade and track your progress from idea to final system.  
+   - **MS2, MS3, and MS4 are evaluated through a 15-minute team presentation (with slides) to your assigned project TF**, held during your regular weekly TF meeting. The TF will ask questions of the team and of individual students, covering both the slides and the contents of your GitHub repository. Every team member must be prepared to answer questions on **all** elements of the project — there is no "I didn't do that part." If you cannot speak to a component, that component is not considered learned, regardless of who wrote the code.
+   - MS1 is submitted as a written proposal; MS5 is evaluated through the final video, blog post, and the Dec 10 showcase.
    - Details for each milestone will be provided during the semester.
 
 **In summary:**  
@@ -236,7 +239,7 @@ In extreme medical or personal emergencies, contact the course staff as soon as 
 
 ### Collaboration & Teamwork
 
-- Collaboration is encouraged, especially for projects. However, all team members are expected to understand and be able to explain all parts of the project.
+- Collaboration is encouraged, especially for projects. **However, every team member is expected to understand and be able to explain every part of the project** — code, infrastructure, modeling, deployment, and design decisions. During milestone evaluations, TFs will direct questions to specific team members, and "I didn't work on that part" is not an acceptable answer. Divide the labor however you like, but make sure the *understanding* is shared across the team.
 
 ---
 

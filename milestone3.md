@@ -100,11 +100,11 @@ All deliverables must be submitted via GitHub (milestone3 branch); submit the fu
 
 ---
 
-### Evaluation Criteria
+### TF Presentation & Evaluation
 
-- **Training Workflows (20%):** Experiment tracking is set up and at least one run is logged and reproducible. Serverless training on Vertex AI is documented and functional.
-- **Deployment (25%):** Service is deployed and accessible. Deployment is documented and reproducible.
-- **ML Pipeline (15%):** At least one automated pipeline is implemented and documented.
-- **Monitoring (10%):** Basic monitoring is in place and documented.
-- **API (15%):** API is functional, documented, and tested.
-- **Frontend (15%):** Frontend is functional and connects end-to-end to the model.
+This milestone is evaluated through a **15-minute team presentation (with slides) to your assigned project TF**, held during your regular weekly TF meeting.
+
+- **Format:** 15 minutes of team-led presentation, followed by Q&A from the TF.
+- **Q&A scope:** The TF will ask questions of the team **and of individual members**, covering both the slides and the details of your GitHub repository (code, configs, infrastructure, tests, design choices).
+- **Shared accountability:** Every team member must be prepared to answer questions on **all** parts of the project. "I didn't do that part" is not an acceptable answer. Divide the labor however you choose — but the *understanding* must be shared across the entire team.
+- **Slides:** Bring slides that walk through what you built, why, and what's next. Be ready to navigate to specific files in your repository when asked.

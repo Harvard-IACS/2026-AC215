@@ -19,3 +19,9 @@ Project Milestones - Overview
 | **MS5**        | <!-- *Final Presentation and Deliverables* - Students will complete the project by deploying and scaling it, documenting the work through a Medium blog post, a 6-minute video presentation, and a well-structured GitHub repository. --><br /><br /> Complete the project with Kubernetes deployment, Ansible-automated provisioning, a CI/CD pipeline with ≥70% test coverage, a Medium blog post, a 6-minute video, and a live demo at the Dec 10 showcase. | **12/11**    | **34**      |
 
 Guidelines, submission instruction for milestones (and medium page) for future project events will be posted as they approach.
+
+## Evaluation Format
+
+- **MS1** is submitted as a written proposal (PDF on Canvas).
+- **MS2, MS3, and MS4** are evaluated through a **15-minute team presentation (with slides) to your assigned project TF**, held during your regular weekly TF meeting. The TF will ask questions of the team and of individual students, covering both the slides and the contents of the GitHub repository. **Every team member must be prepared to answer questions on all parts of the project** — code, data, infrastructure, modeling, deployment, and design decisions. "I didn't do that part" is not an acceptable answer.
+- **MS5** is evaluated through the final video, blog post, GitHub repository, and the Dec 10 showcase.

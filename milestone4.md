@@ -87,3 +87,14 @@ Detailed explanations of the testing strategy and implemented tests.
 
 - **Testing tools used:** (e.g., PyTest).
 - **Instructions to run tests manually:** For developers to replicate test results locally.
+
+---
+
+### TF Presentation & Evaluation
+
+This milestone is evaluated through a **15-minute team presentation (with slides) to your assigned project TF**, held during your regular weekly TF meeting.
+
+- **Format:** 15 minutes of team-led presentation, followed by Q&A from the TF.
+- **Q&A scope:** The TF will ask questions of the team **and of individual members**, covering both the slides and the details of your GitHub repository (code, configs, infrastructure, tests, design choices).
+- **Shared accountability:** Every team member must be prepared to answer questions on **all** parts of the project. "I didn't do that part" is not an acceptable answer. Divide the labor however you choose — but the *understanding* must be shared across the entire team.
+- **Slides:** Bring slides that walk through what you built, why, and what's next. Be ready to navigate to specific files in your repository when asked.
