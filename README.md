@@ -178,11 +178,11 @@ The table below reflects how we weight **steady project progress** and **underst
 
 | Milestone                                                    | Weight |
 | ------------------------------------------------------------ | ------ |
-| [MS1](https://harvard-iacs.github.io/2026-AC215/milestone1/) | 4%     |
-| [MS2](https://harvard-iacs.github.io/2026-AC215/milestone2/) | 10%    |
+| [MS1](https://harvard-iacs.github.io/2026-AC215/milestone1/) | 8%     |
+| [MS2](https://harvard-iacs.github.io/2026-AC215/milestone2/) | 14%    |
 | [MS3](https://harvard-iacs.github.io/2026-AC215/milestone3/) | 18%    |
 | [MS4](https://harvard-iacs.github.io/2026-AC215/milestone4/) | 18%    |
-| [MS5](https://harvard-iacs.github.io/2026-AC215/milestone5/) | 34%    |
+| [MS5](https://harvard-iacs.github.io/2026-AC215/milestone5/) | 26%    |
 | Quizzes (6 total; best 4 count)                             | 16%    |
 
 For more information about the projects and milestones, you can click the links above or visit the [project page](https://harvard-iacs.github.io/2026-AC215/projects/).

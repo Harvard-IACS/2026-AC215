@@ -15,12 +15,12 @@ nav_order: 2
 
 ### Overview
 
-This milestone focuses on building the core infrastructure for your MLOps projects. You will set up working environments and containerize components for reproducibility.
+This milestone focuses on moving from proposal to implementation. You will set up reproducible working environments, containerize core components, and establish foundational data operations.
 
-- **LLM teams:** Build a RAG workflow, including data collection, chunking, and integration with a vector database.
-- **Vision / other teams:** Create a robust data setup, fine-tune models for the specific task, and run documented experiments on different model architectures.
+- **LLM teams:** Build an initial RAG-ready workflow (data collection, chunking, and vector database integration at a basic functional level).
+- **Vision / other teams:** Build a robust data ingestion/preprocessing workflow and train or adapt a baseline model.
 
-By the end, each team should have the required components in place and a **mock-up of the final application** (refining or extending Milestone 1).
+By the end, each team should have the required components in place and an **initial working app skeleton** informed by the Milestone 1 mock-up.
 
 ---
 
@@ -32,7 +32,7 @@ By the end, each team should have the required components in place and a **mock-
 
 ### Objectives
 
-Build a reproducible, containerized pipeline and set up the data and model components described below.
+Build a reproducible, containerized pipeline and establish practical data management and application foundations.
 
 #### 1. Virtual Environment Setup
 
@@ -44,21 +44,23 @@ Build a reproducible, containerized pipeline and set up the data and model compo
 - Containerize each component (e.g., ingestion, preprocessing, RAG steps).
 - Compose them into a single pipeline that runs start-to-finish.
 - The pipeline must be runnable with one command (e.g., `docker compose up` or `make run`).
+- Include basic data/version tracking (e.g., dataset snapshot IDs, file versions, or a lightweight versioning tool).
 
 #### 3. Teams Using LLMs
 
-- Implement a RAG pipeline with data collection, chunking, and vector database integration.
+- Implement an initial RAG pipeline with data collection, chunking, and vector database integration.
+- Show at least one complete retrieval flow from query to retrieved context.
 
 #### 4. Teams Using Vision or Other Modalities
 
 - Create a robust data ingestion and preprocessing pipeline.
-- Fine-tune models for your specific task.
-- Experiment with different model architectures and document results.
+- Train or adapt a baseline model for your task.
+- Document early experiments and rationale for next technical decisions.
 
 #### 5. Application Mock-up
 
-- Submit a working prototype or mock-up.
-- If submitted in Milestone 1, refine or extend it based on feedback.
+- Submit a simple working app skeleton or clickable mock-up.
+- Refine or extend the Milestone 1 design based on feedback and what you learned during implementation.
 
 ---
 
@@ -81,16 +83,17 @@ Build a reproducible, containerized pipeline and set up the data and model compo
 - Containerized RAG pipeline with scripts for chunking, vectorization, and DB integration.
 - Documentation of the pipeline design and usage.
 - Logs showing pipeline runs with sample data.
+- Evidence of one end-to-end retrieval example.
 
 #### 4. Teams Using Vision or Other Modalities
 
 - Containerized pipeline for data ingestion and preprocessing.
-- Model fine-tuning scripts with documentation of datasets, hyperparameters, and model versions.
-- Experiment logs showing results across models, architectures, or techniques.
+- Baseline model training/adaptation scripts with documentation of datasets, key hyperparameters, and model versions.
+- Experiment logs showing early results and planned next iteration.
 
 #### 5. Application Mock-up
 
-- Application mock-up or wireframe showing UI and back-end interaction.
+- Application mock-up/wireframe plus a minimal working app skeleton showing basic UI and back-end interaction.
 
 ---
 
