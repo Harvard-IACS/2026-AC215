@@ -77,8 +77,6 @@ For this milestone, your goal is to **integrate your model into a running system
 
 ### Deliverables
 
-All deliverables must be submitted via GitHub (milestone3 branch); submit the full commit hash on Canvas.
-
 #### 1. Code Submission
 
 - All code for the components above, well-organized and documented.
@@ -97,6 +95,12 @@ All deliverables must be submitted via GitHub (milestone3 branch); submit the fu
 - A training run tracked in W&B (or equivalent).
 - The deployed service responding to a request.
 - The frontend interacting with the API.
+
+---
+
+### Submission Instructions
+
+All deliverables must be submitted via GitHub (**milestone3** branch); submit the full commit hash on Canvas by **9:00 PM ET, November 12th**.
 
 ---
 

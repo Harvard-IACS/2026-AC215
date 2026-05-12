@@ -99,7 +99,7 @@ Build a reproducible, containerized pipeline and establish practical data manage
 
 ### Submission Instructions
 
-All deliverables must be submitted via GitHub (**milestone2** branch); submit the full commit hash on Canvas by **11:59 PM, October 20th**.
+All deliverables must be submitted via GitHub (**milestone2** branch); submit the full commit hash on Canvas by **9:00 PM ET, October 20th**.
 
 ---
 

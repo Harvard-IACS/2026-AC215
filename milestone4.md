@@ -92,7 +92,7 @@ Detailed explanations of the testing strategy and implemented tests.
 
 ### Submission Instructions
 
-All deliverables must be submitted via GitHub (**milestone4** branch); submit the full commit hash on Canvas by **11:59 PM, December 1st**.
+All deliverables must be submitted via GitHub (**milestone4** branch); submit the full commit hash on Canvas by **9:00 PM ET, December 1st**.
 
 ---
 
