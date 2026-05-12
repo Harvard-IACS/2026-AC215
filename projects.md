@@ -18,7 +18,9 @@ Project Milestones - Overview
 | **MS4**        | <!-- *Full-Stack Development -*  Develop, test, and deploy a user-facing application integrating all previous components, with clean code, robust APIs, CI setup, and automated testing for real-world usage. --><br /><br /> Deploy a production-ready application. Teams implement infrastructure-as-code with Pulumi, Kubernetes for scaling, and a full CI/CD pipeline with GitHub Actions including automated testing with ≥50% coverage. | **12/1** | **18**      |
 | **MS5**        | <!-- *Final Presentation and Deliverables* - Students will complete the project by deploying and scaling it, documenting the work through a Medium blog post, a 6-minute video presentation, and a well-structured GitHub repository. --><br /><br /> Complete the project with Kubernetes deployment, a CI/CD pipeline with ≥70% test coverage, a Medium blog post, a 6-minute video, and a live demo at the Dec 10 showcase. | **12/11**    | **26**      |
 
-Guidelines, submission instruction for milestones (and medium page) for future project events will be posted as they approach.
+**Detailed instructions and submission requirements for each milestone are available on their respective pages:** [MS1](milestone1.md), [MS2](milestone2.md), [MS3](milestone3.md), [MS4](milestone4.md), and [MS5](milestone5.md).
+
+**Total project points: 84** (MS1: 8, MS2: 14, MS3: 18, MS4: 18, MS5: 26)
 
 ## Evaluation Format
 

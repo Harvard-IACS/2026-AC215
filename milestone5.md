@@ -104,8 +104,7 @@ Submit the video in **MP4 format** with a minimum resolution of 720p.
 
 ### Evaluation Criteria
 
-- **GitHub (35%):** Technical depth, content, clarity, coding style.
-- **Documentation (25%):** README and technical report are clear, complete, and easy to follow.
-- **Presentation and Showcase (40%):**
-  - Video and blog post effectively communicate the project's value and technical details.
-  - Engagement during the live showcase demonstrates clarity and understanding.
+- **GitHub Repository (10 points / ~38%):** Technical depth, final code quality, 70% test coverage, ML workflow validation, coding style, and repository structure.
+- **Video Presentation (7 points / ~27%):** Clarity, technical depth, demo quality, and communication of challenges and solutions.
+- **Blog Post (4 points / ~15%):** Writing quality, accessibility for general audience, visuals, and effectiveness in communicating project value.
+- **Showcase (5 points / ~19%):** Live demo functionality, booth presentation, engagement with visitors, and overall clarity of communication.

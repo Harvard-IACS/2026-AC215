@@ -97,6 +97,12 @@ Build a reproducible, containerized pipeline and establish practical data manage
 
 ---
 
+### Submission Instructions
+
+All deliverables must be submitted via GitHub (**milestone2** branch); submit the full commit hash on Canvas by **11:59 PM, October 20th**.
+
+---
+
 ### TF Presentation & Evaluation
 
 This milestone is evaluated through a **15-minute team presentation (with slides) to your assigned project TF**, held during your regular weekly TF meeting.

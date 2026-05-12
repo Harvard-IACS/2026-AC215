@@ -90,6 +90,12 @@ Detailed explanations of the testing strategy and implemented tests.
 
 ---
 
+### Submission Instructions
+
+All deliverables must be submitted via GitHub (**milestone4** branch); submit the full commit hash on Canvas by **11:59 PM, December 1st**.
+
+---
+
 ### TF Presentation & Evaluation
 
 This milestone is evaluated through a **15-minute team presentation (with slides) to your assigned project TF**, held during your regular weekly TF meeting.
