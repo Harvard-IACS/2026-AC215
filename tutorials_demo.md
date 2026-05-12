@@ -182,7 +182,7 @@ nav_order: 2
 
 ## Tutorial 26: Deployment of the full app to GCP
 - **Lecture**: [L20](../schedule/)
-- **Description**: Deployment to GCP using Ansible. Manual steps to deploy the app to GCP and automate using Ansible.
+- **Description**: Deployment to GCP. Manual steps to deploy the app to GCP.
 - **GCP GitHub URL**: [App v3: Deployment to GCP](https://github.com/dlops-io/cheese-app-v3?tab=readme-ov-file#deployment-to-gcp)
 
 

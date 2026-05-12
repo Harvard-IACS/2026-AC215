@@ -18,7 +18,7 @@ nav_order: 5
 
 The final milestone focuses on two key areas:
 
-1. Production-ready deployment with Kubernetes and Ansible.
+1. Production-ready deployment with Kubernetes.
 2. Public communication of results through a live showcase.
 
 ---
@@ -36,11 +36,7 @@ The final milestone focuses on two key areas:
 - Deploy the application to a Kubernetes cluster.
 - Demonstrate basic scaling by manually increasing and decreasing the load.
 
-#### 2. Ansible Playbooks for Automated Deployment
-
-- Write Ansible playbooks to automate the provisioning and deployment of your infrastructure and application, including the Kubernetes cluster.
-
-#### 3. CI/CD Pipeline Implementation
+#### 2. CI/CD Pipeline Implementation
 
 Set up a CI/CD pipeline using *GitHub Actions*. The pipeline should:
 
