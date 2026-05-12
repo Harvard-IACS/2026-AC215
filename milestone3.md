@@ -92,9 +92,11 @@ For this milestone, your goal is to **integrate your model into a running system
 
 #### 3. Evidence of a Running System
 
+Include screenshots (in the README or a dedicated folder under `docs/` ) showing:
+
 - A training run tracked in W&B (or equivalent).
-- The deployed service responding to a request.
-- The frontend interacting with the API.
+- The deployed service responding to a request (e.g., a `curl` call screenshot showing the response).
+- The frontend interacting with the API end-to-end.
 
 ---
 
