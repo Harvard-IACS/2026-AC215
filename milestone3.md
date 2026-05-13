@@ -25,9 +25,8 @@ In the weeks since Milestone 2, we've covered:
 - System tradeoffs: performance, cost, and design choices.
 - Evaluating and monitoring ML systems in production.
 - APIs for exposing model functionality.
-- Frontend development for user-facing interfaces.
 
-For this milestone, your goal is to **integrate your model into a running system**. You should have a working end-to-end application — from training and deployment to a user-facing interface.
+For this milestone, your goal is to **integrate your model into a running system**. You should have a working backend — covering training, deployment, an API, and monitoring.
 
 ---
 
@@ -67,12 +66,6 @@ For this milestone, your goal is to **integrate your model into a running system
 - API should be documented (endpoints, input/output format, example requests).
 - API should be tested (unit tests or integration tests).
 
-#### 6. Functional Frontend
-
-- A user-facing interface connected to your API.
-- The frontend should allow a user to interact with your model end-to-end.
-- Can be a simple web app, Streamlit app, or equivalent — polish is not the priority; functionality is.
-
 ---
 
 ### Deliverables
@@ -88,7 +81,6 @@ For this milestone, your goal is to **integrate your model into a running system
 - How to deploy the service (Cloud Functions/Cloud Run config and commands).
 - How to run the ML pipeline.
 - How to access the API (endpoints and example calls).
-- How to launch the frontend.
 
 #### 3. Evidence of a Running System
 
@@ -96,7 +88,6 @@ Include screenshots (in the README or a dedicated folder under `docs/` ) showing
 
 - A training run tracked in W&B (or equivalent).
 - The deployed service responding to a request (e.g., a `curl` call screenshot showing the response).
-- The frontend interacting with the API end-to-end.
 
 ---
 
