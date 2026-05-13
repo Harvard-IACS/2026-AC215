@@ -41,159 +41,180 @@ nav_order: 2
 
 ---
 
-## Tutorial 5: Mega Pipeline App
+## Tutorial 5: LLM-RAG
+- **Lecture**: [Lecture 3](https://edstem.org/us/courses/97373/lessons/166029/)
+- **Description**: Building a RAG System with Vector DB and LLM
+- **GCP GitHub URL**: [LLM-1](https://github.com/dlops-io/llm-rag)
+
+---
+
+## Tutorial 6: LLM-Agents (Phidata)
+- **Lecture**: [Lecture 4](https://edstem.org/us/courses/97373/lessons/166030/)
+- **Description**: LLM Agents with Phidata (Notebook)
+- **Colab Notebook**: [LLM-Agents](https://colab.research.google.com/drive/1UVn3L6KQgsrVLnLRaMVbpV3VJr_i5MLW?usp=sharing)
+
+---
+
+## Tutorial 7: LLM-Agents
+- **Lecture**: [Lecture 5](https://edstem.org/us/courses/97373/lessons/166031/)
+- **Description**: LLM Agents
+- **GCP GitHub URL**: [LLM-Agents](https://github.com/dlops-io/llm-rag?tab=readme-ov-file#agents)
+
+---
+
+## Tutorial 8: LLM-Fine Tuning
+- **Lecture**: [Lecture 6](https://edstem.org/us/courses/97373/lessons/166032/)
+- **Description**: LLM Fine Tuning using PEFT
+- **GCP GitHub URL**: [LLM Fine Tuning](https://github.com/dlops-io/llm-finetuning)
+
+---
+
+## Tutorial 9: LLM Finetuning Hooks A
+- **Lecture**: [Lecture 6](https://edstem.org/us/courses/97373/lessons/166032/)
+- **Description**: LLM Finetuning Hooks A
+- **GCP GitHub URL**: [LLM Finetuning Hooks](https://github.com/dlops-io/llm-finetuning_hooksA)
+
+---
+
+## Tutorial 10: LLM Finetuning Hooks B
+- **Lecture**: [Lecture 6](https://edstem.org/us/courses/97373/lessons/166032/)
+- **Description**: LLM Finetuning Hooks B
+- **GCP GitHub URL**: [LLM Finetuning Hooks](https://github.com/dlops-io/llm-finetuning_hooksB)
+
+---
+
+## Tutorial 11: Mega Pipeline App
 - **Lecture**: [Lecture 7](https://edstem.org/us/courses/97373/lessons/166033/)
 - **Description**: Build a Mega Pipeline App.
 - **GCP GitHub URL**: [Mega Pipeline App](https://github.com/dlops-io/mega-pipeline)
 - **AWS GitHub URL**: [Mega Pipeline App](https://github.com/dlops-io/mega-pipeline-aws)
 
-## Tutorial 5B: Mega Pipeline App with Flexible Workflow
+---
+
+## Tutorial 12: Mega Pipeline App with Flexible Workflow
 - **Lecture**: [Lecture 8](https://edstem.org/us/courses/97373/lessons/166034/)
 - **Description**: Build a Mega Pipeline App with Flexible Workflow.
 - **GCP GitHub URL**: [Mega Pipeline App (Flexible Workflow)](https://github.com/dlops-io/mega-pipeline/tree/flexible-workflow)
 
 ---
 
-## Tutorial 6: Label Studio
+## Tutorial 13: CI/CD with GitHub Actions and other tools
+- **Lecture**: [Lecture 9](https://edstem.org/us/courses/97373/lessons/166035/)
+- **Description**: Simple CI
+- **GCP GitHub URL**: [Simple CI](https://github.com/dlops-io/simple_CI)
+
+---
+
+## Tutorial 14: Label Studio
 - **Lecture**: [Lecture 10](https://edstem.org/us/courses/97373/lessons/166036/)
 - **Description**: Learn how to use Label Studio for data labeling.
 - **GitHub URL**: [Label Studio](https://github.com/dlops-io/data-labeling) [GCP and AWS]
 
 ---
 
-## Tutorial 7: Data Versioning 
+## Tutorial 15: Data Versioning
 - **Lecture**: [Lecture 10](https://edstem.org/us/courses/97373/lessons/166036/)
 - **Description**: Learn about versioning practices in development. Particularly, how to use DVC for data versioning.
 - **GCP GitHub URL**: [DVC](https://github.com/dlops-io/data-versioning)
 
 ---
 
-## Tutorial 8: LLM-RAG
-- **Lecture**: [Lecture 3](https://edstem.org/us/courses/97373/lessons/166029/)
-- **Description**: Building a RAG System with Vector DB and LLM
-- **GCP GitHub URL**: [LLM-1](https://github.com/dlops-io/llm-rag)
-
-
-## Tutorial 9: LLM-Agents
-- **Lecture**: [Lecture 4](https://edstem.org/us/courses/97373/lessons/166030/)
-- **Description**: LLM Agents with Phidata (Notebook)
-- **Colab Notebook**: [LLM-Agents](https://colab.research.google.com/drive/1UVn3L6KQgsrVLnLRaMVbpV3VJr_i5MLW?usp=sharing)
-
-
-## Tutorial 10: LLM-Agents
-- **Lecture**: [Lecture 5](https://edstem.org/us/courses/97373/lessons/166031/)
-- **Description**: LLM Agents 
-- **GCP GitHub URL**: [LLM-Agents](https://github.com/dlops-io/llm-rag?tab=readme-ov-file#agents)
-
-
-## Tutorial 11: LLM-Fine Tuning
-- **Lecture**: [Lecture 6](https://edstem.org/us/courses/97373/lessons/166032/)
-- **Description**: LLM Fine Tuning using PEFT
-- **GCP GitHub URL**: [LLM Fine Tuning](https://github.com/dlops-io/llm-finetuning)
-
-
-## Tutorial 12: Model Compression and Distillation
-- **Lecture**: []
-- **Description**: Model Compression and Distillation
-- **Colab Notebook**: [Model Compression and Distillation]
-
-
-## Tutorial 13: Experiment Tracking
+## Tutorial 16: Experiment Tracking
 - **Lecture**: [Lecture 12](https://edstem.org/us/courses/97373/lessons/166038/)
 - **Description**: Classification Model, Experiment Tracking
 - **Colab Notebook A**: [Cheese Classification Models](https://colab.research.google.com/drive/1h6xRhjILxaUosXlZ5ZC1NZbP0AOHALTl?usp=sharing)
 - **Colab Notebook B**: [Experiment Tracking with W&B](https://colab.research.google.com/drive/1aAE5vR9r6Syh4heZboDbQNZS048VToxS?usp=sharing)
 
+---
 
-## Tutorial 14: Advanced Workflow: Serveless Model Training with Vertex AI 
+## Tutorial 17: Advanced Workflow: Serverless Model Training with Vertex AI
 - **Lecture**: [Lecture 12](https://edstem.org/us/courses/97373/lessons/166038/)
-- **Description**: Serveless Model Training with Vertex AI 
+- **Description**: Serverless Model Training with Vertex AI
 - **GCP GitHub URL**: [Serverless Model Training](https://github.com/dlops-io/model-training)
-- **AWS GitHub URL**: Coming Soon 
+- **AWS GitHub URL**: Coming Soon
 
+---
 
-## Tutorial 15: Cloud Function and Cloud Run 
+## Tutorial 18: Cloud Function and Cloud Run
 - **Lecture**: [Lecture 13](https://edstem.org/us/courses/97373/lessons/166039/)
 - **Description**: Cloud Function and Cloud Run
 - **GCP GitHub URL**: [Cloud Function](https://github.com/dlops-io/serverless-deployment#running-app-as-cloud-function), [Cloud Run](https://github.com/dlops-io/serverless-deployment#running-app-in-cloud-run)
-- **AWS GitHub URL**:  Coming Soon 
+- **AWS GitHub URL**: Coming Soon
 
+---
 
-## Tutorial 16: Model Deployment using Vertex AI
+## Tutorial 19: Model Deployment using Vertex AI
 - **Lecture**: [Lecture 14](https://edstem.org/us/courses/97373/lessons/166040/)
 - **Description**: Model Deployment using Vertex AI
 - **GCP GitHub URL**: [Model Deployment](https://github.com/dlops-io/model-deployment)
 
+---
 
-## Tutorial 17: ML Workflow
-
+## Tutorial 20: ML Workflow
 - **Lecture**: [Lecture 14](https://edstem.org/us/courses/97373/lessons/166040/)
-- **Description**:  Vertex AI ML Workflow for pipeline. Data Processing, data collection, model training, model deployment.
+- **Description**: Vertex AI ML Workflow for pipeline. Data Processing, data collection, model training, model deployment.
 - **GCP GitHub URL**: [ML Workflow](https://github.com/dlops-io/ml-workflow)
 
-## Tutorial 18: Deploy LLM on VM
+---
 
-- **Lecture**: - 
-- **Description**:  Deploy your own LLM on VM. These are the steps to deploy a LLM on VM with all the scripts and code.
-- **GCP GitHub URL**: [LLM on VM](https://github.com/dlops-io/llm-vm)
-
-## Tutorial 19: CI/CD with GitHub Actions and other tools
-- **Lecture**: [Lecture 9](https://edstem.org/us/courses/97373/lessons/166035/)
-- **Description**: Simple CI
-- **GCP GitHub URL**: [Simple CI](https://github.com/dlops-io/simple_CI)
-
-
-## Tutorial 20: LLM Finetuning Hooks
-
-- **Lecture**: [Lecture 6](https://edstem.org/us/courses/97373/lessons/166032/)
-- **Description**:  LLM Finetuning Hooks A
-- **GCP GitHub URL**: [LLM Finetuning Hooks](https://github.com/dlops-io/llm-finetuning_hooksA)
-
-## Tutorial 21: LLM Finetuning Hooks
-
-- **Lecture**: [Lecture 6](https://edstem.org/us/courses/97373/lessons/166032/)
-- **Description**:  LLM Finetuning Hooks B
-- **GCP GitHub URL**: [LLM Finetuning Hooks](https://github.com/dlops-io/llm-finetuning_hooksB)
-
-
-## Tutorial 22: Frontend and FastAPI
+## Tutorial 21: Frontend and FastAPI
 - **Lecture**: [Lecture 17](https://edstem.org/us/courses/97373/lessons/166043/)
 - **Description**: Simple Frontend with FastAPI
 - **GCP GitHub URL**: [App v1](https://github.com/dlops-io/cheese-app-v1)
 
+---
 
-## Tutorial 23: Backend and FastAPI
+## Tutorial 22: Backend and FastAPI
 - **Lecture**: [Lecture 17](https://edstem.org/us/courses/97373/lessons/166043/)
 - **Description**: Cheese App APIs
 - **GCP GitHub URL**: [App v2: FastAPI Backend](https://github.com/dlops-io/cheese-app-v2?tab=readme-ov-file#setup-environments)
 
+---
 
-## Tutorial 24: Frontend Simple
+## Tutorial 23: Frontend Simple
 - **Lecture**: [Lecture 18](https://edstem.org/us/courses/97373/lessons/166044/)
 - **Description**: Frontend Simple
 - **GCP GitHub URL**: [App v2: Frontend Simple](https://github.com/dlops-io/cheese-app-v2?tab=readme-ov-file#tutorial-24-simple-frontend-app)
 
+---
 
-## Tutorial 25: Frontend React
+## Tutorial 24: Frontend React
 - **Lecture**: [Lecture 18](https://edstem.org/us/courses/97373/lessons/166044/)
 - **Description**: Frontend App (React)
 - **GCP GitHub URL**: [App v2: Frontend React](https://github.com/dlops-io/cheese-app-v2?tab=readme-ov-file#tutorial-25-react-frontend-setup)
 
+---
 
-## Tutorial 26: Deployment of the full app to GCP
+## Tutorial 25: Deployment of the full app to GCP
 - **Lecture**: [Lecture 19](https://edstem.org/us/courses/97373/lessons/166045/)
 - **Description**: Deployment to GCP. Manual steps to deploy the app to GCP.
 - **GCP GitHub URL**: [App v3: Deployment to GCP](https://github.com/dlops-io/cheese-app-v3?tab=readme-ov-file#deployment-to-gcp)
 
+---
 
-## Tutorial 27: Deployment with Scaling using Kubernetes
+## Tutorial 26: Deployment with Scaling using Kubernetes
 - **Lecture**: [Lecture 20](https://edstem.org/us/courses/97373/lessons/166046/)
 - **Description**: Deployment with Scaling using Kubernetes
 - **GCP GitHub URL**: [App v3: Deployment with Scaling using Kubernetes](https://github.com/dlops-io/cheese-app-v3?tab=readme-ov-file#deployment-with-scaling-using-kubernetes)
 
+---
 
-## Tutorial 28: Continuous Integration and Continuous Deployment
+## Tutorial 27: Continuous Integration and Continuous Deployment
 - **Lecture**: [Lecture 21](https://edstem.org/us/courses/97373/lessons/166047/)
 - **Description**: Continuous Integration and Continuous Deployment
 - **GCP GitHub URL**: [App v4: Continuous Integration and Continuous Deployment](https://github.com/dlops-io/cheese-app-v4#cheese-app---automation)
 - **AWS GitHub URL**: No K8s [App: AWS - Continuous Integration and Continuous Deployment](https://github.com/dlops-io/cheese-app-aws)
+
+---
+
+## Tutorial 28: Model Compression and Distillation
+- **Lecture**: —
+- **Description**: Model Compression and Distillation
+- **Colab Notebook**: [Model Compression and Distillation]
+
+---
+
+## Tutorial 29: Deploy LLM on VM
+- **Lecture**: —
+- **Description**: Deploy your own LLM on VM. These are the steps to deploy a LLM on VM with all the scripts and code.
+- **GCP GitHub URL**: [LLM on VM](https://github.com/dlops-io/llm-vm)
