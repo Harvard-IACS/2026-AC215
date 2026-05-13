@@ -32,10 +32,11 @@ Milestone 4 focuses on developing, testing, and deploying a user-facing applicat
 - Design the application's overall architecture, including the user interface and underlying code structure.
 - Emphasize clean code organization for maintainability and efficiency.
 
-#### 2. APIs & Frontend Integration
+#### 2. APIs & Frontend
 
-- Develop robust APIs for communication between the front end and back end.
-- Implement a user-friendly front-end interface using these APIs for a seamless user experience.
+- Build on the API delivered in Milestone 3, extending or refining it as needed for the full application.
+- Develop and deploy a user-facing frontend connected to your API that allows end-to-end interaction with your model.
+- Include a screenshot or short demo of the frontend interacting with the API end-to-end.
 
 #### 3. Continuous Integration (CI)
 
