@@ -7,11 +7,11 @@ nav_order: 1
 
 # Schedule
 
-The schedule below is embedded from the **AC215 2026 Main Sheet**. Open it in a new tab for the full view: [AC215 2026 Main Sheet](https://docs.google.com/spreadsheets/d/1bhfpe7UCv-nEqr-Kr6-MH45qlBPqbPFXENJdhDc3ZMc/edit?usp=sharing).
+The schedule below is embedded from the **AC215 2026 Main Sheet**. [Open in a new tab](https://docs.google.com/spreadsheets/d/e/2PACX-1vQLCtLLU0ne8uPlItTIRiO2bRCXKC2orwEQAQCL7SpgXg0IrjAua0LvPff0vGVfuf9NgqDwL91ky5E9/pubhtml?gid=521870746&single=true).
 
 <div style="position: relative; width: 100%; height: 80vh; border: 1px solid #ddd; border-radius: 4px; overflow: hidden;">
   <iframe
-    src="https://docs.google.com/spreadsheets/d/1bhfpe7UCv-nEqr-Kr6-MH45qlBPqbPFXENJdhDc3ZMc/preview?rm=minimal"
+    src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQLCtLLU0ne8uPlItTIRiO2bRCXKC2orwEQAQCL7SpgXg0IrjAua0LvPff0vGVfuf9NgqDwL91ky5E9/pubhtml?gid=521870746&single=true&widget=true&headers=false&chrome=false"
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
     allowfullscreen></iframe>
 </div>
