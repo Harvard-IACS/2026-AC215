@@ -55,6 +55,7 @@ Full cloud deployment, scaling, and CI/CD with deploy-on-merge will be addressed
 
 - Implement CI using GitHub Actions or a similar tool.
 - Automate building, linting, and testing on every commit or pull request so new code is automatically validated. (Continuous *deployment* is covered in Milestone 5.)
+- Reference tutorial: [T13 CI/CD with GitHub Actions (Simple CI)](../tutorials_demo/#tutorial-13-cicd-with-github-actions-and-other-tools).
 
 #### 4. Automated Testing
 
@@ -83,6 +84,8 @@ Working code for APIs and the front-end interface.
 
 - **GitHub repository:** All source code with logical organization and proper documentation.
 - **README file:** Description of application components, setup instructions, and usage guidelines.
+- **Containerization:** The frontend should be containerized alongside the API and any services from MS2 / MS3.
+- **Local Testing:** After bringing the components up, the frontend should be reachable in a browser at a documented local URL (e.g., `http://localhost:3000`), and the API at its documented port (e.g., `http://localhost:9000`).
 
 #### 3. Continuous Integration Setup
 
