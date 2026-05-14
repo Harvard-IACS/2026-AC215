@@ -45,7 +45,11 @@ Full cloud deployment, scaling, and CI/CD with deploy-on-merge will be addressed
 
 - Build on the API delivered in Milestone 3, extending or refining it as needed for the full application.
 - Develop a user-facing frontend connected to your API that allows end-to-end interaction with your model, running in your local environment.
+  - **LLM teams:** typically a chat-style interface (input box, streaming/typed responses, citations or sources where relevant).
+  - **Vision / other teams:** typically an upload-and-results interface (file/image upload, model output, optional confidence or explanation).
+- Cover the basics of usability: a clean responsive layout, loading indicators for long-running calls, and visible error/empty states when things go wrong or no results exist.
 - Include a screenshot or short demo of the frontend interacting with the API end-to-end.
+- Reference tutorials: [T21 Frontend + FastAPI](../tutorials_demo/#tutorial-21-frontend-and-fastapi), [T22 Backend + FastAPI](../tutorials_demo/#tutorial-22-backend-and-fastapi), [T23 Frontend Simple](../tutorials_demo/#tutorial-23-frontend-simple), [T24 Frontend React](../tutorials_demo/#tutorial-24-frontend-react).
 
 #### 3. Continuous Integration (CI)
 
