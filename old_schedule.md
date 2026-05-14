@@ -1,20 +1,28 @@
 ---
 layout: page
-title: Schedule
-description: Course schedule pulled from the AC215 2026 Main Sheet.
-nav_order: 1
+title: Old Schedule
+description: Previous week-by-week schedule built from _modules.
+nav_exclude: true
+search_exclude: true
 ---
 
-# Schedule
+# Old Schedule
 
-The schedule below is embedded from the **AC215 2026 Main Sheet**. Open it in a new tab for the full view: [AC215 2026 Main Sheet](https://docs.google.com/spreadsheets/d/1bhfpe7UCv-nEqr-Kr6-MH45qlBPqbPFXENJdhDc3ZMc/edit?usp=sharing).
+Overall schedule can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSaPiVfDbW8OKMwQQZrOp8SiduXsg1rNHhMjUNjJNAlBrXrIxF6K5SiNiq53upolQ/pubhtml?gid=182104043&single=true).
+ 
 
-<div style="position: relative; width: 100%; height: 80vh; border: 1px solid #ddd; border-radius: 4px; overflow: hidden;">
-  <iframe
-    src="https://docs.google.com/spreadsheets/d/1bhfpe7UCv-nEqr-Kr6-MH45qlBPqbPFXENJdhDc3ZMc/preview?rm=minimal"
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
-    allowfullscreen></iframe>
-</div>
+<style>
+    table {
+        font-size: 0.9em; /* Adjust the size as needed */
+    }
+</style>
+ 
+
+{% for module in site.modules%}
+{{ module }}
+{% endfor %}
+
+ 
 
 ### Setup & Installation
 
@@ -24,7 +32,7 @@ Refer to the [setup and installation document](https://docs.google.com/document/
 
 1. **Permitted Use**: Class Material is made available primarily for the educational benefit of enrolled students and may be used by others for personal educational purposes only.
 
-2. **Prohibited Use**:
+2. **Prohibited Use**: 
    - Selling or commercializing any part of the Class Material.
    - Sharing, distributing, or publishing any part of the Class Material in any form or through any medium without explicit permission from the instructor.
    - Modifying or altering the Class Material to create derivative works.
@@ -36,3 +44,4 @@ Refer to the [setup and installation document](https://docs.google.com/document/
 #### Consent:
 
 By accessing and using the Class Material, you indicate your acknowledgment and acceptance of this policy.
+
