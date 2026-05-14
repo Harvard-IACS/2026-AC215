@@ -5,7 +5,7 @@ parent: Projects
 nav_order: 5
 ---
 
-## Milestone 5: Final Project Delivery
+## Milestone 5: Deployemnt & Final Project Delivery
 
 ### Key Dates
 

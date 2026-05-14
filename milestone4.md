@@ -5,7 +5,7 @@ parent: Projects
 nav_order: 4
 ---
 
-## Milestone 4: Development and Deployment
+## Milestone 4: Design & Development
 
 ### Key Dates
 
@@ -15,8 +15,9 @@ nav_order: 4
 
 ### Overview
 
-Milestone 4 focuses on developing, testing, and deploying a user-facing application that integrates all components from previous milestones. This milestone ensures the project is functional, well-tested, and ready for real-world usage through automation and deployment strategies.
+Milestone 4 focuses on developing, testing, and deploying a user-facing application that integrates all components from previous milestones. This milestone ensures the project is functional, well-tested, and ready for real-world usage through automation and deployment strategies. By the end of this milestone, your project should be **deployment-ready** — meaning that all components run reliably on your local environment and can be packaged or containerized for future cloud deployment.
 
+Full cloud deployment and scalability considerations will be addressed in **Milestone 5**.
 ---
 
 ### Template Repository
@@ -56,8 +57,10 @@ Milestone 4 focuses on developing, testing, and deploying a user-facing applicat
 
 A detailed document outlining the application's architecture, user interface, and code organization.
 
+- **User Interface Mockups / Wireframes:**  Include screenshots of the user interface wireframes or mockups from MS 1 / MS2.
 - **Solution Architecture:** High-level overview of system components and their interactions.
 - **Technical Architecture:** Specific technologies, frameworks, and design patterns used.
+- **Code Organization:** Follow a code organization pattern that cleanly separates code for frontend, backend, and data science tasks. Refer the tutorial on the [demo cheese app](https://github.com/dlops-io/cheese-app-v4)
 
 #### 2. APIs & Frontend Implementation
 
