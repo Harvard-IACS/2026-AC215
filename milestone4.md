@@ -15,9 +15,17 @@ nav_order: 4
 
 ### Overview
 
-Milestone 4 focuses on developing, testing, and deploying a user-facing application that integrates all components from previous milestones. This milestone ensures the project is functional, well-tested, and ready for real-world usage through automation and deployment strategies. By the end of this milestone, your project should be **deployment-ready** — meaning that all components run reliably on your local environment and can be packaged or containerized for future cloud deployment.
+Since Milestone 3, we've covered:
 
-Full cloud deployment and scalability considerations will be addressed in **Milestone 5**.
+- Application design, code organization, and patterns for separating frontend, backend, and data science components.
+- Building APIs with FastAPI and connecting them to user-facing frontends (simple and React-based).
+- Continuous Integration with GitHub Actions: automated builds, linting, and test execution on every commit.
+- Automated testing strategies: unit, integration, and system (end-to-end) tests, and measuring code coverage.
+
+For this milestone, your goal is to **design and develop a user-facing application** that integrates all components from previous milestones, backed by a CI pipeline and an automated test suite. By the end of this milestone, your project should be **deployment-ready** — meaning that all components run reliably in your local environment and are packaged (containerized) so they can be deployed in Milestone 5.
+
+Full cloud deployment, scaling, and CI/CD with deploy-on-merge will be addressed in **Milestone 5**.
+
 ---
 
 ### Template Repository
@@ -36,13 +44,13 @@ Full cloud deployment and scalability considerations will be addressed in **Mile
 #### 2. APIs & Frontend
 
 - Build on the API delivered in Milestone 3, extending or refining it as needed for the full application.
-- Develop and deploy a user-facing frontend connected to your API that allows end-to-end interaction with your model.
+- Develop a user-facing frontend connected to your API that allows end-to-end interaction with your model, running in your local environment.
 - Include a screenshot or short demo of the frontend interacting with the API end-to-end.
 
 #### 3. Continuous Integration (CI)
 
 - Implement CI using GitHub Actions or a similar tool.
-- Automate building, testing, and deployment processes to ensure new code merges are automatically validated.
+- Automate building, linting, and testing on every commit or pull request so new code is automatically validated. (Continuous *deployment* is covered in Milestone 5.)
 
 #### 4. Automated Testing
 
@@ -57,10 +65,13 @@ Full cloud deployment and scalability considerations will be addressed in **Mile
 
 A detailed document outlining the application's architecture, user interface, and code organization.
 
-- **User Interface Mockups / Wireframes:**  Include screenshots of the user interface wireframes or mockups from MS 1 / MS2.
+- **User Interface Mockups / Wireframes:** Include screenshots of the user interface wireframes or mockups from MS1 / MS2, plus the primary user flow(s) walking through the key screens.
 - **Solution Architecture:** High-level overview of system components and their interactions.
 - **Technical Architecture:** Specific technologies, frameworks, and design patterns used.
-- **Code Organization:** Follow a code organization pattern that cleanly separates code for frontend, backend, and data science tasks. Refer the tutorial on the [demo cheese app](https://github.com/dlops-io/cheese-app-v4)
+- **Data Flow Diagram:** How data moves through the system end-to-end (ingestion → preprocessing → model/inference → API → frontend).
+- **Sequence Diagram:** Runtime interaction for at least one primary user flow (e.g., user submits a query → frontend → API → model → response).
+- **API Contract Summary:** Table or short list of endpoints, methods, and request/response shapes. May reference the API docs / OpenAPI spec from MS3.
+- **Code Organization:** Follow a code organization pattern that cleanly separates code for frontend, backend, and data science tasks. Refer to the [template repository](https://github.com/dlops-io) or tutorial on the [demo cheese app](https://github.com/dlops-io/cheese-app-v4).
 
 #### 2. APIs & Frontend Implementation
 
