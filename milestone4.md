@@ -55,6 +55,7 @@ Full cloud deployment, scaling, and CI/CD with deploy-on-merge will be addressed
 
 - Implement CI using GitHub Actions or a similar tool.
 - Automate building, linting, and testing on every commit or pull request so new code is automatically validated. (Continuous *deployment* is covered in Milestone 5.)
+- Reference tutorial: [T13 CI/CD with GitHub Actions (Simple CI)](../tutorials_demo/#tutorial-13-cicd-with-github-actions-and-other-tools).
 
 #### 4. Automated Testing
 
