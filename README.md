@@ -1,7 +1,7 @@
 ---
 layout: home
-title: "AC215: MLOps, LLMOps & AIOps - Productionizing AI Systems"
-nav_exclude: true
+title: Home
+nav_order: 0
 permalink: /:path/
 seo:
   type: Course
