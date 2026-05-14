@@ -84,6 +84,8 @@ Working code for APIs and the front-end interface.
 
 - **GitHub repository:** All source code with logical organization and proper documentation.
 - **README file:** Description of application components, setup instructions, and usage guidelines.
+- **Containerization:** The frontend should be containerized alongside the API and any services from MS2 / MS3.
+- **Local Testing:** After bringing the components up, the frontend should be reachable in a browser at a documented local URL (e.g., `http://localhost:3000`), and the API at its documented port (e.g., `http://localhost:9000`).
 
 #### 3. Continuous Integration Setup
 
