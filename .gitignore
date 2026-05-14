@@ -20,6 +20,7 @@ venv/
 .claude/settings.local.json
 .claude/cache/
 .claude/history.jsonl
+.claude/worktrees/
 
 # Quiz answer keys (do not publish)
 quizzes/

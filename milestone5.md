@@ -5,7 +5,7 @@ parent: Projects
 nav_order: 5
 ---
 
-## Milestone 5: Final Project Delivery
+## Milestone 5: Deployemnt & Final Project Delivery
 
 ### Key Dates
 
@@ -45,7 +45,7 @@ Set up a CI/CD pipeline using *GitHub Actions*. The pipeline should:
 - Deploy updates to the Kubernetes cluster upon merging changes into the main branch.
 - Test coverage must be at least 70% of the lines. Document what functions and modules lack testing.
 
-#### 4. Machine Learning Workflow
+#### 3. Machine Learning Workflow
 
 Demonstrate a production-ready ML workflow, including:
 
