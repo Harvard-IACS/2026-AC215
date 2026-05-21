@@ -15,6 +15,8 @@ nav_order: 2
 
 ### Overview
 
+These guidelines are meant to provide general direction for preparing your Milestone 2 submission. Every project is unique, so if you believe your work doesn't fully fit within these expectations, please discuss it with your TF. The goal is to ensure that your submission aligns with the spirit of the assignment while still reflecting the specific goals and scope of your project.
+
 This milestone focuses on moving from proposal to implementation. You will set up reproducible working environments, containerize core components, and establish foundational data operations.
 
 - **LLM teams:** Build an initial RAG-ready workflow (data collection, chunking, and vector database integration at a basic functional level).
@@ -44,12 +46,12 @@ Build a reproducible, containerized pipeline and establish practical data manage
 - Containerize each component (e.g., ingestion, preprocessing, RAG steps).
 - Compose them into a single pipeline that runs start-to-finish.
 - The pipeline must be runnable with one command (e.g., `docker compose up` or `make run`).
-- Include basic data/version tracking (e.g., dataset snapshot IDs, file versions, or a lightweight versioning tool).
+- Include basic data/version tracking (e.g., dataset snapshot IDs, file versions, or a lightweight versioning tool such as DVC; at minimum, document which data version each container uses).
 
 #### 3. Teams Using LLMs
 
 - Implement an initial RAG pipeline with data collection, chunking, and vector database integration.
-- Show at least one complete retrieval flow from query to retrieved context.
+- Show at least one complete retrieval flow from query to retrieved context (documented with example input and output).
 
 #### 4. Teams Using Vision or Other Modalities
 
@@ -59,7 +61,7 @@ Build a reproducible, containerized pipeline and establish practical data manage
 
 #### 5. Application Mock-up
 
-- Submit a simple working app skeleton or clickable mock-up.
+- Submit a simple working app skeleton or clickable mock-up (can be minimal; basic UI with placeholder functionality is acceptable).
 - Refine or extend the Milestone 1 design based on feedback and what you learned during implementation.
 
 ---

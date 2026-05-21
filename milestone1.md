@@ -34,7 +34,7 @@ Complete the four steps below to submit a valid project proposal.
 #### 2. Submit Statement of Work (Project Proposal)
 
 - **Title and Authors:** An engaging, relevant, and informative title, plus names of all team members with their email addresses.
-- **Background and Motivation:** Brief background on the topic you have chosen. Explain why you find it interesting or important, and mention any previous background, research interests, or readings that have influenced your choice.
+- **Background and Motivation:** Brief background (2-4 paragraphs) on the topic you have chosen. Explain why you find it interesting or important, and mention any previous background, research interests, or readings that have influenced your choice.
 - **Problem Statement (short):** Clearly outline the problem or question your project aims to solve in one or two sentences. You will expand on scope and objectives in Step 4.
 
 #### 3. Discuss Data Sources
@@ -51,7 +51,7 @@ Data is the backbone of any data science project, making it crucial to identify 
 
 #### 4. Define Scope and Preliminary Design
 
-For a project to be considered comprehensive, it should ideally include a few of the following minimum components:
+For a project to be considered comprehensive, it should ideally include at least two or three of the following minimum components:
 
 - **Large or heterogeneous data:** A sizable or diverse dataset that requires careful handling and processing.
 - **Scalability:** Consider how your solution will scale for many users.
@@ -66,14 +66,14 @@ Your Statement of Work must also include:
 - **Research and development:** References to papers, blog posts, or other scholarly materials that support your project.
 - **Fun factor:** Choose a topic or approach that makes the process engaging for your team.
 - **Limitations and risks:** Anticipated challenges such as data quality issues or technical constraints.
-- **Milestones:** Key milestones for both your project and application development, with tentative deadlines.
+- **Milestones:** Key milestones for both your project and application development, with tentative deadlines (month/week is sufficient; exact dates not required).
 
 ---
 
 ### Deliverables
 
 - **Deliverable:** A Statement of Work (SOW) proposal
-- **Length:** 1–2 pages
+- **Length:** 1–2 pages (up to 3 pages is acceptable if needed to fully address all requirements)
 - **Format:** PDF
 - **Submission:** Upload via Canvas
 - **Team registration:** Ensure your team name and members are listed in the shared spreadsheet

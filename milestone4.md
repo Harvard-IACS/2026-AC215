@@ -15,6 +15,8 @@ nav_order: 4
 
 ### Overview
 
+These guidelines are meant to provide general direction for preparing your Milestone 4 submission. Every project is unique, so if you believe your work doesn't fully fit within these expectations, please discuss it with your TF. The goal is to ensure that your submission aligns with the spirit of the assignment while still reflecting the specific goals and scope of your project.
+
 Since Milestone 3, we've covered:
 
 - Application design, code organization, and patterns for separating frontend, backend, and data science components.
@@ -22,7 +24,7 @@ Since Milestone 3, we've covered:
 - Continuous Integration with GitHub Actions: automated builds, linting, and test execution on every commit.
 - Automated testing strategies: unit, integration, and system (end-to-end) tests, and measuring code coverage.
 
-For this milestone, your goal is to **design and develop a user-facing application** that integrates all components from previous milestones, backed by a CI pipeline and an automated test suite. By the end of this milestone, your project should be **deployment-ready** — meaning that all components run reliably in your local environment and are packaged (containerized) so they can be deployed in Milestone 5.
+For this milestone, your goal is to **design and develop a user-facing application** that integrates all components from previous milestones, backed by a CI pipeline and an automated test suite. By the end of this milestone, your project should be **deployment-ready** — meaning that all components run reliably in your local environment and are packaged (containerized) so they can be deployed in Milestone 5. Deployment-ready means: (1) all services run successfully with a single command, (2) the frontend can interact with the backend locally, and (3) no manual configuration is needed to start the application.
 
 Full cloud deployment, scaling, and CI/CD with deploy-on-merge will be addressed in **Milestone 5**.
 
@@ -47,7 +49,7 @@ Full cloud deployment, scaling, and CI/CD with deploy-on-merge will be addressed
 - Develop a user-facing frontend connected to your API that allows end-to-end interaction with your model, running in your local environment.
   - **LLM teams:** typically a chat-style interface (input box, streaming/typed responses, citations or sources where relevant).
   - **Vision / other teams:** typically an upload-and-results interface (file/image upload, model output, optional confidence or explanation).
-- Cover the basics of usability: a clean responsive layout, loading indicators for long-running calls, and visible error/empty states when things go wrong or no results exist.
+- Cover the basics of usability: a clean responsive layout (desktop browser is required; mobile responsiveness is optional), loading indicators for long-running calls, and visible error/empty states when things go wrong or no results exist.
 - Include a screenshot or short demo of the frontend interacting with the API end-to-end.
 - Reference tutorials: [T21 Frontend + FastAPI](../tutorials_demo/#tutorial-21-frontend-and-fastapi), [T22 Backend + FastAPI](../tutorials_demo/#tutorial-22-backend-and-fastapi), [T23 Frontend Simple](../tutorials_demo/#tutorial-23-frontend-simple), [T24 Frontend React](../tutorials_demo/#tutorial-24-frontend-react).
 
@@ -101,7 +103,7 @@ Integration of automated tests within the CI pipeline using GitHub Actions.
 - **Unit tests:** For individual components and functions.
 - **Integration tests:** For integrating multiple components.
 - **System tests:** Covering user flows and interactions.
-- **Test coverage reports:** Integrated into the CI pipeline; code coverage must be at least 50%.
+- **Test coverage reports:** Integrated into the CI pipeline; code coverage must be at least 50% (applies to API and backend code; frontend and data science notebooks are encouraged but not strictly required for this threshold).
 
 #### 5. Test Documentation
 

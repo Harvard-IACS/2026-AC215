@@ -41,13 +41,13 @@ For this milestone, your goal is to **integrate your model into a running system
 #### 1. Advanced Training Workflows
 
 - Experiment tracking using Weights & Biases (W&B) or an equivalent tool.
-- Serverless training on Vertex AI (or documented equivalent), with at least one training run logged and reproducible.
+- Serverless training on Vertex AI (or documented equivalent), with at least one training run logged and reproducible (one successful run is sufficient; multiple experiments are encouraged but not required).
 - If applicable: multi-GPU training or distributed training setup.
 
 #### 2. Serverless Deployment
 
 - Deploy your model or API using Cloud Functions or Cloud Run.
-- The service should be publicly accessible (or accessible to the teaching staff).
+- The service should be publicly accessible or accessible to the teaching staff (if you have concerns about public access, discuss authentication options with your TF).
 - Document the deployment configuration and how to redeploy.
 
 #### 3. ML Workflows with Vertex AI
@@ -57,7 +57,7 @@ For this milestone, your goal is to **integrate your model into a running system
 
 #### 4. Production Monitoring
 
-- Basic monitoring in place: logging, error tracking, and/or performance metrics.
+- Basic monitoring in place: logging, error tracking, and/or performance metrics (at minimum, implement logging with Cloud Logging or equivalent and document how to access logs).
 - Document what is being monitored and how to access logs or dashboards.
 
 #### 5. Working API
