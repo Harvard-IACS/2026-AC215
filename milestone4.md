@@ -51,13 +51,11 @@ Full cloud deployment, scaling, and CI/CD with deploy-on-merge will be addressed
   - **Vision / other teams:** typically an upload-and-results interface (file/image upload, model output, optional confidence or explanation).
 - Cover the basics of usability: a clean responsive layout (desktop browser is required; mobile responsiveness is optional), loading indicators for long-running calls, and visible error/empty states when things go wrong or no results exist.
 - Include a screenshot or short demo of the frontend interacting with the API end-to-end.
-- Reference tutorials: [T21 Frontend + FastAPI](../tutorials_demo/#tutorial-21-frontend-and-fastapi), [T22 Backend + FastAPI](../tutorials_demo/#tutorial-22-backend-and-fastapi), [T23 Frontend Simple](../tutorials_demo/#tutorial-23-frontend-simple), [T24 Frontend React](../tutorials_demo/#tutorial-24-frontend-react).
 
 #### 3. Continuous Integration (CI)
 
 - Implement CI using GitHub Actions or a similar tool.
 - Automate building, linting, and testing on every commit or pull request so new code is automatically validated. (Continuous *deployment* is covered in Milestone 5.)
-- Reference tutorial: [T13 CI/CD with GitHub Actions (Simple CI)](../tutorials_demo/#tutorial-13-cicd-with-github-actions-and-other-tools).
 
 #### 4. Automated Testing
 
@@ -78,7 +76,7 @@ A detailed document outlining the application's architecture, user interface, an
 - **Data Flow Diagram:** How data moves through the system end-to-end (ingestion → preprocessing → model/inference → API → frontend).
 - **Sequence Diagram:** Runtime interaction for at least one primary user flow (e.g., user submits a query → frontend → API → model → response).
 - **API Contract Summary:** Table or short list of endpoints, methods, and request/response shapes. May reference the API docs / OpenAPI spec from MS3.
-- **Code Organization:** Follow a code organization pattern that cleanly separates code for frontend, backend, and data science tasks. Refer to the [template repository](https://github.com/dlops-io) or tutorial on the [demo cheese app](https://github.com/dlops-io/cheese-app-v4).
+- **Code Organization:** Follow a code organization pattern that cleanly separates code for frontend, backend, and data science tasks.
 
 #### 2. APIs & Frontend Implementation
 
