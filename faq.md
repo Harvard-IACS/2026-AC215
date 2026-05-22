@@ -131,3 +131,10 @@ To request permission to audit AC215, email **ac215harvard@gmail.com** with:
 - **No future credit.** Auditors may **not** take this course for credit in the future.
 - **No submissions.** Auditors may **not submit assignments, milestones, or participate in projects**.
 - **Limited access to course resources.** Auditors may **not use Ed Discussion or attend TF support hours**.
+
+
+### 22. Can the group be less than 3 or more than 5 members? 
+- it is very unlikely we will allow it. Team of 2 could be allowed if there is a specific reason. We have never allowed group of 6 in the past! 
+
+### 23. Do you consider the team size in the grading? 
+- Yes. Larger teams are expected to dazzle.

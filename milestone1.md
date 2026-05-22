@@ -26,7 +26,7 @@ Allowing you to propose your own projects will enhance your engagement and lead 
 
 Complete the four steps below to submit a valid project proposal.
 
-#### 1. Create Teams (Groups of 3–4 Students)
+#### 1. Create Teams (Groups of 3–5 Students)
 
 - **Platform for team formation:** You may use the Ed platform to find teammates. Alternatively, you may form teams independently.
 - **Team registration:** Once you have finalized your team, please enter your team name and the names of all team members in [this shared spreadsheet](https://docs.google.com/spreadsheets/d/1nuIo1i_mpAnyGEJre4_Skaj4OdPwlQ0YNUtibINTpA8/edit?usp=sharing).

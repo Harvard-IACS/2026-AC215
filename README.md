@@ -13,6 +13,8 @@ seo:
 # **MLOps & LLMOps: Production AI Systems** - AC215
 {:.no_toc}
 
+**Instructor:** Pavlos Protopapas
+
 <!-- ## **<span style="color: red;">Enrollment is closed - the class has reached capacity.</span>**
 {:.no_toc} -->
 
@@ -23,7 +25,7 @@ seo:
 {:toc}
 
 ---
-draft: April 16, 2026  
+draft: May 16, 2026  
 
 ---
 
@@ -56,28 +58,25 @@ We have designed an in-depth curriculum to ensure a comprehensive understanding 
 2. **LLM Topics:** 
    - Large Language Models (LLMs) have led to many new tools and agents that students will use in their projects. In these lectures, we'll look at some of these tools, such as LangChain, LlamaIndex, and API-based workflows. We will also explore RAG and agent-based systems.
 3. **Virtual Environments and Virtual Machines:** 
-   - Delve into the foundations of isolated software environments, their importance in AI development, and how virtual machines offer a layer of abstraction over physical hardware.
+   - Learn the foundations of isolated software environments, their importance in AI development, and how virtual machines offer a layer of abstraction over physical hardware.
 4. **Containers:** 
    - Understand the concept of containerization using tools like Docker, and how they differ from virtual machines.
-5. **Data Pipelines, & Cloud Storage:** 
+5. **Data Pipelines, & Cloud Storage:**
+   - Learn core data management techniques including ETL and data versioning. Work with TF Data, TF Records, and PyTorch Dataset/DataLoader. We will also cover how cloud storage fits into the broader MLOps ecosystem. Explore specialized tools for managing large-scale datasets for computer vision and language models.
+6. **Advanced Training Workflows:**
+   - We will cover advanced training workflows, including experiment tracking with tools like Weights & Biases, leveraging multi-GPU setups for accelerated training, exploring serverless training options using Vertex AI, and fine-tuning large language models (LLMs).
 
-   - Learn core data management techniques including ETL and data versioning. Work with TF Data, TF Records, and PyTorch Dataset/DataLoader. We will also cover how cloud storage fits into the broader MLOps ecosystem. Explore specialized tools for managing large-scale datasets for computer vision and language models. 
-     ​
-6. **Advanced Training Workflows:** 
-   - We will cover advanced training workflows, including experiment tracking with tools like Weights & Biases, leveraging multi-GPU setups for accelerated training, exploring serverless training options using Vertex AI, and fine-tuning large language models (LLMs). 
-
-7. **Advanced Inference Workflows:** 
+7. **Advanced Inference Workflows:**
    - Understand the nuances of model optimization techniques like distillation, quantization, compression, and Low-Rank Adaptation (LoRA). We then move to deployment, hosting, and serving of large language models (LLMs). Explore post-deployment monitoring for model performance, data drift detection, and testing strategies, using tools such as Cloud Functions, Cloud Run, Kubeflow, and Vertex AI Pipelines.
-     ​
-8. **App Design, Setup, and Code Organization:** 
-      - Best practices in designing user-centric AI applications, setting up your development environment, and organizing code for scalability and maintainability.
-        ​
-9. **APIs & Frontend:** 
-      - Learn about RESTful APIs to serve your models and design user interfaces for seamless user interactions.
-        ​
-10. **Scaling (Kubernetes):** 
-       - Delve into Kubernetes, its significance in deploying containerized applications, and understand how to scale your applications to operate at production scale.
-         ​
+
+8. **App Design, Setup, and Code Organization:**
+   - Best practices in designing user-centric AI applications, setting up your development environment, and organizing code for scalability and maintainability.
+
+9. **APIs & Frontend:**
+   - Learn about RESTful APIs to serve your models and design user interfaces for seamless user interactions.
+
+10. **Scaling (Kubernetes):**
+   - Learn Kubernetes, its significance in deploying containerized applications, and understand how to scale your applications to operate at production scale.
 
 ---
 
@@ -85,9 +84,9 @@ We have designed an in-depth curriculum to ensure a comprehensive understanding 
 
 ### Lectures
 
-- **Location:** SEC 1.321  
-- **Meeting Time:** Tuesday and Thursday 12:45 - 2:45 PM  
-- **For Extension Students Only:** Via Zoom  
+- **Location:** SEC 1.321
+- **Meeting Time:** Tuesday and Thursday 12:45 - 2:45 PM
+- **For Extension Students Only:** Via Zoom
 
 ### Technologies and Platforms
 We use TensorFlow and PyTorch for examples, with a primary focus on Google Cloud Platform (GCP). 
@@ -125,15 +124,13 @@ If you are unsure whether you meet these prerequisites, a simple guideline is:
 
 ---
 
-## Course Components & Requirements
-
-### Course Components
+## Course Components
 
 - **Lectures & Tutorials:** Each class is 2 hours. The first ~75 minutes focus on core concepts. The remaining time is a hands-on tutorial where we apply what you just learned.
 
-- **Support Hours / TF Meetings:**  
-  - **Before MS1 (team formation):** Open support hours with TFs for general questions and guidance.  
-  - **After MS1:** Structured team meetings with your assigned TF, focused on project progress and feedback.
+- **Support Hours / TF Meetings:**
+  - **Before MS1 (team formation):** Open support hours with TFs for general questions and guidance.
+  - **After MS1:** Structured team meetings with your assigned TF (scheduled weekly), focused on project progress and feedback.
   - **MS2–MS4 evaluations:** Each of these milestones is evaluated **during your regular weekly TF meeting** as a **15-minute team presentation (with slides) to your assigned project TF**. The TF will ask questions of the team and of individual members about both the progress shown in the slides and the details of your GitHub repository.
 
 - **Quizzes (6 total; best 4 of 6 count):** Short assessments to evaluate understanding of core concepts. Quizzes are **in-person for on-campus students** and **online for DCE students**.
@@ -145,7 +142,7 @@ If you are unsure whether you meet these prerequisites, a simple guideline is:
 
 ### Team Projects
 
-You will **design and build your own project** in a team. The staff will help you scope and refine the idea, but the direction and execution are yours.
+You will **design and build your own project** in a team (3-5 members). The staff will help you scope and refine the idea, but the direction and execution are yours.
 
 By the end of the term, you should have a **working web or mobile application** that:
 - includes a **meaningful modeling component** (beyond simple API calls), and
@@ -166,13 +163,24 @@ The expectation is a project comparable in scope to a small production-ready app
    - The project is structured through a series of milestones.  
    - These milestones are a major component of your grade and track your progress from idea to final system.  
    - **MS2, MS3, and MS4 are evaluated through a 15-minute team presentation (with slides) to your assigned project TF**, held during your regular weekly TF meeting. The TF will ask questions of the team and of individual students, covering both the slides and the contents of your GitHub repository. Every team member must be prepared to answer questions on **all** elements of the project — there is no "I didn't do that part." If you cannot speak to a component, that component is not considered learned, regardless of who wrote the code.
-   - MS1 is submitted as a written proposal; MS5 is evaluated through the final video, blog post, and the Dec 10 showcase.
+   - MS1 is submitted as a written proposal; MS5 is evaluated through the GitHub repository, final video, blog post, and the Dec 10 showcase.
    - Details for each milestone will be provided during the semester.
 
 **In summary:**  
 The goal is simple: build something real. Your project should be an end-to-end solution that includes modeling, infrastructure, and a usable interface.
 
-### Grade Distribution
+### Quizzes and the “best 4 of 6” rule
+
+- **Format:** Quizzes are short (20–30 minutes) and conducted during class time.  
+- **Content:** Quizzes include a mix of conceptual questions and short coding tasks (e.g., reading, completing, or modifying code).  
+- **Scope:** Quizzes focus on recently covered material and are designed to test practical understanding rather than memorization.
+
+- **On-campus students**: Quizzes are **in person**. There is **no online version** and **no make-ups**.
+
+- **DCE students**: Quizzes will be **online**.
+- **Maximum flexibility**: We use the “best **4 of 6** count” rule to accommodate common disruptions (illness, interviews, travel, etc.). Beyond this flexibility, exceptions are very rare. We enforce this consistently for fairness.
+
+## Grade Distribution
 
 The table below reflects how we weight **steady project progress** and **understanding of core ideas** (quizzes) relative to the full arc above.
 
@@ -193,48 +201,55 @@ For more information about the projects and milestones, you can click the links 
 
 ### Getting Help
 
-- **ED Forum:** Post questions related to course content or technical issues on the ED forum. This encourages peer learning and allows teaching staff to address common concerns. We regularly monitor the forum to provide guidance.  
-- **Teaching Staff Helpline:** For matters specific to the teaching staff, please send your queries to ac215harvard@gmail.com.  
+- **ED Forum:** Post questions related to course content or technical issues on the ED forum. This encourages peer learning and allows teaching staff to address common concerns. We regularly monitor the forum to provide guidance.
+- **Teaching Staff Helpline:** For administrative matters or issues requiring staff attention, please send your queries to ac215harvard@gmail.com.
 - **Email the Instructor:** For private or individual concerns, please feel free to directly email the instructor.
 
-### Deadline Policy
+### Late Policy
 
 All course milestones must be submitted by **9:00 PM ET** on the specified due dates.
 
-#### Attendance and participation (on-campus students)
-
-Per university policy, attendance is required for on-campus students. However, we do not take attendance and will not enforce it directly. 
-Whether you attend is your choice — but based on extensive prior course data, students who attend (semi-regularly) tend to perform better.
-
-- **Lecture recordings**: Lectures will be recorded, but recording quality may not always be ideal.
-- **No in-class midterm/final**: There is no in-class midterm or final exam.
-- **Showcase**: The main end-of-term in-person requirement is the project showcase (currently scheduled for **Dec 10**, subject to change).
-
-#### Quizzes and the “best 4 of 6” rule
-
-- **On-campus students**: Quizzes are **in person**. There is **no online version** and **no make-ups**.
-- **DCE students**: Quizzes will be **online**.
-
-- **Format:** Quizzes are short (20–30 minutes) and conducted during class time.  
-- **Content:** Quizzes include a mix of conceptual questions and short coding tasks (e.g., reading, completing, or modifying code).  
-- **Scope:** Quizzes focus on recently covered material and are designed to test practical understanding rather than memorization.
-
-- **Maximum flexibility**: We use the “best **4 of 6** count” rule to accommodate common disruptions (illness, interviews, travel, etc.). Beyond this flexibility, exceptions are very rare. We enforce this consistently for fairness.
-
-#### Late days (all students)
+#### Late Days
 
 You have **4 late days total** to use across milestones **MS1–MS4**.
 
 - You may use **at most 2 late days per milestone**.
 - **MS5 (final milestone)**: **No late days and no extensions** under any circumstances.
 
-In extreme medical or personal emergencies, contact the course staff as soon as possible. We will review such situations on a case-by-case basis, at the teaching team’s discretion, and requests must be communicated **before the deadline whenever possible**.
+In extreme medical or personal emergencies, contact the course staff as soon as possible. We will review such situations on a case-by-case basis, at the teaching team's discretion. Requests should be communicated **before the deadline whenever possible**. In cases where advance notice is impossible (e.g., emergency hospitalization), contact us as soon as you are able.
+
+
+### Attendance Policy
+
+Per university policy, attendance is required for on-campus students. However, we do not take attendance and will not enforce it directly.
+Whether you attend is your choice — but based on extensive prior course data, students who attend (semi-regularly) tend to perform better.
+
+#### On-Campus Students
+
+Some details to consider:
+
+- **Lecture recordings**: Lectures will be recorded and available to everyone within 24 hours. 
+- **No in-class midterm/final**: There is no in-class midterm or final exam.
+- **Showcase**: The main end-of-term in-person requirement is the project showcase (currently scheduled for **Dec 10**, subject to change).
+- **Quizzes**: In person. There is no online version and no make-ups.
+
+#### DCE Students
+
+Some details to consider:
+
+- **Lectures are live streamed**: Lectures will be live streamed via Zoom. However, interaction with the professor is not optimal. 
+- **Lecture recordings**: Lectures will be recorded and available to everyone within 24 hours. 
+- **No in-class midterm/final**: There is no in-class midterm or final exam.
+- **Showcase**: DCE students are welcome to participate in the showcase but not required.
+- **Quizzes**: Online. 
+
 
 ### Academic Honesty
 
 - Students are expected to maintain high standards of academic integrity.
-- **Acceptable Behaviors:** Discussing course materials, engaging in office hours, debugging with peers, using and citing small portions of code found online, seeking online knowledge, and seeking guidance from tutors.  
-- **Unacceptable Behaviors:** Accessing or sharing solutions before submission, plagiarizing, not citing sources of external code or techniques, paying or offering payment for coursework, and sharing course material with future potential students.  
+- **Acceptable Behaviors:** Discussing course materials, engaging in office hours, debugging with peers, using and citing small portions of code found online, seeking online knowledge, and seeking guidance from tutors.
+- **Unacceptable Behaviors:** Accessing or sharing solutions before submission, plagiarizing, not citing sources of external code or techniques, paying or offering payment for coursework, and sharing course material with future potential students.
+- **AI Tools:** You may use AI tools (e.g., ChatGPT, GitHub Copilot) as support tools for learning and development. However, your submission must reflect **your own understanding**. You must be able to explain and defend all code and design decisions in your project. During milestone evaluations, inability to explain AI-generated code will result in grade deductions.
 - Engaging in unacceptable behaviors will lead to disciplinary action. When in doubt, always consult the course instructors.
 
 ### Collaboration & Teamwork
