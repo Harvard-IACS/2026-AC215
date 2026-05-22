@@ -132,9 +132,14 @@ To request permission to audit AC215, email **ac215harvard@gmail.com** with:
 - **No submissions.** Auditors may **not submit assignments, milestones, or participate in projects**.
 - **Limited access to course resources.** Auditors may **not use Ed Discussion or attend TF support hours**.
 
+---
 
-### 22. Can the group be less than 3 or more than 5 members? 
-- it is very unlikely we will allow it. Team of 2 could be allowed if there is a specific reason. We have never allowed group of 6 in the past! 
+### 22. Can my team have fewer than 3 or more than 5 members?
 
-### 23. Do you consider the team size in the grading? 
-- Yes. Larger teams are expected to dazzle.
+It is very unlikely we will allow exceptions to the 3-5 member requirement. Teams of 2 may be allowed in specific circumstances with instructor approval. We have never allowed teams of 6 or more.
+
+---
+
+### 23. Do you consider team size when grading?
+
+Yes. Larger teams are expected to deliver proportionally more ambitious projects with greater scope and complexity.
