@@ -16,15 +16,15 @@ Tutorials are grouped by the lecture they accompany.
 ## Lecture 1
 _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166027/)_
 
-### Create Simple Translate App - No Docker, No Pipenv
-- **Description**: A simple translation app built without using Docker or Pipenv.
-- **GCP GitHub URL**: [Install App on VM Manually (T1)](https://github.com/dlops-io/simple-translate?tab=readme-ov-file#installing-app-on-vm-manually-t1)
-- **AWS GitHub URL**: [Install App on VM Manually (T1) - AWS](https://github.com/dlops-io/simple-translate-aws?tab=readme-ov-file#installing-app-on-vm-manually-t1)
+### Create Simple Translate App - No Docker, No UV
+- **Description**: A simple translation app built without using Docker or UV.
+- **GCP GitHub URL**: [Install App on VM Manually](https://github.com/dlops-io/simple-translate?tab=readme-ov-file#%EF%B8%8F-installing-app-on-vm-manually)
+- **AWS GitHub URL**: [Install App on VM Manually - AWS](https://github.com/dlops-io/simple-translate-aws?tab=readme-ov-file#installing-app-on-vm-manually-t1)
 
-### Create Simple Translate App with Pipenv, No Docker
-- **Description**: A translation app using Pipenv, without Docker.
-- **GCP GitHub URL**: [Install App on VM using Pipenv (T2)](https://github.com/dlops-io/simple-translate?tab=readme-ov-file#installing-app-on-vm-using-pipenv-t2)
-- **AWS GitHub URL**: [Install App on VM using Pipenv (T2) - AWS](https://github.com/dlops-io/simple-translate-aws?tab=readme-ov-file#installing-app-on-vm-using-pipenv-t2)
+### Create Simple Translate App with UV (GCP) / Pipenv (AWS), No Docker
+- **Description**: A translation app using UV on GCP or Pipenv on AWS, without Docker.
+- **GCP GitHub URL**: [Install App on VM using UV](https://github.com/dlops-io/simple-translate?tab=readme-ov-file#-installing-app-on-vm-using-uv)
+- **AWS GitHub URL**: [Install App on VM using Pipenv - AWS](https://github.com/dlops-io/simple-translate-aws?tab=readme-ov-file#installing-app-on-vm-using-pipenv-t2)
 
 ---
 
@@ -33,13 +33,13 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166028/)_
 
 ### Create Simple Translate App with Docker, Push Image to Docker Hub
 - **Description**: Build a simple translation app, containerize it with Docker, and push the image to Docker Hub.
-- **GCP GitHub URL**: [Develop App using Containers (T3)](https://github.com/dlops-io/simple-translate?tab=readme-ov-file#developing-app-using-containers-t3)
-- **AWS GitHub URL**: [Develop App using Containers (T3) - AWS](https://github.com/dlops-io/simple-translate-aws?tab=readme-ov-file#developing-app-using-containers-t3)
+- **GCP GitHub URL**: [Develop App using Containers](https://github.com/dlops-io/simple-translate?tab=readme-ov-file#-developing-app-using-containers)
+- **AWS GitHub URL**: [Develop App using Containers - AWS](https://github.com/dlops-io/simple-translate-aws?tab=readme-ov-file#developing-app-using-containers-t3)
 
 ### Run App in VM using Docker
 - **Description**: A continuation of the Docker tutorial, running the containerized app in a VM.
-- **GCP GitHub URL**: [Run App on VM using Docker (T4)](https://github.com/dlops-io/simple-translate?tab=readme-ov-file#running-app-on-vm-using-docker-t4)
-- **AWS GitHub URL**: [Run App on VM using Docker (T4) - AWS](https://github.com/dlops-io/simple-translate-aws?tab=readme-ov-file#running-app-on-vm-using-docker-t4)
+- **GCP GitHub URL**: [Run App on VM using Docker](https://github.com/dlops-io/simple-translate?tab=readme-ov-file#%EF%B8%8F-running-app-on-vm-using-docker)
+- **AWS GitHub URL**: [Run App on VM using Docker - AWS](https://github.com/dlops-io/simple-translate-aws?tab=readme-ov-file#running-app-on-vm-using-docker-t4)
 
 ---
 
