@@ -1,5 +1,5 @@
 ---
-title: Week 2 - Containers & RAGs
+title: Week 2 - Containers I & II
 ---
 
 Sep 8
@@ -7,5 +7,5 @@ Sep 8
   : [Lecture 2](/not-yet/)
 
 Sep 10
-: LLM - RAGs
+: Containers II
   : [Lecture 3](/not-yet/)

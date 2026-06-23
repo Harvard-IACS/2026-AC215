@@ -1,9 +1,9 @@
 ---
-title: Week 6 - Containers & CI
+title: Week 6 - Finetuning & CI
 ---
 
 Oct 6
-: Containers III
+: LLM - Finetuning
   : [Lecture 8](/not-yet/)
 
     [**Quiz 2**](){: .label .label-blue }
