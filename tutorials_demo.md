@@ -54,15 +54,6 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166033/)_
 ---
 
 ## Lecture 4
-_[Ed lesson](https://edstem.org/us/courses/97373/lessons/166034/)_
-
-### Mega Pipeline App with Flexible Workflow
-- **Description**: Build a Mega Pipeline App with Flexible Workflow.
-- **GCP GitHub URL**: [Mega Pipeline App (Flexible Workflow)](https://github.com/dlops-io/mega-pipeline/tree/flexible-workflow)
-
----
-
-## Lecture 5
 _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166029/)_
 
 ### LLM-RAG
@@ -71,7 +62,7 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166029/)_
 
 ---
 
-## Lecture 6
+## Lecture 5
 _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166030/)_
 
 ### LLM-Agents (Phidata)
@@ -80,7 +71,7 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166030/)_
 
 ---
 
-## Lecture 7
+## Lecture 6
 _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166031/)_
 
 ### LLM-Agents
@@ -89,7 +80,7 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166031/)_
 
 ---
 
-## Lecture 8
+## Lecture 7
 _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166032/)_
 
 ### LLM-Fine Tuning
@@ -103,6 +94,15 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166032/)_
 ### LLM Finetuning Hooks B
 - **Description**: LLM Finetuning Hooks B
 - **GCP GitHub URL**: [LLM Finetuning Hooks](https://github.com/dlops-io/llm-finetuning_hooksB)
+
+---
+
+## Lecture 8
+_[Ed lesson](https://edstem.org/us/courses/97373/lessons/166034/)_
+
+### Mega Pipeline App with Flexible Workflow
+- **Description**: Build a Mega Pipeline App with Flexible Workflow.
+- **GCP GitHub URL**: [Mega Pipeline App (Flexible Workflow)](https://github.com/dlops-io/mega-pipeline/tree/flexible-workflow)
 
 ---
 

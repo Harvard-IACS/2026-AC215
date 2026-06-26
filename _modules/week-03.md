@@ -1,13 +1,13 @@
 ---
-title: Week 3 - Containers III & RAGs
+title: Week 3 - RAGs & Agents I
 ---
 
 Sep 15
-: Containers III
+: LLM - RAGs
   : [Lecture 4](/not-yet/)
 
     [**Quiz 1**](){: .label .label-blue }
 
 Sep 17
-: LLM - RAGs
+: LLM - Agents I
   : [Lecture 5](/not-yet/)

@@ -1,9 +1,9 @@
 ---
-title: Week 6 - Finetuning & CI
+title: Week 6 - Connecting to the Cloud & CI
 ---
 
 Oct 6
-: LLM - Finetuning
+: Connecting to the Cloud: Networking, Authentication & Storage
   : [Lecture 8](/not-yet/)
 
     [**Quiz 2**](){: .label .label-blue }
