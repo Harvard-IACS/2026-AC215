@@ -21,15 +21,15 @@ No. MS5 does not allow late days or extensions under any circumstances.
 
 ---
 
-### 4. What happens if one group member has no late days left but others do?
+### 4. How do late days work for groups?
 
-Late days are applied **per student, not per group**.
+Late days are applied **per group, not per student**.
 
-For a group submission to use *k* late days, **each member of the group must have at least *k* late days remaining**.
+Every student starts with **4 late days**. Because milestones are submitted as a group, a late submission uses the same number of late days for every member of that group.
 
-If any member does not have enough late days, the group cannot use late days for that submission.
+For example: if a group submits a milestone 1 day late, **each member of that group loses 1 late day** and has 3 remaining.
 
-Late days cannot be transferred, pooled, or borrowed between group members.
+Late days cannot be transferred, pooled, or borrowed between students or groups.
 
 ---
 

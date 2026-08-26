@@ -219,8 +219,11 @@ All course milestones must be submitted by **9:00 PM ET** on the specified due d
 
 You have **4 late days total** to use across milestones **MS1–MS4**.
 
+Late days are applied **per group, not per student**. Milestones are submitted as a group, so a late submission uses the same number of late days for every member of that group. For example, if a group submits a milestone 1 day late, each member of that group loses 1 late day and has 3 remaining.
+
 - You may use **at most 2 late days per milestone**.
 - **MS5 (final milestone)**: **No late days and no extensions** under any circumstances.
+- Late days **cannot be transferred, pooled, or borrowed** between students or groups.
 
 In extreme medical or personal emergencies, contact the course staff as soon as possible. We will review such situations on a case-by-case basis, at the teaching team's discretion. Requests should be communicated **before the deadline whenever possible**. In cases where advance notice is impossible (e.g., emergency hospitalization), contact us as soon as you are able.
 
