@@ -65,9 +65,13 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166029/)_
 ## Lecture 5
 _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166030/)_
 
+<!-- Tutorial TBD. The Lecture 5 deck lists agent notebooks that are still being finalised.
+     Previous entry, kept here for reference:
+
 ### LLM-Agents (Phidata)
 - **Description**: LLM Agents with Phidata (Notebook)
 - **Colab Notebook**: [LLM-Agents](https://colab.research.google.com/drive/1UVn3L6KQgsrVLnLRaMVbpV3VJr_i5MLW?usp=sharing)
+-->
 
 ---
 
@@ -113,6 +117,14 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166035/)_
 - **Description**: Simple CI
 - **GCP GitHub URL**: [Simple CI](https://github.com/dlops-io/simple_CI)
 
+### Testing with Pytest
+- **Description**: Unit, integration, system and acceptance tests with pytest
+- **GCP GitHub URL**: [Testing with Pytest](https://github.com/dlops-io/cheese-app-ci-cd/blob/main/README.md#part-3-testing-with-pytest)
+
+### Automating with Pre-commit Hooks
+- **Description**: Local git hooks that run linters, formatters and tests before each commit
+- **GCP GitHub URL**: [Pre-commit Hooks](https://github.com/dlops-io/cheese-app-ci-cd/blob/main/README.md#part-4-automating-with-pre-commit-hooks)
+
 ---
 
 ## Lecture 10
@@ -140,6 +152,11 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166038/)_
 - **Description**: Serverless Model Training with Vertex AI
 - **GCP GitHub URL**: [Serverless Model Training](https://github.com/dlops-io/model-training)
 - **AWS GitHub URL**: Coming Soon
+<!-- AWS repo exists but is PRIVATE, so it is not linked here:
+     https://github.com/dlops-io/model-training-aws
+     Make it public to publish, then replace the "Coming Soon" line above with:
+     - **AWS GitHub URL**: [Serverless Model Training - AWS](https://github.com/dlops-io/model-training-aws)
+-->
 
 ---
 
@@ -159,10 +176,12 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166040/)_
 ### Model Deployment using Vertex AI
 - **Description**: Model Deployment using Vertex AI
 - **GCP GitHub URL**: [Model Deployment](https://github.com/dlops-io/model-deployment)
+- **AWS GitHub URL**: [Model Deployment - AWS](https://github.com/dlops-io/model-deployment-aws)
 
 ### ML Workflow
 - **Description**: Vertex AI ML Workflow for pipeline. Data Processing, data collection, model training, model deployment.
 - **GCP GitHub URL**: [ML Workflow](https://github.com/dlops-io/ml-workflow)
+- **AWS GitHub URL**: [ML Workflow - AWS](https://github.com/dlops-io/ml-workflow-aws)
 
 ---
 
@@ -177,11 +196,6 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166043/)_
 - **Description**: Cheese App APIs
 - **GCP GitHub URL**: [App v2: FastAPI Backend](https://github.com/dlops-io/cheese-app-v2?tab=readme-ov-file#setup-environments)
 
----
-
-## Lecture 18
-_[Ed lesson](https://edstem.org/us/courses/97373/lessons/166044/)_
-
 ### Frontend Simple
 - **Description**: Frontend Simple
 - **GCP GitHub URL**: [App v2: Frontend Simple](https://github.com/dlops-io/cheese-app-v2?tab=readme-ov-file#tutorial-24-simple-frontend-app)
@@ -189,6 +203,11 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166044/)_
 ### Frontend React
 - **Description**: Frontend App (React)
 - **GCP GitHub URL**: [App v2: Frontend React](https://github.com/dlops-io/cheese-app-v2?tab=readme-ov-file#tutorial-25-react-frontend-setup)
+
+---
+
+## Lecture 18
+_[Ed lesson](https://edstem.org/us/courses/97373/lessons/166044/)_
 
 ---
 
@@ -213,19 +232,15 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166046/)_
 ## Lecture 21
 _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166047/)_
 
+### Remote CI/CD with GitHub Actions
+- **Description**: CI pipeline on GitHub Actions: build container, lint and format, test, summary
+- **GCP GitHub URL**: [GitHub Actions Remote CI/CD](https://github.com/dlops-io/cheese-app-ci-cd/blob/main/README.md#part-5-github-actions-remote-cicd)
+
+---
+
+## Lecture 22
+
 ### Continuous Integration and Continuous Deployment
 - **Description**: Continuous Integration and Continuous Deployment
 - **GCP GitHub URL**: [App v4: Continuous Integration and Continuous Deployment](https://github.com/dlops-io/cheese-app-v4#cheese-app---automation)
 - **AWS GitHub URL**: No K8s [App: AWS - Continuous Integration and Continuous Deployment](https://github.com/dlops-io/cheese-app-aws)
-
----
-
-## Not Yet Assigned to a Lecture
-
-### Model Compression and Distillation
-- **Description**: Model Compression and Distillation
-- **Colab Notebook**: [Model Compression and Distillation]
-
-### Deploy LLM on VM
-- **Description**: Deploy your own LLM on VM. These are the steps to deploy a LLM on VM with all the scripts and code.
-- **GCP GitHub URL**: [LLM on VM](https://github.com/dlops-io/llm-vm)

@@ -25,3 +25,6 @@ venv/
 # Quiz answer keys (do not publish)
 quizzes/
 quiz_lecture_mapping.yaml
+
+# Local working notes (lecture/tutorial mapping, drafts)
+.notes/
