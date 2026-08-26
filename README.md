@@ -15,6 +15,10 @@ seo:
 
 **Instructor:** Pavlos Protopapas
 
+<p style="font-weight: bold; font-size: 1.05em;" markdown="1">
+🎥 <a href="https://canvas.harvard.edu/courses/170012" style="color: #A51C30;">Watch Prof. Pavlos Protopapas's introductory video</a>
+</p>
+
 <!-- ## **<span style="color: red;">Enrollment is closed - the class has reached capacity.</span>**
 {:.no_toc} -->
 
