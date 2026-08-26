@@ -194,7 +194,7 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166043/)_
 
 ### Backend and FastAPI
 - **Description**: Cheese App APIs
-- **GCP GitHub URL**: [App v2: FastAPI Backend](https://github.com/dlops-io/cheese-app-v2?tab=readme-ov-file#setup-environments)
+- **GCP GitHub URL**: [App v2: FastAPI Backend](https://github.com/dlops-io/cheese-app-v2?tab=readme-ov-file#tutorial-23-backend-apis)
 
 ### Frontend Simple
 - **Description**: Frontend Simple
@@ -214,9 +214,13 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166044/)_
 ## Lecture 19
 _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166045/)_
 
-### Deployment of the full app to GCP
+### Deployment of the full app to GCP (Manual)
 - **Description**: Deployment to GCP. Manual steps to deploy the app to GCP.
-- **GCP GitHub URL**: [App v3: Deployment to GCP](https://github.com/dlops-io/cheese-app-v3?tab=readme-ov-file#deployment-to-gcp)
+- **GCP GitHub URL**: [App v3: Deployment to GCP (Manual)](https://github.com/dlops-io/cheese-app-v3?tab=readme-ov-file#deployment-to-gcp-manual)
+
+### Deployment to GCP with Pulumi
+- **Description**: Automate the same deployment with Pulumi: build and push images to GCR, create the compute instance, provision it, and launch the containers.
+- **GCP GitHub URL**: [App v3: Deployment to GCP (Single VM Instance)](https://github.com/dlops-io/cheese-app-v3?tab=readme-ov-file#deployment-to-gcp-single-vm-instance)
 
 ---
 
@@ -234,7 +238,7 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166047/)_
 
 ### Remote CI/CD with GitHub Actions
 - **Description**: CI pipeline on GitHub Actions: build container, lint and format, test, summary
-- **GCP GitHub URL**: [GitHub Actions Remote CI/CD](https://github.com/dlops-io/cheese-app-ci-cd/blob/main/README.md#part-5-github-actions-remote-cicd)
+- **GCP GitHub URL**: [GitHub Actions Remote CI/CD](https://github.com/dlops-io/cheese-app-ci-cd/blob/main/README.md#part-5-github-actions-remote-ci)
 
 ---
 
