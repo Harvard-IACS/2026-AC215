@@ -59,30 +59,47 @@ The goal is simple: by the end of the course, you should be able to design, buil
 We have designed an in-depth curriculum to ensure a comprehensive understanding of modern AI systems and MLOps. The topics include (see the [full topics list](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vSaPiVfDbW8OKMwQQZrOp8SiduXsg1rNHhMjUNjJNAlBrXrIxF6K5SiNiq53upolQ/pubhtml?gid=182104043&single=true)):
 
 
-1. **Introduction:** 
+1. **Introduction:**
    - Begin with an understanding of the importance of MLOps and how it fits in the broader AI and software development ecosystem.
-2. **LLM Topics:** 
-   - Large Language Models (LLMs) have led to many new tools and agents that students will use in their projects. In these lectures, we'll look at some of these tools, such as LangChain, LlamaIndex, and API-based workflows. We will also explore RAG and agent-based systems.
-3. **Virtual Environments and Virtual Machines:** 
+
+2. **LLM Topics:**
+   - Large Language Models (LLMs) have led to many new tools and agents that students will use in their projects. In these lectures, we'll look at some of these tools, such as LangChain, LlamaIndex, and API-based workflows. We will also explore RAG, agent-based systems, and fine-tuning, including parameter-efficient methods such as Low-Rank Adaptation (LoRA).
+
+3. **Virtual Environments and Virtual Machines:**
    - Learn the foundations of isolated software environments, their importance in AI development, and how virtual machines offer a layer of abstraction over physical hardware.
-4. **Containers:** 
+
+4. **Containers:**
    - Understand the concept of containerization using tools like Docker, and how they differ from virtual machines.
-5. **Data Pipelines, & Cloud Storage:**
-   - Learn core data management techniques including ETL and data versioning. Work with TF Data, TF Records, and PyTorch Dataset/DataLoader. We will also cover how cloud storage fits into the broader MLOps ecosystem. Explore specialized tools for managing large-scale datasets for computer vision and language models.
-6. **Advanced Training Workflows:**
+
+5. **Connecting to the Cloud: Networking, Authentication & Storage:**
+   - Learn how to connect your local development environment to cloud infrastructure. Cover networking basics, service accounts and IAM-based authentication, and reading and writing to cloud storage from your code.
+
+6. **Data Management, Versioning, and Monitoring:**
+   - Learn how to label, version, and monitor the data behind your models. Use Label Studio to annotate raw data. Explore specialized tools for managing large-scale datasets for computer vision and language models.
+
+7. **Advanced Training Workflows:**
    - We will cover advanced training workflows, including experiment tracking with tools like Weights & Biases, leveraging multi-GPU setups for accelerated training, exploring serverless training options using Vertex AI, and fine-tuning large language models (LLMs).
 
-7. **Advanced Inference Workflows:**
-   - Understand the nuances of model optimization techniques like distillation, quantization, compression, and Low-Rank Adaptation (LoRA). We then move to deployment, hosting, and serving of large language models (LLMs). Explore post-deployment monitoring for model performance, data drift detection, and testing strategies, using tools such as Cloud Functions, Cloud Run, Kubeflow, and Vertex AI Pipelines.
+8. **Advanced Inference Workflows:**
+   - Learn how to deploy, host, and serve models and large language models (LLMs) in production. Cover serverless inference with Cloud Functions, Cloud Run, and Vertex AI Online Prediction, then automate the full data → training → deployment sequence with Vertex AI Pipelines.
 
-8. **App Design, Setup, and Code Organization:**
-   - Best practices in designing user-centric AI applications, setting up your development environment, and organizing code for scalability and maintainability.
+9. **System Tradeoffs: Performance, Cost, and Design Choices:**
+   - Reason about the tradeoffs behind real system design decisions. Compare latency, throughput, and cost across serving options, and learn how to choose an architecture that fits your budget and your workload.
 
-9. **APIs & Frontend:**
-   - Learn about RESTful APIs to serve your models and design user interfaces for seamless user interactions.
+10. **Evaluating and Monitoring ML Systems in Production:**
+    - Learn how to evaluate models and LLM-based systems beyond offline metrics, and how to monitor them after deployment. Cover data and model drift detection, logging, alerting, and testing strategies for production systems.
 
-10. **Scaling (Kubernetes):**
-   - Learn Kubernetes, its significance in deploying containerized applications, and understand how to scale your applications to operate at production scale.
+11. **App Design, Setup, and Code Organization:**
+    - Best practices in designing user-centric AI applications, setting up your development environment, and organizing code for scalability and maintainability.
+
+12. **APIs & Frontend:**
+    - Learn about RESTful APIs to serve your models and design user interfaces for seamless user interactions.
+
+13. **Automating Software Development: CI, Testing, and CI/CD:**
+    - Build automated software development workflows. Cover unit testing and continuous integration, then move to full CI/CD pipelines with GitHub Actions and related tools so that changes are tested and deployed automatically.
+
+14. **Deployment and Scaling: Kubernetes and Infrastructure as Code:**
+    - Learn Kubernetes and its significance in deploying containerized applications. Start with a local cluster to understand pods, deployments, and services, then scale your application to production on a managed cloud cluster. Along the way, define and manage that infrastructure in code rather than by hand, using Pulumi to provision, version, and reproducibly deploy the resources your application depends on.
 
 ---
 
