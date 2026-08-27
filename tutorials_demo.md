@@ -128,7 +128,8 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166036/)_
 
 ### Label Studio
 - **Description**: Learn how to use Label Studio for data labeling.
-- **GitHub URL**: [Label Studio](https://github.com/dlops-io/data-labeling) [GCP and AWS]
+- **GCP GitHub URL**: [Label Studio](https://github.com/dlops-io/data-labeling)
+- **AWS GitHub URL**: [Label Studio - AWS](https://github.com/dlops-io/data-labeling-aws)
 
 ### Data Versioning
 - **Description**: Learn about versioning practices in development. Particularly, how to use DVC for data versioning.
@@ -148,6 +149,7 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166038/)_
 - **Description**: Serverless Model Training with Vertex AI
 - **GCP GitHub URL**: [Serverless Model Training](https://github.com/dlops-io/model-training)
 - **AWS GitHub URL**: Coming Soon
+
 <!-- AWS repo exists but is PRIVATE, so it is not linked here:
      https://github.com/dlops-io/model-training-aws
      Make it public to publish, then replace the "Coming Soon" line above with:
