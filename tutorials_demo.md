@@ -204,7 +204,13 @@ _[Ed lesson (APIs)](https://edstem.org/us/courses/97373/lessons/166043/)_ &nbsp;
 
 ## Lecture 18
 
-<!-- Tutorial for Scaling: Kubernetes (local) coming soon -->
+### Scaling: Kubernetes (local)
+- **Description**: 
+- **GCP GitHub URL**: 
+
+<div style="color: red; font-weight: bold;">
+Tutorial for Scaling: Kubernetes (local) coming soon
+</div>
 
 ---
 
