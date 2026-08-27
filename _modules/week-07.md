@@ -8,4 +8,4 @@ Oct 13
 
 Oct 15
 : App Design
-  : [Lecture](/not-yet/)
+  : [Lecture 11](/not-yet/)

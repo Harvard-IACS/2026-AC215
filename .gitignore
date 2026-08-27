@@ -28,3 +28,4 @@ quiz_lecture_mapping.yaml
 
 # Local working notes (lecture/tutorial mapping, drafts)
 .notes/
+/.idea/

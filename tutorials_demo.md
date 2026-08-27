@@ -113,10 +113,6 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166034/)_
 ## Lecture 9
 _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166035/)_
 
-### CI/CD with GitHub Actions and other tools
-- **Description**: Simple CI
-- **GCP GitHub URL**: [Simple CI](https://github.com/dlops-io/simple_CI)
-
 ### Testing with Pytest
 - **Description**: Unit, integration, system and acceptance tests with pytest
 - **GCP GitHub URL**: [Testing with Pytest](https://github.com/dlops-io/cheese-app-ci-cd/blob/main/README.md#part-3-testing-with-pytest)
@@ -186,7 +182,7 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166040/)_
 ---
 
 ## Lecture 17
-_[Ed lesson](https://edstem.org/us/courses/97373/lessons/166043/)_
+_[Ed lesson (APIs)](https://edstem.org/us/courses/97373/lessons/166043/)_ &nbsp; _[Ed lesson (Frontend)](https://edstem.org/us/courses/97373/lessons/166044/)_
 
 ### Frontend and FastAPI
 - **Description**: Simple Frontend with FastAPI
@@ -207,7 +203,8 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166043/)_
 ---
 
 ## Lecture 18
-_[Ed lesson](https://edstem.org/us/courses/97373/lessons/166044/)_
+
+<!-- Tutorial for Scaling: Kubernetes (local) coming soon -->
 
 ---
 
@@ -227,7 +224,7 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166045/)_
 ## Lecture 20
 _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166046/)_
 
-### Deployment with Scaling using Kubernetes
+### Deployment with Scaling using Kubernetes (cloud)
 - **Description**: Deployment with Scaling using Kubernetes
 - **GCP GitHub URL**: [App v3: Deployment with Scaling using Kubernetes](https://github.com/dlops-io/cheese-app-v3?tab=readme-ov-file#deployment-with-scaling-using-kubernetes)
 

@@ -1,13 +1,13 @@
 ---
-title: Week 11 - Frontend & Deployment
+title: Week 11 - Kubernetes & Deployment
 ---
 
 Nov 10
-: Frontend
-  : [Lecture 17](/not-yet/)
+: Scaling - Kubernetes (local)
+  : [Lecture 18](/not-yet/)
 
 Nov 12
 : Deployment - Pulumi
-  : [Lecture 18](/not-yet/)
+  : [Lecture 19](/not-yet/)
 
     [**Quiz 5**](){: .label .label-blue } &nbsp; [**MS3 due 11/12**](){: .label .label-red }
