@@ -9,10 +9,9 @@ nav_order: 1
 
 📄 **Lecture PDFs are posted on Ed.** Find them under [Ed Lessons](https://edstem.org/us/courses/97373/lessons).
 
-<div style="position: relative; width: 100%; height: 80vh; border: 1px solid #ddd; border-radius: 4px; overflow: hidden;">
+<div class="wide-embed">
   <iframe
     src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQLCtLLU0ne8uPlItTIRiO2bRCXKC2orwEQAQCL7SpgXg0IrjAua0LvPff0vGVfuf9NgqDwL91ky5E9/pubhtml?gid=521870746&single=true&widget=true&headers=false&chrome=false"
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
     allowfullscreen></iframe>
 </div>
 

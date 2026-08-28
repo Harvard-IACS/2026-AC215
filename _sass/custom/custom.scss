@@ -56,3 +56,84 @@ summary {
     }
   }
 }
+
+// Pin the sidebar to the left edge on wide screens.
+//
+// The theme centers the sidebar + content block in the viewport, so on a wide
+// display the navigation drifts toward the middle of the screen. Keep the
+// sidebar at its natural 16.5rem width against the left edge instead, and
+// start the content column immediately after it.
+@media (min-width: 66.5rem) {
+  .side-bar {
+    min-width: 16.5rem;
+    width: 16.5rem;
+  }
+
+  // Let the header (search box and auxiliary links) span the full width, so
+  // the space to the right of the text column reads as deliberate.
+  .main {
+    margin-left: 16.5rem;
+    max-width: none;
+  }
+
+  // Keep the text itself at $content-width, left-aligned under the header.
+  .main-content-wrap {
+    margin-left: 0;
+    margin-right: auto;
+  }
+}
+
+// Wide embeds (the published Google Sheet on /schedule/).
+//
+// The sheet renders at ~1100px. The theme's 50rem content column leaves only
+// ~736px, which cuts off the "Quizzes" and "Milestone due dates" columns on
+// the right. On any page containing a .wide-embed, drop the cap so the
+// content column uses the rest of the viewport.
+// Browsers without :has() ignore these rules and get the 50rem layout.
+@media (min-width: 50rem) {
+  body:has(.wide-embed) {
+    .main,
+    .main-content-wrap {
+      max-width: none;
+    }
+
+    // Only the embed spans the full width; prose stays readable.
+    .main-content > main > *:not(.wide-embed) {
+      max-width: $content-width;
+    }
+
+    // Let the embed reach into the wrap's right padding, which is enough
+    // extra room to show the whole sheet on a 1440px-wide viewport.
+    .wide-embed {
+      margin-right: -2rem;
+      width: auto;
+    }
+  }
+}
+
+@media (min-width: 66.5rem) {
+  body:has(.wide-embed) .main {
+    margin-right: 1rem;
+  }
+}
+
+.wide-embed {
+  border: $border $border-color;
+  border-radius: $border-radius;
+  height: 80vh;
+  // The published sheet is ~1100px wide; stop the box there so a wide
+  // viewport does not leave a blank strip inside the border.
+  max-width: 71.25rem;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+
+  iframe {
+    border: 0;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+  }
+}
