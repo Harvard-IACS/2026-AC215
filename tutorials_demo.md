@@ -137,6 +137,10 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166036/)_
 
 ---
 
+## Lecture 11
+
+---
+
 ## Lecture 12
 _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166038/)_
 
@@ -180,6 +184,14 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166040/)_
 - **Description**: Vertex AI ML Workflow for pipeline. Data Processing, data collection, model training, model deployment.
 - **GCP GitHub URL**: [ML Workflow](https://github.com/dlops-io/ml-workflow)
 - **AWS GitHub URL**: [ML Workflow - AWS](https://github.com/dlops-io/ml-workflow-aws)
+
+---
+
+## Lecture 15
+
+---
+
+## Lecture 16
 
 ---
 
