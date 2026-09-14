@@ -60,6 +60,10 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166029/)_
 - **Description**: Building a RAG System with Vector DB and LLM
 - **GCP GitHub URL**: [LLM-1](https://github.com/dlops-io/llm-rag)
 
+### Port Toy App - Container Networks & Ports
+- **Description**: Two containers, one published port, one message. See which ports a request actually travels through, why an internal container is unreachable from your laptop, and what Compose does for you.
+- **GCP GitHub URL**: [Port Toy App](https://github.com/dlops-io/port_toy)
+
 ---
 
 ## Lecture 5
