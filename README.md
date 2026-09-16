@@ -19,8 +19,9 @@ seo:
 🎥 <a href="https://canvas.harvard.edu/courses/170012" style="color: #A51C30;">Watch Prof. Pavlos Protopapas's introductory video</a>
 </p>
 
-## **<span style="color: red;">Enrollment is closed - the class has reached capacity.</span>**
-{:.no_toc}
+<p style="color: red; font-weight: bold; font-size: 1.5em;" markdown="1">
+Enrollment is closed - the class has reached capacity.
+</p>
 
 ## Table of contents
 {: .no_toc .text-delta }
