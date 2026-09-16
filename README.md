@@ -19,14 +19,8 @@ seo:
 🎥 <a href="https://canvas.harvard.edu/courses/170012" style="color: #A51C30;">Watch Prof. Pavlos Protopapas's introductory video</a>
 </p>
 
-<!-- ## **<span style="color: red;">Enrollment is closed - the class has reached capacity.</span>**
-{:.no_toc} -->
-
-<div style="color: red; font-weight: bold;" markdown="1">
-**Petition Review Schedule**
-
-We review and approve petitions three times a day: at 9:00 a.m., 2:00 p.m., and 7:00 p.m EST. If you have submitted a petition, please allow up to 10 hours for it to be processed. If it has not been approved after 10 hours, please email Prof. Protopapas.
-</div>
+## **<span style="color: red;">Enrollment is closed - the class has reached capacity.</span>**
+{:.no_toc}
 
 ## Table of contents
 {: .no_toc .text-delta }
