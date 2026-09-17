@@ -13,7 +13,7 @@ Tutorials are grouped by the lecture they accompany.
 
 ---
 
-## Lecture 1
+## Lecture 1: Virtual Environments and Virtual Machines
 _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166027/)_
 
 ### Create Simple Translate App - No Docker, No UV
@@ -28,7 +28,7 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166027/)_
 
 ---
 
-## Lecture 2
+## Lecture 2: Containers I
 _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166028/)_
 
 ### Create Simple Translate App with Docker, Push Image to Docker Hub
@@ -43,7 +43,7 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166028/)_
 
 ---
 
-## Lecture 3
+## Lecture 3: Containers II
 _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166033/)_
 
 ### Mega Pipeline App
@@ -53,7 +53,7 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166033/)_
 
 ---
 
-## Lecture 4
+## Lecture 4: Containers III
 _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166029/)_
 
 ### Docker
@@ -68,7 +68,7 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166029/)_
 
 ---
 
-## Lecture 5
+## Lecture 5: Introduction to RAG
 _[Ed lesson](https://edstem.org/us/courses/97373/lessons/182195/)_
 
 
@@ -80,7 +80,7 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/182195/)_
 
 ---
 
-## Lecture 6
+## Lecture 6: LLM: Agents I
 _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166030/)_
 
 <!-- Tutorial TBD. The Lecture 6 deck lists agent notebooks that are still being finalised.
@@ -93,7 +93,7 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166030/)_
 
 ---
 
-## Lecture 7
+## Lecture 7: LLM: Agents II (practical use)
 _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166031/)_
 
 ### LLM-Agents
@@ -102,7 +102,7 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166031/)_
 
 ---
 
-## Lecture 8
+## Lecture 8: LLM: Finetuning
 _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166032/)_
 
 ### LLM-Fine Tuning
@@ -119,7 +119,7 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166032/)_
 
 ---
 
-## Lecture 9
+## Lecture 9: Connecting to the Cloud: Networking, Authentication & Storage
 _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166034/)_
 
 <!-- Tutorial TBD. The Mega Pipeline App (Flexible Workflow) tutorial that used to sit
@@ -127,7 +127,7 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166034/)_
 
 ---
 
-## Lecture 10
+## Lecture 10: Automating Software Development: CI, unit testing
 _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166035/)_
 
 ### Testing with Pytest
@@ -140,7 +140,7 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166035/)_
 
 ---
 
-## Lecture 11
+## Lecture 11: Data Labeling, Versioning and Monitoring
 _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166036/)_
 
 ### Label Studio
@@ -154,12 +154,12 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166036/)_
 
 ---
 
-## Lecture 12
+## Lecture 12: App Design
 _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166037/)_
 
 ---
 
-## Lecture 13
+## Lecture 13: Advanced Training Workflows: experiment tracking (W&B), multi-GPU, serverless training (Vertex AI)
 _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166038/)_
 
 ### Experiment Tracking
@@ -180,7 +180,7 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166038/)_
 
 ---
 
-## Lecture 14
+## Lecture 14: Serverless Deployment: Cloud Functions, Cloud Run
 _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166039/)_
 
 ### Cloud Function and Cloud Run
@@ -190,7 +190,7 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166039/)_
 
 ---
 
-## Lecture 15
+## Lecture 15: ML Workflows with Vertex AI
 _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166040/)_
 
 ### Model Deployment using Vertex AI
@@ -205,17 +205,17 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166040/)_
 
 ---
 
-## Lecture 16
+## Lecture 16: System Tradeoffs: Performance, Cost, and Design Choices
 _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166041/)_
 
 ---
 
-## Lecture 17
+## Lecture 17: Evaluating and Monitoring ML Systems in Production
 _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166042/)_
 
 ---
 
-## Lecture 18
+## Lecture 18: APIs + Frontend
 _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166043/)_
 
 ### Frontend and FastAPI
@@ -236,7 +236,7 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166043/)_
 
 ---
 
-## Lecture 19
+## Lecture 19: Scaling: Kubernetes (local)
 _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166044/)_
 
 ### Scaling: Kubernetes (local)
@@ -249,7 +249,7 @@ Tutorial for Scaling: Kubernetes (local) coming soon
 
 ---
 
-## Lecture 20
+## Lecture 20: Deployment: Pulumi
 _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166045/)_
 
 ### Deployment of the full app to GCP (Manual)
@@ -262,7 +262,7 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166045/)_
 
 ---
 
-## Lecture 21
+## Lecture 21: Scaling: Kubernetes
 _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166046/)_
 
 ### Deployment with Scaling using Kubernetes (cloud)
@@ -271,7 +271,7 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166046/)_
 
 ---
 
-## Lecture 22
+## Lecture 22: Automating Software Development: CI/CD with GitHub Actions and other tools II
 _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166047/)_
 
 ### Remote CI/CD with GitHub Actions
@@ -280,7 +280,7 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166047/)_
 
 ---
 
-## Lecture 23
+## Lecture 23: Final Deployment and Review
 _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166048/)_
 
 ### Continuous Integration and Continuous Deployment
