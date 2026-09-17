@@ -66,6 +66,12 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166029/)_
 - **Description**: Container networks and ports. Two containers, one published port, one message.
 - **GCP GitHub URL**: [Port Toy App](https://github.com/dlops-io/port_toy)
 
+---
+
+## Lecture 5
+_[Ed lesson](https://edstem.org/us/courses/97373/lessons/182195/)_
+
+
 ### LLMs
 
 #### LLM-RAG
@@ -74,10 +80,10 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166029/)_
 
 ---
 
-## Lecture 5
+## Lecture 6
 _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166030/)_
 
-<!-- Tutorial TBD. The Lecture 5 deck lists agent notebooks that are still being finalised.
+<!-- Tutorial TBD. The Lecture 6 deck lists agent notebooks that are still being finalised.
      Previous entry, kept here for reference:
 
 ### LLM-Agents (Phidata)
@@ -87,7 +93,7 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166030/)_
 
 ---
 
-## Lecture 6
+## Lecture 7
 _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166031/)_
 
 ### LLM-Agents
@@ -96,7 +102,7 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166031/)_
 
 ---
 
-## Lecture 7
+## Lecture 8
 _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166032/)_
 
 ### LLM-Fine Tuning
@@ -113,7 +119,7 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166032/)_
 
 ---
 
-## Lecture 8
+## Lecture 9
 _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166034/)_
 
 <!-- Tutorial TBD. The Mega Pipeline App (Flexible Workflow) tutorial that used to sit
@@ -121,7 +127,7 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166034/)_
 
 ---
 
-## Lecture 9
+## Lecture 10
 _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166035/)_
 
 ### Testing with Pytest
@@ -134,7 +140,7 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166035/)_
 
 ---
 
-## Lecture 10
+## Lecture 11
 _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166036/)_
 
 ### Label Studio
@@ -148,11 +154,12 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166036/)_
 
 ---
 
-## Lecture 11
+## Lecture 12
+_[Ed lesson](https://edstem.org/us/courses/97373/lessons/166037/)_
 
 ---
 
-## Lecture 12
+## Lecture 13
 _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166038/)_
 
 ### Experiment Tracking
@@ -173,7 +180,7 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166038/)_
 
 ---
 
-## Lecture 13
+## Lecture 14
 _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166039/)_
 
 ### Cloud Function and Cloud Run
@@ -183,7 +190,7 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166039/)_
 
 ---
 
-## Lecture 14
+## Lecture 15
 _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166040/)_
 
 ### Model Deployment using Vertex AI
@@ -198,16 +205,18 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166040/)_
 
 ---
 
-## Lecture 15
-
----
-
 ## Lecture 16
+_[Ed lesson](https://edstem.org/us/courses/97373/lessons/166041/)_
 
 ---
 
 ## Lecture 17
-_[Ed lesson (APIs)](https://edstem.org/us/courses/97373/lessons/166043/)_ &nbsp; _[Ed lesson (Frontend)](https://edstem.org/us/courses/97373/lessons/166044/)_
+_[Ed lesson](https://edstem.org/us/courses/97373/lessons/166042/)_
+
+---
+
+## Lecture 18
+_[Ed lesson](https://edstem.org/us/courses/97373/lessons/166043/)_
 
 ### Frontend and FastAPI
 - **Description**: Simple Frontend with FastAPI
@@ -227,7 +236,8 @@ _[Ed lesson (APIs)](https://edstem.org/us/courses/97373/lessons/166043/)_ &nbsp;
 
 ---
 
-## Lecture 18
+## Lecture 19
+_[Ed lesson](https://edstem.org/us/courses/97373/lessons/166044/)_
 
 ### Scaling: Kubernetes (local)
 - **Description**: 
@@ -239,7 +249,7 @@ Tutorial for Scaling: Kubernetes (local) coming soon
 
 ---
 
-## Lecture 19
+## Lecture 20
 _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166045/)_
 
 ### Deployment of the full app to GCP (Manual)
@@ -252,7 +262,7 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166045/)_
 
 ---
 
-## Lecture 20
+## Lecture 21
 _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166046/)_
 
 ### Deployment with Scaling using Kubernetes (cloud)
@@ -261,7 +271,7 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166046/)_
 
 ---
 
-## Lecture 21
+## Lecture 22
 _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166047/)_
 
 ### Remote CI/CD with GitHub Actions
@@ -270,7 +280,8 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166047/)_
 
 ---
 
-## Lecture 22
+## Lecture 23
+_[Ed lesson](https://edstem.org/us/courses/97373/lessons/166048/)_
 
 ### Continuous Integration and Continuous Deployment
 - **Description**: Continuous Integration and Continuous Deployment
