@@ -83,13 +83,19 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/182195/)_
 ## Lecture 6: LLM: Agents I
 _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166030/)_
 
-<!-- Tutorial TBD. The Lecture 6 deck lists agent notebooks that are still being finalised.
-     Previous entry, kept here for reference:
+### Notebook 1: Cheese Quiz
+- **Description**: LLM Agents notebook (Cheese Quiz)
+- **Colab Notebook**: [Cheese Quiz](https://colab.research.google.com/drive/14UKW-Z7kFPuCwVqyUFcLxeA1KF70fwfm?usp=sharing)
+- **GCP GitHub URL**: [LLM-Agents](https://github.com/dlops-io/llm-rag?tab=readme-ov-file#agents)
+- **GCP GitHub URL**: [LLM Agent Google ADK](https://github.com/dlops-io/llm-agent-google-adk)
 
-### LLM-Agents (Phidata)
-- **Description**: LLM Agents with Phidata (Notebook)
-- **Colab Notebook**: [LLM-Agents](https://colab.research.google.com/drive/1UVn3L6KQgsrVLnLRaMVbpV3VJr_i5MLW?usp=sharing)
--->
+### Notebook 2: Travel Planner
+- **Description**: LLM Agents notebook (Travel Planner)
+- **Colab Notebook**: [Travel Planner](https://colab.research.google.com/drive/1I_jJEHJsVkGxNoSC1c4wEoVF2QL6vCVY?usp=sharing)
+
+### Notebook 3: Cheese Newsletter - Harness
+- **Description**: LLM Agents notebook (Cheese Newsletter - Harness)
+- **Colab Notebook**: [Cheese Newsletter - Harness](https://colab.research.google.com/drive/1nnHrJ4Si3tpgUQl6HqlcwxKymV1-ecPv?usp=sharing)
 
 ---
 
