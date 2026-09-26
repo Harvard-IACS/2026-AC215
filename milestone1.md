@@ -16,6 +16,8 @@ nav_order: 1
 
 ### Overview
 
+These guidelines are meant to provide general direction for preparing your Milestone 1 proposal. Every project is unique, so if you believe your idea doesn't fully fit within these expectations, please discuss it with the teaching staff during TF office hours or on Ed. The goal is to ensure that your proposal aligns with the spirit of the assignment while still reflecting the specific goals and scope of your project.
+
 For the first milestone, your team will **propose a project** that aligns with your personal, professional, and academic interests and passions.
 
 Allowing you to propose your own projects will enhance your engagement and lead to better learning outcomes. This approach will also foster independence, critical thinking, and creativity, preparing you for real-world scenarios where you may be required to initiate and lead your own projects. Call on your inner data scientist and take charge of your project experience.
@@ -34,7 +36,7 @@ Complete the four steps below to submit a valid project proposal.
 #### 2. Submit Statement of Work (Project Proposal)
 
 - **Title and Authors:** An engaging, relevant, and informative title, plus names of all team members with their email addresses.
-- **Background and Motivation:** Brief background (2-4 paragraphs) on the topic you have chosen. Explain why you find it interesting or important, and mention any previous background, research interests, or readings that have influenced your choice.
+- **Background and Motivation:** Brief background (2-4 paragraphs) on the topic you have chosen. Explain why you find it interesting or important and who the stakeholders are (the people who would use the application or benefit from it), and mention any previous background, research interests, or readings that have influenced your choice.
 - **Problem Statement (short):** Clearly outline the problem or question your project aims to solve in one or two sentences. You will expand on scope and objectives in Step 4.
 
 #### 3. Discuss Data Sources
@@ -60,7 +62,7 @@ For a project to be considered comprehensive, it should ideally include at least
 
 Your Statement of Work must also include:
 
-- **Scope and objectives:** Expand on your Problem Statement by clearly outlining the boundaries of your project and listing the primary goals or outcomes.
+- **Scope and objectives:** Expand on your Problem Statement by clearly outlining the boundaries of your project and listing the primary goals or outcomes. Describe what meaningful impact or success looks like (e.g., a model metric you will track, or what your stakeholders can do with the application that they cannot do today).
 - **Learning emphasis:** Opt for models and methods that your team understands.
 - **Application mock design:** Preliminary design or sketch for the application (wireframes or a more detailed prototype).
 - **Research and development:** References to papers, blog posts, or other scholarly materials that support your project.
@@ -98,7 +100,7 @@ Below is a sample submission for reference.
 
 **Background and Motivation**
 
-Butterflies are ecologically important and widely recognized as indicators of biodiversity. Identifying butterfly species in the wild can be challenging for non-experts. This project aims to combine computer vision with natural language processing to create an engaging educational tool.
+Butterflies are ecologically important and widely recognized as indicators of biodiversity. Identifying butterfly species in the wild can be challenging for non-experts. This project aims to combine computer vision with natural language processing to create an engaging educational tool. The stakeholders are hikers, gardeners, and students who photograph a butterfly and want to know what it is, and teachers who could use the tool in biology lessons.
 
 **Problem Statement (short)**
 
@@ -121,6 +123,7 @@ Develop an application that can identify various species of butterflies in the w
   3. Implement a scalable backend to handle multiple queries simultaneously.
   4. Design an intuitive and user-friendly frontend.
   5. Integrate a chatbot for answering user questions about butterflies.
+- Success: A non-expert can identify a butterfly from one photo without a field guide.
 
 **Minimum Components for a Good Project**
 
