@@ -93,7 +93,7 @@ Include screenshots (in the README or a dedicated folder under `docs/` ) showing
 
 ### Submission Instructions
 
-All deliverables must be submitted via GitHub (**milestone3** branch); submit the full commit hash on Canvas by **9:00 PM ET, November 12th**.
+All deliverables must be submitted via GitHub (**milestone3** branch); submit the full commit hash on Canvas by **10:00 PM ET, November 12th**.
 
 ---
 

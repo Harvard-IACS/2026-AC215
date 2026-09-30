@@ -229,7 +229,7 @@ For more information about the projects and milestones, you can click the links 
 
 ### Late Policy
 
-All course milestones must be submitted by **9:00 PM ET** on the specified due dates.
+All course milestones must be submitted by **10:00 PM ET** on the specified due dates.
 
 #### Late Days
 

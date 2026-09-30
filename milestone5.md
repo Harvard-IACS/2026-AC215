@@ -99,7 +99,7 @@ Submit the video in **MP4 format** with a minimum resolution of 720p.
 
 ### Submission Instructions
 
-- Submit all deliverables (GitHub repository link, video file, blog post link, and self/peer review forms) via the course submission portal by **9:00 PM ET, December 11th**.
+- Submit all deliverables (GitHub repository link, video file, blog post link, and self/peer review forms) via the course submission portal by **10:00 PM ET, December 11th**.
 - No late submissions.
 
 ---
