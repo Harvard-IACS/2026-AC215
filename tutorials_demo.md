@@ -53,7 +53,7 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166033/)_
 
 ---
 
-## Lecture 4: Containers III
+## Lecture 4: Containers II-b
 _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166029/)_
 
 ### Docker
@@ -99,12 +99,13 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166030/)_
 
 ---
 
-## Lecture 7: LLM: Agents II (practical use)
+## Lecture 7: LLM: Agents II
 _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166031/)_
 
-### LLM-Agents
-- **Description**: LLM Agents
-- **GCP GitHub URL**: [LLM-Agents](https://github.com/dlops-io/llm-rag?tab=readme-ov-file#agents)
+### Agent Harness
+- **Description**: Agent Harness
+- **Colab Notebook**: [Agent Harness on Google Colab](https://colab.research.google.com/drive/1ZYMsbG0gqsbs-6Pcj8WtT3WhEa4f80EZ?usp=sharing)
+- **GCP GitHub URL**: [Agent Harness](https://github.com/dlops-io/agent-harness)
 
 ---
 
@@ -114,27 +115,16 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166032/)_
 ### LLM-Fine Tuning
 - **Description**: LLM Fine Tuning using PEFT
 - **GCP GitHub URL**: [LLM Fine Tuning](https://github.com/dlops-io/llm-finetuning)
-
-### LLM Finetuning Hooks A
-- **Description**: LLM Finetuning Hooks A
-- **GCP GitHub URL**: [LLM Finetuning Hooks](https://github.com/dlops-io/llm-finetuning_hooksA)
-
-### LLM Finetuning Hooks B
-- **Description**: LLM Finetuning Hooks B
-- **GCP GitHub URL**: [LLM Finetuning Hooks](https://github.com/dlops-io/llm-finetuning_hooksB)
+- **Colab Notebook**: [LLM Fine Tuning Notebook](https://colab.research.google.com/drive/1oX3ADMHphW2v7mwV7zkEWD5oYewJZEAC)
 
 ---
 
-## Lecture 9: Connecting to the Cloud: Networking, Authentication & Storage
+## Lecture 9: Automating Software Development: CI, unit testing
 _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166034/)_
 
-<!-- Tutorial TBD. The Mega Pipeline App (Flexible Workflow) tutorial that used to sit
-     here has moved up to Lecture 4, alongside the Docker Compose port_toy demo. -->
-
----
-
-## Lecture 10: Automating Software Development: CI, unit testing
-_[Ed lesson](https://edstem.org/us/courses/97373/lessons/166035/)_
+_Taught as a guest lecture by Rahul Dave ("Software Development for Machine Learning")._
+- **Slides/Tutorial App**: [Babykev Walk](https://github.com/rahuldave/babykev-walk)
+- **Project Repository**: [Babykev](https://github.com/rahuldave/babykev)
 
 ### Testing with Pytest
 - **Description**: Unit, integration, system and acceptance tests with pytest
@@ -143,6 +133,15 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166035/)_
 ### Automating with Pre-commit Hooks
 - **Description**: Local git hooks that run linters, formatters and tests before each commit
 - **GCP GitHub URL**: [Pre-commit Hooks](https://github.com/dlops-io/cheese-app-ci-cd/blob/main/README.md#part-4-automating-with-pre-commit-hooks)
+
+---
+
+## Lecture 10: Connecting to the Cloud: Networking, Authentication & Storage
+_[Ed lesson](https://edstem.org/us/courses/97373/lessons/166035/)_
+
+### LLM-Fine Tuning
+- **Description**: Cheese-app-V0
+- **GCP GitHub URL**: [Cheese-app-V0](https://github.com/dlops-io/cheese-app-v0)
 
 ---
 
@@ -268,21 +267,21 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166045/)_
 
 ---
 
-## Lecture 21: Scaling: Kubernetes
+## Lecture 21: Automating Software Development: CI/CD with GitHub Actions and other tools II
 _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166046/)_
-
-### Deployment with Scaling using Kubernetes (cloud)
-- **Description**: Deployment with Scaling using Kubernetes
-- **GCP GitHub URL**: [App v3: Deployment with Scaling using Kubernetes](https://github.com/dlops-io/cheese-app-v3?tab=readme-ov-file#deployment-with-scaling-using-kubernetes)
-
----
-
-## Lecture 22: Automating Software Development: CI/CD with GitHub Actions and other tools II
-_[Ed lesson](https://edstem.org/us/courses/97373/lessons/166047/)_
 
 ### Remote CI/CD with GitHub Actions
 - **Description**: CI pipeline on GitHub Actions: build container, lint and format, test, summary
 - **GCP GitHub URL**: [GitHub Actions Remote CI/CD](https://github.com/dlops-io/cheese-app-ci-cd/blob/main/README.md#part-5-github-actions-remote-ci)
+
+---
+
+## Lecture 22: Scaling: Kubernetes (cloud)
+_[Ed lesson](https://edstem.org/us/courses/97373/lessons/166047/)_
+
+### Deployment with Scaling using Kubernetes (cloud)
+- **Description**: Deployment with Scaling using Kubernetes
+- **GCP GitHub URL**: [App v3: Deployment with Scaling using Kubernetes](https://github.com/dlops-io/cheese-app-v3?tab=readme-ov-file#deployment-with-scaling-using-kubernetes)
 
 ---
 
