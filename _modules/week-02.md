@@ -8,4 +8,4 @@ Sep 8
 
 Sep 10
 : Containers II
-  : [Lecture 3](/not-yet/)
+  : [Lecture 3](/not-yet/) &nbsp; [Lecture 4](/not-yet/)

@@ -218,6 +218,10 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166041/)_
 ## Lecture 17: Evaluating and Monitoring ML Systems in Production
 _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166042/)_
 
+### Production Monitoring: The Incident Nobody Noticed
+- **Description**: A deployed cheese classifier has quietly dropped from 92% to 68% accuracy. Write four monitoring probes (data quality, drift, serving parity, performance) in a container, replay 90 days of prediction logs, and find the three overlapping failures and the day each became visible. No cloud resources needed.
+- **GCP GitHub URL**: [Production Monitoring](https://github.com/dlops-io/production-monitoring)
+
 ---
 
 ## Lecture 18: APIs + Frontend
