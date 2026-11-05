@@ -218,6 +218,10 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166041/)_
 ## Lecture 17: Evaluating and Monitoring ML Systems in Production
 _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166042/)_
 
+### Production Monitoring
+- **Description**: Investigate a failing cheese model in production from its prediction logs, then build the monitoring that would have caught it.
+- **GCP GitHub URL**: [Production Monitoring](https://github.com/dlops-io/production-monitoring/tree/main)
+
 ---
 
 ## Lecture 18: APIs + Frontend
