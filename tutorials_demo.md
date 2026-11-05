@@ -68,13 +68,10 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166029/)_
 
 ---
 
-## Lecture 5: Introduction to RAG
+## Lecture 5: LLM: RAGs
 _[Ed lesson](https://edstem.org/us/courses/97373/lessons/182195/)_
 
-
-### LLMs
-
-#### LLM-RAG
+### LLM-RAG
 - **Description**: Building a RAG System with Vector DB and LLM
 - **GCP GitHub URL**: [LLM-1](https://github.com/dlops-io/llm-rag)
 
@@ -83,23 +80,16 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/182195/)_
 ## Lecture 6: LLM: Agents I
 _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166030/)_
 
-### Tutorial 1: Cheese Quiz
-- **Description**: LLM Agents notebook (Cheese Quiz)
-  - **Cheese Quiz**: [Colab](https://colab.research.google.com/drive/14UKW-Z7kFPuCwVqyUFcLxeA1KF70fwfm?usp=sharing)
-  - **LLM-Agents**: [GitHub](https://github.com/dlops-io/llm-rag?tab=readme-ov-file#agents)
-  - **LLM Agent Google ADK**: [GitHub](https://github.com/dlops-io/llm-agent-google-adk)
-
-### Tutorial 2: Travel Planner
-- **Description**: LLM Agents notebook (Travel Planner)
+### LLM Agents
+- **Description**: LLM Agents notebooks and the agents section of the LLM-RAG repository
+  - **LLM Agents - The Cheesy way - Cheese Quiz**: [Colab](https://colab.research.google.com/drive/14UKW-Z7kFPuCwVqyUFcLxeA1KF70fwfm?usp=sharing)
+  - **LLM-RAG with Agents**: [GitHub](https://github.com/dlops-io/llm-rag?tab=readme-ov-file#agents)
   - **Travel Planner**: [Colab](https://colab.research.google.com/drive/1I_jJEHJsVkGxNoSC1c4wEoVF2QL6vCVY?usp=sharing)
-
-### Tutorial 3: Cheese Newsletter - Harness
-- **Description**: LLM Agents notebook (Cheese Newsletter - Harness)
-  - **Cheese Newsletter - Harness**: [Colab](https://colab.research.google.com/drive/1nnHrJ4Si3tpgUQl6HqlcwxKymV1-ecPv?usp=sharing)
+  - **Cheese Newsletter**: [Colab](https://colab.research.google.com/drive/1nnHrJ4Si3tpgUQl6HqlcwxKymV1-ecPv?usp=sharing)
 
 ---
 
-## Lecture 7: LLM: Agents II
+## Lecture 7: LLM: Agents II (+Agents Practical Use)
 _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166031/)_
 
 ### Agent Harness
@@ -145,7 +135,7 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166035/)_
 
 ---
 
-## Lecture 11: Data Labeling, Versioning and Monitoring
+## Lecture 11: Data Management and Versioning
 _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166036/)_
 
 ### Label Studio
@@ -162,6 +152,9 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166036/)_
 ## Lecture 12: App Design
 _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166037/)_
 
+### Steps to build a Solution Architecture
+- **Slides**: [Steps to build a Solution Architecture](https://docs.google.com/presentation/d/1U69Nri6ZBYmjGSv5402kZwXnswo1eYZDBhBRPuIfKas)
+
 ---
 
 ## Lecture 13: Advanced Training Workflows: experiment tracking (W&B), multi-GPU, serverless training (Vertex AI)
@@ -175,23 +168,24 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166038/)_
 ### Advanced Workflow: Serverless Model Training with Vertex AI
 - **Description**: Serverless Model Training with Vertex AI
 - **GCP GitHub URL**: [Serverless Model Training](https://github.com/dlops-io/model-training)
-- **AWS GitHub URL**: Coming Soon
 
 <!-- AWS repo exists but is PRIVATE, so it is not linked here:
      https://github.com/dlops-io/model-training-aws
-     Make it public to publish, then replace the "Coming Soon" line above with:
+     Make it public to publish, then add this line under the GCP URL above:
      - **AWS GitHub URL**: [Serverless Model Training - AWS](https://github.com/dlops-io/model-training-aws)
 -->
 
 ---
 
-## Lecture 14: Serverless Deployment: Cloud Functions, Cloud Run
+## Lecture 14: Serverless Deployment: Functions, Services, Identity, and Jobs
 _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166039/)_
 
-### Cloud Function and Cloud Run
-- **Description**: Cloud Function and Cloud Run
-- **GCP GitHub URL**: [Cloud Function](https://github.com/dlops-io/serverless-deployment#running-app-as-cloud-function), [Cloud Run](https://github.com/dlops-io/serverless-deployment#running-app-in-cloud-run)
-- **AWS GitHub URL**: Coming Soon
+### Serverless Deployment
+- **Description**: Follow the [four-part tutorial](https://github.com/dlops-io/serverless-deployment) in order. Each part adds one idea to the same translation application; start with the console walkthroughs and expand the optional command-line alternatives when useful.
+  - [Part 1: Deploy a translation function](https://github.com/dlops-io/serverless-deployment#part-1-deploy-a-translation-function): source code to a public endpoint.
+  - [Part 2: Deploy a translation web app](https://github.com/dlops-io/serverless-deployment#part-2-deploy-a-translation-web-app): a tested local container to a public Cloud Run service.
+  - [Part 3: Give the web app access to Agent Platform](https://github.com/dlops-io/serverless-deployment#part-3-give-the-web-app-access-to-agent-platform): service accounts, speech generation, and local development with Application Default Credentials.
+  - [Part 4: Generate and save a translated audio edition](https://github.com/dlops-io/serverless-deployment#part-4-generate-and-save-a-translated-audio-edition): a finite Cloud Run job that saves translated text and audio to Cloud Storage, with console and CLI submission paths.
 
 ---
 
@@ -227,21 +221,21 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166042/)_
 ## Lecture 18: APIs + Frontend
 _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166043/)_
 
-### Frontend and FastAPI
-- **Description**: Simple Frontend with FastAPI
-- **GCP GitHub URL**: [App v1](https://github.com/dlops-io/cheese-app-v1)
+### APIs & Frontend Demo
+- **Description**: APIs & Frontend Demo
+- **GCP GitHub URL**: [Cheese Shop Demo](https://github.com/dlops-io/cheese-shop-demo)
+
+### API & Frontend
+- **Description**: Set up and run the Cheese App
+- **GCP GitHub URL**: [App v2: Setup & Run Cheese App](https://github.com/dlops-io/cheese-app-v2#tutorial-setup--run-cheese-app)
 
 ### Backend and FastAPI
 - **Description**: Cheese App APIs
-- **GCP GitHub URL**: [App v2: FastAPI Backend](https://github.com/dlops-io/cheese-app-v2?tab=readme-ov-file#tutorial-23-backend-apis)
-
-### Frontend Simple
-- **Description**: Frontend Simple
-- **GCP GitHub URL**: [App v2: Frontend Simple](https://github.com/dlops-io/cheese-app-v2?tab=readme-ov-file#tutorial-24-simple-frontend-app)
+- **GCP GitHub URL**: [App v2: FastAPI Backend](https://github.com/dlops-io/cheese-app-v2#tutorial-backend-apis)
 
 ### Frontend React
 - **Description**: Frontend App (React)
-- **GCP GitHub URL**: [App v2: Frontend React](https://github.com/dlops-io/cheese-app-v2?tab=readme-ov-file#tutorial-25-react-frontend-setup)
+- **GCP GitHub URL**: [App v2: Frontend React](https://github.com/dlops-io/cheese-app-v2#tutorial-react-frontend-setup)
 
 ---
 
@@ -295,4 +289,4 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166048/)_
 ### Continuous Integration and Continuous Deployment
 - **Description**: Continuous Integration and Continuous Deployment
 - **GCP GitHub URL**: [App v4: Continuous Integration and Continuous Deployment](https://github.com/dlops-io/cheese-app-v4#cheese-app---automation)
-- **AWS GitHub URL**: No K8s [App: AWS - Continuous Integration and Continuous Deployment](https://github.com/dlops-io/cheese-app-aws)
+- **AWS GitHub URL**: [App: AWS - Continuous Integration and Continuous Deployment](https://github.com/dlops-io/cheese-app-aws)
