@@ -32,7 +32,7 @@ For this milestone, your goal is to **integrate your model into a running system
 
 ### Template Repository
 
-<span style="color: red">**[ADD LINK]**</span>
+**[dlops-io/project-setup-template](https://github.com/dlops-io/project-setup-template/tree/milestone3)**
 
 ---
 
