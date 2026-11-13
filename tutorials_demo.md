@@ -243,10 +243,9 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166043/)_
 _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166044/)_
 
 ### Scaling: Kubernetes (local)
-- **Description**: 
-- **GCP GitHub URL**: 
-
-- GCP: [Production Monitoring](https://github.com/dlops-io/production-monitoring/tree/main)
+- **Description**: Scaling with Kubernetes
+- **Cheese Shop Demo App**: [Scaling with Kubernetes](https://github.com/dlops-io/cheese-shop-demo#tutorial-scaling-with-kubernetes)   
+- **Cheese App Vector DB, API & Frontend** : [Kubernetes on your Laptop](https://github.com/dlops-io/cheese-app-v3#tutorial-kubernetes-on-your-laptop) 
 
 ---
 
