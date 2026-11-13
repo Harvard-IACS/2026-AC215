@@ -246,9 +246,7 @@ _[Ed lesson](https://edstem.org/us/courses/97373/lessons/166044/)_
 - **Description**: 
 - **GCP GitHub URL**: 
 
-<div style="color: red; font-weight: bold;">
-Tutorial for Scaling: Kubernetes (local) coming soon
-</div>
+- GCP: [Production Monitoring](https://github.com/dlops-io/production-monitoring/tree/main)
 
 ---
 
