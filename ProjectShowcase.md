@@ -76,6 +76,8 @@ so change a project through its form response, not here.
 
 Projects created by AC215 students.
 
+*More projects coming soon.*
+
 <div class="project-showcase">
 {% raw %}
 
