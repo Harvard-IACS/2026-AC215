@@ -82,10 +82,26 @@ Projects created by AC215 students.
 {% raw %}
 
 <div class="project-card">
+  <img src="../assets/projects/All-Weather-Asset-Allocation-Platform.jpg" alt="All-Weather Asset Allocation Platform" class="project-image" loading="lazy">
+  <h3 class="project-title" id="project-all-weather-asset-allocation-platform">All-Weather Asset Allocation Platform</h3>
+  <p class="project-description">
+    All-Weather Portfolio is an intelligent investment platform that automatically generates diversified portfolio allocations based on users' risk tolerance. It offers personalized strategies across asset classes that help users manage risk while pursuing long-term growth.
+  </p>
+</div>
+
+<div class="project-card">
   <img src="../assets/projects/CareerGraph.png" alt="CareerGraph" class="project-image" loading="lazy">
   <h3 class="project-title" id="project-careergraph">CareerGraph</h3>
   <p class="project-description">
     CareerGraph helps early-career candidates understand how well their resumes match real data and machine learning job openings. It checks each requirement against the resume and suggests whether to apply, reframe experience, or build missing skills.
+  </p>
+</div>
+
+<div class="project-card">
+  <img src="../assets/projects/Crossed-Out-Not-Lost.png" alt="Crossed Out, Not Lost" class="project-image" loading="lazy">
+  <h3 class="project-title" id="project-crossed-out-not-lost">Crossed Out, Not Lost</h3>
+  <p class="project-description">
+    Crossed Out, Not Lost uses document AI to detect crossed-out text in PDFs and scanned documents, making deletions visible and preserving them in structured text output.
   </p>
 </div>
 
@@ -122,6 +138,22 @@ Projects created by AC215 students.
 </div>
 
 <div class="project-card">
+  <img src="../assets/projects/Hall-Monitor.jpg" alt="Hall Monitor" class="project-image" loading="lazy">
+  <h3 class="project-title" id="project-hall-monitor">Hall Monitor</h3>
+  <p class="project-description">
+    Hall Monitor scrapes hours-long city public meetings and makes them searchable. It shows an emotion analysis graph of when things get heated, summarizes the meeting, and as a companion for journalists, it present the top news stories that could come out of the meeting.
+  </p>
+</div>
+
+<div class="project-card">
+  <img src="../assets/projects/LandmarkersAI-NYC-Landmarks-Preservation-Commission-AI-Agent.png" alt="LandmarkersAI - NYC Landmarks Preservation Commission AI Agent" class="project-image" loading="lazy">
+  <h3 class="project-title" id="project-landmarkersai-nyc-landmarks-preservation-commission-ai-agent">LandmarkersAI - NYC Landmarks Preservation Commission AI Agent</h3>
+  <p class="project-description">
+    Enter a New York City property address and describe your proposed work. The app estimates the landmark permit review pathway and shows relevant Landmarks Preservation Commission rules and similar past permits.
+  </p>
+</div>
+
+<div class="project-card">
   <img src="../assets/projects/Medical-Assistant-Project-MAP.jpg" alt="Medical Assistant Project (MAP)" class="project-image" loading="lazy">
   <h3 class="project-title" id="project-medical-assistant-project-map">Medical Assistant Project (MAP)</h3>
   <p class="project-description">
@@ -150,6 +182,14 @@ Projects created by AC215 students.
   <h3 class="project-title" id="project-polyhistor">PolyHistor</h3>
   <p class="project-description">
     PolyHistor is a web app that lets users explore 2D art across a rich shared embedding space. A text or image prompt produces a small “exhibit” of paintings from more than 104,000 artworks, with an interactive map of their thematic relationships.
+  </p>
+</div>
+
+<div class="project-card">
+  <img src="../assets/projects/Rumi.jpg" alt="Rumi" class="project-image" loading="lazy">
+  <h3 class="project-title" id="project-rumi">Rumi</h3>
+  <p class="project-description">
+    Rumi keeps academics up to date with new research and latest news. Every day, Rumi picks the papers and announcements related to your own research that matter most, explaining how such breakthroughs could be integrated in your work.
   </p>
 </div>
 
