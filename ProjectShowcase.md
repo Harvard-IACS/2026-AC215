@@ -90,6 +90,22 @@ Projects created by AC215 students.
 </div>
 
 <div class="project-card">
+  <img src="../assets/projects/DishMatcher.png" alt="DishMatcher" class="project-image" loading="lazy">
+  <h3 class="project-title" id="project-dishmatcher">DishMatcher</h3>
+  <p class="project-description">
+    Our app helps users to match the picture of a restaurant dish they wish to order with the correct corresponding menu text entry.
+  </p>
+</div>
+
+<div class="project-card">
+  <img src="../assets/projects/Earthgrep.png" alt="Earthgrep" class="project-image" loading="lazy">
+  <h3 class="project-title" id="project-earthgrep">Earthgrep</h3>
+  <p class="project-description">
+    Earthgrep is a search engine for the physical world. You type what you want to find, such as “golf courses in Massachusetts”, and Earthgrep searches Google’s AlphaEarth satellite embeddings and shows the matches on a map. Try it yourself on app.earthgrep.com.
+  </p>
+</div>
+
+<div class="project-card">
   <img src="../assets/projects/FurCast.png" alt="FurCast" class="project-image" loading="lazy">
   <h3 class="project-title" id="project-furcast">FurCast</h3>
   <p class="project-description">
@@ -98,10 +114,50 @@ Projects created by AC215 students.
 </div>
 
 <div class="project-card">
+  <img src="../assets/projects/Glimpse.jpg" alt="Glimpse" class="project-image" loading="lazy">
+  <h3 class="project-title" id="project-glimpse">Glimpse</h3>
+  <p class="project-description">
+    Glimpse helps people find photos by describing what they remember, such as “sunset by the lake.” We combine fine-tuned vision-language models with a cloud-deployed search service to retrieve relevant images without manually tagging them.
+  </p>
+</div>
+
+<div class="project-card">
+  <img src="../assets/projects/Medical-Assistant-Project-MAP.jpg" alt="Medical Assistant Project (MAP)" class="project-image" loading="lazy">
+  <h3 class="project-title" id="project-medical-assistant-project-map">Medical Assistant Project (MAP)</h3>
+  <p class="project-description">
+    MAP helps patients explore and understand their medical records in plain language. In our demo, users can browse synthetic health records and ask questions about lab results, medications, and health history, with answers that cite the source records.
+  </p>
+</div>
+
+<div class="project-card">
+  <img src="../assets/projects/PawGuide.jpg" alt="PawGuide" class="project-image" loading="lazy">
+  <h3 class="project-title" id="project-pawguide">PawGuide</h3>
+  <p class="project-description">
+    PawGuide is an AI-powered dog health tracking application that analyzes stool images, records health observations, and provides evidence-based guidance through a veterinary knowledge RAG system.
+  </p>
+</div>
+
+<div class="project-card">
+  <img src="../assets/projects/Poisson.png" alt="Poisson" class="project-image" loading="lazy">
+  <h3 class="project-title" id="project-poisson">Poisson</h3>
+  <p class="project-description">
+    Poisson is an AI-enabled web app that helps recreational fishers know what they are allowed to do with the fish they catch. Upload a photo, and Poisson identifies the species, explains the local regulations that apply, and answers your questions with sources.
+  </p>
+</div>
+
+<div class="project-card">
   <img src="../assets/projects/PolyHistor.jpg" alt="PolyHistor" class="project-image" loading="lazy">
   <h3 class="project-title" id="project-polyhistor">PolyHistor</h3>
   <p class="project-description">
     PolyHistor is a web app that lets users explore 2D art across a rich shared embedding space. A text or image prompt produces a small “exhibit” of paintings from more than 104,000 artworks, with an interactive map of their thematic relationships.
+  </p>
+</div>
+
+<div class="project-card">
+  <img src="../assets/projects/Triage.png" alt="Triage" class="project-image" loading="lazy">
+  <h3 class="project-title" id="project-triage">Triage</h3>
+  <p class="project-description">
+    Triage helps trial coordinators quickly and accurately match breast cancer patients to eligible clinical trials. By explaining its reasoning for every eligibility criterion, Triage serves as a transparent screening aid that lets coordinators verify each match.
   </p>
 </div>
 
