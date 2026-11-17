@@ -101,7 +101,7 @@ Projects created by AC215 students.
   <img src="../assets/projects/Earthgrep.png" alt="Earthgrep" class="project-image" loading="lazy">
   <h3 class="project-title" id="project-earthgrep">Earthgrep</h3>
   <p class="project-description">
-    Earthgrep is a search engine for the physical world. You type what you want to find, such as “golf courses in Massachusetts”, and Earthgrep searches Google’s AlphaEarth satellite embeddings and shows the matches on a map. Try it yourself on app.earthgrep.com.
+    Earthgrep is a search engine for the physical world. You type what you want to find, such as “golf courses in Massachusetts”, and Earthgrep searches Google’s AlphaEarth satellite embeddings and shows the matches on a map. Try it yourself on <a href="https://app.earthgrep.com" target="_blank" rel="noopener">app.earthgrep.com</a>.
   </p>
 </div>
 
