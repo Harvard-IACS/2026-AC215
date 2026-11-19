@@ -98,6 +98,14 @@ Projects created by AC215 students.
 </div>
 
 <div class="project-card">
+  <img src="../assets/projects/CareOneX.png" alt="CareOneX" class="project-image" loading="lazy">
+  <h3 class="project-title" id="project-careonex">CareOneX</h3>
+  <p class="project-description">
+    Home care Voice Agents
+  </p>
+</div>
+
+<div class="project-card">
   <img src="../assets/projects/Crossed-Out-Not-Lost.png" alt="Crossed Out, Not Lost" class="project-image" loading="lazy">
   <h3 class="project-title" id="project-crossed-out-not-lost">Crossed Out, Not Lost</h3>
   <p class="project-description">
@@ -118,6 +126,14 @@ Projects created by AC215 students.
   <h3 class="project-title" id="project-earthgrep">Earthgrep</h3>
   <p class="project-description">
     Earthgrep is a search engine for the physical world. You type what you want to find, such as “golf courses in Massachusetts”, and Earthgrep searches Google’s AlphaEarth satellite embeddings and shows the matches on a map. Try it yourself on <a href="https://app.earthgrep.com" target="_blank" rel="noopener">app.earthgrep.com</a>.
+  </p>
+</div>
+
+<div class="project-card">
+  <img src="../assets/projects/EverFit-AI.jpg" alt="EverFit AI" class="project-image" loading="lazy">
+  <h3 class="project-title" id="project-everfit-ai">EverFit AI</h3>
+  <p class="project-description">
+    An agentic AI platform that monitors ML models, detects drift, and diagnoses performance issues. It recommends fixes and automates retraining to keep models accurate and reliable.
   </p>
 </div>
 
@@ -186,6 +202,22 @@ Projects created by AC215 students.
 </div>
 
 <div class="project-card">
+  <img src="../assets/projects/ResearchPulse.png" alt="ResearchPulse" class="project-image" loading="lazy">
+  <h3 class="project-title" id="project-researchpulse">ResearchPulse</h3>
+  <p class="project-description">
+    ResearchPulse helps you spot the next big idea in AI/ML before everyone else does. Every day it scans what researchers and developers are posting, reading and discussing, and points out the topics that are small today but about to grow.
+  </p>
+</div>
+
+<div class="project-card">
+  <img src="../assets/projects/RoamWise-Your-AI-Powered-Travel-Companion.jpg" alt="RoamWise - Your AI-Powered Travel Companion" class="project-image" loading="lazy">
+  <h3 class="project-title" id="project-roamwise-your-ai-powered-travel-companion">RoamWise - Your AI-Powered Travel Companion</h3>
+  <p class="project-description">
+    RoamWise transforms your travel interests—whether history, museums, food, or nature—into personalized adventures across Greater Boston. Share your preferences, pick your favorite AI-ranked spots, and RoamWise turns them into a customized itinerary.
+  </p>
+</div>
+
+<div class="project-card">
   <img src="../assets/projects/Rumi.jpg" alt="Rumi" class="project-image" loading="lazy">
   <h3 class="project-title" id="project-rumi">Rumi</h3>
   <p class="project-description">
@@ -206,6 +238,14 @@ Projects created by AC215 students.
   <h3 class="project-title" id="project-vantagex">VantageX</h3>
   <p class="project-description">
     VantageX helps AI researchers write social posts that resonate with their community. It retrieves similar peer posts from Bluesky, drafts with Claude, and surfaces which emerging AI names are likely to keep gaining attention.
+  </p>
+</div>
+
+<div class="project-card">
+  <img src="../assets/projects/YardBird.png" alt="YardBird" class="project-image" loading="lazy">
+  <h3 class="project-title" id="project-yardbird">YardBird</h3>
+  <p class="project-description">
+    Yardbird is an event-discovery app. We built a self-expanding, self-healing web crawler to find events, and an addictive swiping interface that learns each user's taste.
   </p>
 </div>
 
