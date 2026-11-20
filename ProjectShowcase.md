@@ -82,10 +82,66 @@ Projects created by AC215 students.
 {% raw %}
 
 <div class="project-card">
+  <img src="../assets/projects/Aesop.png" alt="Aesop" class="project-image" loading="lazy">
+  <h3 class="project-title" id="project-aesop">Aesop</h3>
+  <p class="project-description">
+    Aesop lets language learners read any book at their level. It rewrites each chapter to fit the reader without changing the story, updates their level as they read, and works in multiple languages.
+  </p>
+</div>
+
+<div class="project-card">
+  <img src="../assets/projects/Agentic-Interlocking-Brick-Building.png" alt="Agentic Interlocking Brick Building" class="project-image" loading="lazy">
+  <h3 class="project-title" id="project-agentic-interlocking-brick-building">Agentic Interlocking Brick Building</h3>
+  <p class="project-description">
+    Our product generates buildable LEGO models of real buildings: an LLM agent writes a building program, and our compiler turns it into a validated model made of real parts. The web app lets you watch it go together step by step in 3D and download the parts list.
+  </p>
+</div>
+
+<div class="project-card">
   <img src="../assets/projects/All-Weather-Asset-Allocation-Platform.jpg" alt="All-Weather Asset Allocation Platform" class="project-image" loading="lazy">
   <h3 class="project-title" id="project-all-weather-asset-allocation-platform">All-Weather Asset Allocation Platform</h3>
   <p class="project-description">
     All-Weather Portfolio is an intelligent investment platform that automatically generates diversified portfolio allocations based on users' risk tolerance. It offers personalized strategies across asset classes that help users manage risk while pursuing long-term growth.
+  </p>
+</div>
+
+<div class="project-card">
+  <img src="../assets/projects/ArcTrac.png" alt="ArcTrac" class="project-image" loading="lazy">
+  <h3 class="project-title" id="project-arctrac">ArcTrac</h3>
+  <p class="project-description">
+    ArcTrac is a tele-rehab tool for shoulder patients. Patients record prescribed exercises, computer vision measures range of motion, and an LLM agent explains recovery progress against the care plan, alerting the physical therapist when clinical thresholds are crossed.
+  </p>
+</div>
+
+<div class="project-card">
+  <img src="../assets/projects/ATLAS.jpg" alt="ATLAS" class="project-image" loading="lazy">
+  <h3 class="project-title" id="project-atlas">ATLAS</h3>
+  <p class="project-description">
+    We find where your system breaks. ATLAS is an agentic load-testing platform. Users describe a test in plain English; LLM-powered agents turn it into a plan, provision load generators on GKE, run it against the target, and explain the results.
+  </p>
+</div>
+
+<div class="project-card">
+  <img src="../assets/projects/BetterPaws.png" alt="BetterPaws" class="project-image" loading="lazy">
+  <h3 class="project-title" id="project-betterpaws">BetterPaws</h3>
+  <p class="project-description">
+    Caring for a pet with a chronic condition shouldn't feel overwhelming. BetterPaws brings caregivers together with an AI-powered companion that turns everyday observations into meaningful health insights, simplifies veterinary visits, and makes better care a team effort.
+  </p>
+</div>
+
+<div class="project-card">
+  <img src="../assets/projects/Beyond-the-ETA-A-Reliability-Aware-Campus-Travel-Agent.png" alt="Beyond the ETA: A Reliability-Aware Campus Travel Agent" class="project-image" loading="lazy">
+  <h3 class="project-title" id="project-beyond-the-eta-a-reliability-aware-campus-travel-agent">Beyond the ETA: A Reliability-Aware Campus Travel Agent</h3>
+  <p class="project-description">
+    Bus schedules say when a bus should come. Beyond the ETA predicts when it actually will. Trained on a year of real MBTA arrivals, it gives Cambridge riders an arrival time with an honest 80% range, through a chat assistant that recommends routes and flags construction.
+  </p>
+</div>
+
+<div class="project-card">
+  <img src="../assets/projects/CancerOut.jpg" alt="CancerOut" class="project-image" loading="lazy">
+  <h3 class="project-title" id="project-cancerout">CancerOut</h3>
+  <p class="project-description">
+    We developed an AI-powered tool that analyzes lung histopathology slides to detect potential cancer and classify its type. The system flags uncertain predictions and generates visual heatmaps to support pathologists in their review and clinical decision-making.
   </p>
 </div>
 
@@ -106,7 +162,15 @@ Projects created by AC215 students.
 </div>
 
 <div class="project-card">
-  <img src="../assets/projects/Crossed-Out-Not-Lost.png" alt="Crossed Out, Not Lost" class="project-image" loading="lazy">
+  <img src="../assets/projects/Claim-Ledger.png" alt="Claim Ledger" class="project-image" loading="lazy">
+  <h3 class="project-title" id="project-claim-ledger">Claim Ledger</h3>
+  <p class="project-description">
+    Claim Ledger extracts forward-looking claims from SEC filings and checks them against later disclosures. It estimates the odds that open claims will be fulfilled and compares each company's track record with its peers, with links to the evidence.
+  </p>
+</div>
+
+<div class="project-card">
+  <img src="../assets/projects/Crossed-Out-Not-Lost.jpg" alt="Crossed Out, Not Lost" class="project-image" loading="lazy">
   <h3 class="project-title" id="project-crossed-out-not-lost">Crossed Out, Not Lost</h3>
   <p class="project-description">
     Crossed Out, Not Lost uses document AI to detect crossed-out text in PDFs and scanned documents, making deletions visible and preserving them in structured text output.
@@ -114,10 +178,26 @@ Projects created by AC215 students.
 </div>
 
 <div class="project-card">
-  <img src="../assets/projects/DishMatcher.png" alt="DishMatcher" class="project-image" loading="lazy">
+  <img src="../assets/projects/Cycleur.jpg" alt="Cycleur" class="project-image" loading="lazy">
+  <h3 class="project-title" id="project-cycleur">Cycleur</h3>
+  <p class="project-description">
+    Cycleur finds the best bike route for the views you want. Tell it “shady, by the water, past historic buildings,” and it scores every block from aerial imagery alone, predicting how each street feels to a rider, then plans the route that suits you best.
+  </p>
+</div>
+
+<div class="project-card">
+  <img src="../assets/projects/DishMatcher.jpg" alt="DishMatcher" class="project-image" loading="lazy">
   <h3 class="project-title" id="project-dishmatcher">DishMatcher</h3>
   <p class="project-description">
-    Our app helps users to match the picture of a restaurant dish they wish to order with the correct corresponding menu text entry.
+    Dish Match helps diners identify dishes by matching a food photo to a restaurant’s menu. Upload a dish photo and a menu photo, and the app reads the menu and suggests the most likely matches.
+  </p>
+</div>
+
+<div class="project-card">
+  <img src="../assets/projects/Docent.png" alt="Docent" class="project-image" loading="lazy">
+  <h3 class="project-title" id="project-docent">Docent</h3>
+  <p class="project-description">
+    Students waste hours rereading what they already know. Docent, a personal tutor for any course, tracks each student’s mastery all semester, spots the gaps, and points them to the exact slide or lecture moment, with practice problems grounded in how the class was taught.
   </p>
 </div>
 
@@ -130,10 +210,26 @@ Projects created by AC215 students.
 </div>
 
 <div class="project-card">
+  <img src="../assets/projects/EduTranscribe.jpg" alt="EduTranscribe" class="project-image" loading="lazy">
+  <h3 class="project-title" id="project-edutranscribe">EduTranscribe</h3>
+  <p class="project-description">
+    Little hands, big ideas, messy handwriting! EduTranscribe uses AI to turn young students’ handwritten stories into digital text, flagging tricky words for teacher review so students are assessed on their writing, not their handwriting. Let every idea shine!
+  </p>
+</div>
+
+<div class="project-card">
   <img src="../assets/projects/EverFit-AI.jpg" alt="EverFit AI" class="project-image" loading="lazy">
   <h3 class="project-title" id="project-everfit-ai">EverFit AI</h3>
   <p class="project-description">
     An agentic AI platform that monitors ML models, detects drift, and diagnoses performance issues. It recommends fixes and automates retraining to keep models accurate and reliable.
+  </p>
+</div>
+
+<div class="project-card">
+  <img src="../assets/projects/FOMOsavior.png" alt="FOMOsavior" class="project-image" loading="lazy">
+  <h3 class="project-title" id="project-fomosavior">FOMOsavior</h3>
+  <p class="project-description">
+    FOMOsavior frees developers from the worry of missing what’s actually trending in open source. Ask in plain language, like “Which agentic RL projects are gaining momentum?”, and get a short answer from fresh GitHub and Hacker News data, with the numbers and sources.
   </p>
 </div>
 
@@ -158,6 +254,30 @@ Projects created by AC215 students.
   <h3 class="project-title" id="project-hall-monitor">Hall Monitor</h3>
   <p class="project-description">
     Hall Monitor scrapes hours-long city public meetings and makes them searchable. It shows an emotion analysis graph of when things get heated, summarizes the meeting, and as a companion for journalists, it present the top news stories that could come out of the meeting.
+  </p>
+</div>
+
+<div class="project-card">
+  <img src="../assets/projects/HealthOps.png" alt="HealthOps" class="project-image" loading="lazy">
+  <h3 class="project-title" id="project-healthops">HealthOps</h3>
+  <p class="project-description">
+    HealthOps is a trust layer for multi-wearable users. It brings Apple Watch and Fitbit data into one store, reconciles disagreeing readings, and lets a verified LLM explain which device to trust and why.
+  </p>
+</div>
+
+<div class="project-card">
+  <img src="../assets/projects/Heimdall.png" alt="Heimdall" class="project-image" loading="lazy">
+  <h3 class="project-title" id="project-heimdall">Heimdall</h3>
+  <p class="project-description">
+    Heimdall delivers atmospheric intelligence for operations that rely on the weather, serving 3D cloud structure anywhere in the Western Hemisphere, now and an hour ahead. It gives pilots, solar operators, and search teams the time and information to act as conditions change.
+  </p>
+</div>
+
+<div class="project-card">
+  <img src="../assets/projects/IslandFeature.jpg" alt="IslandFeature" class="project-image" loading="lazy">
+  <h3 class="project-title" id="project-islandfeature">IslandFeature</h3>
+  <p class="project-description">
+    IslandFeature is an AI-assisted feature engineering workbench that helps data scientists explore data, generate and review feature ideas, and evaluate candidate features on a development dataset.
   </p>
 </div>
 
@@ -202,6 +322,22 @@ Projects created by AC215 students.
 </div>
 
 <div class="project-card">
+  <img src="../assets/projects/RefundLens.jpg" alt="RefundLens" class="project-image" loading="lazy">
+  <h3 class="project-title" id="project-refundlens">RefundLens</h3>
+  <p class="project-description">
+    RefundLens helps online merchants detect AI-manipulated damage photos in refund claims. Combining computer vision and multimodal AI, it delivers cost-efficient fraud risk assessments and actionable recommendations to support smarter refund decisions.
+  </p>
+</div>
+
+<div class="project-card">
+  <img src="../assets/projects/Reminisce.jpg" alt="Reminisce" class="project-image" loading="lazy">
+  <h3 class="project-title" id="project-reminisce">Reminisce</h3>
+  <p class="project-description">
+    Reminisce helps people with early-onset Alzheimer's hold on to meaningful memories. It turns family photos and stories into a searchable and verified memory graph, then utilizes a recall prediction model to guide recall sessions that elongate the memory decline process.
+  </p>
+</div>
+
+<div class="project-card">
   <img src="../assets/projects/ResearchPulse.png" alt="ResearchPulse" class="project-image" loading="lazy">
   <h3 class="project-title" id="project-researchpulse">ResearchPulse</h3>
   <p class="project-description">
@@ -226,10 +362,34 @@ Projects created by AC215 students.
 </div>
 
 <div class="project-card">
+  <img src="../assets/projects/ScriptCue.png" alt="ScriptCue" class="project-image" loading="lazy">
+  <h3 class="project-title" id="project-scriptcue">ScriptCue</h3>
+  <p class="project-description">
+    ScriptCue helps marketers and creators turn a campaign brief into a ready-to-shoot short-form video script, tailored to their audience, tone and engagement goal using real TikTok data.
+  </p>
+</div>
+
+<div class="project-card">
+  <img src="../assets/projects/TasteBridge.png" alt="TasteBridge" class="project-image" loading="lazy">
+  <h3 class="project-title" id="project-tastebridge">TasteBridge</h3>
+  <p class="project-description">
+    TasteBridge helps two readers with different tastes agree on a book: each picks five favorites, and it recommends five "bridge books" with a reason for each reader, plus a "taste galaxy" map showing why their tastes overlap. Built on Goodreads data with full MLOps.
+  </p>
+</div>
+
+<div class="project-card">
   <img src="../assets/projects/Triage.png" alt="Triage" class="project-image" loading="lazy">
   <h3 class="project-title" id="project-triage">Triage</h3>
   <p class="project-description">
     Triage helps trial coordinators quickly and accurately match breast cancer patients to eligible clinical trials. By explaining its reasoning for every eligibility criterion, Triage serves as a transparent screening aid that lets coordinators verify each match.
+  </p>
+</div>
+
+<div class="project-card">
+  <img src="../assets/projects/Undersigned.jpg" alt="Undersigned" class="project-image" loading="lazy">
+  <h3 class="project-title" id="project-undersigned">Undersigned</h3>
+  <p class="project-description">
+    Before a new federal regulation becomes law, the government has to answer the public, but nothing says the answer has to be easy to find. Undersigned finds it, mapping what people asked for, how the agency replied, and whose voices actually changed the law.
   </p>
 </div>
 
