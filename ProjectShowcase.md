@@ -68,6 +68,17 @@ so change a project through its form response, not here.
 .project-card .anchor-heading {
   display: none !important;
 }
+
+/* Groups with no card: up to two columns, one on a phone. */
+.project-list {
+  columns: 2 18rem;
+  column-gap: 2rem;
+}
+
+.main-content .project-list li {
+  margin: 0 0 0.35rem;          /* no top margin, so both columns start level */
+  break-inside: avoid;
+}
 </style>
 
 ## AC215 Project Showcase
@@ -75,8 +86,6 @@ so change a project through its form response, not here.
 **December 14, 2026 · 9:00 AM – 3:00 PM**
 
 Projects created by AC215 students.
-
-*More projects coming soon.*
 
 <div class="project-showcase">
 {% raw %}
@@ -411,3 +420,25 @@ Projects created by AC215 students.
 
 {% endraw %}
 </div>
+
+## Also presenting on December 14
+
+<ul class="project-list">
+{% raw %}
+  <li>Accelerate the Accelerators</li>
+  <li>AeroID Tool-Augmented Aircraft Identification: Making a Low-Cost LLM Expert-Accurate with ViT</li>
+  <li>An AI Co-Agent and Knowledge Base for Sustainable Apparel Sourcing</li>
+  <li>Bridgewatch API/SDK Migration and Dependency Repair</li>
+  <li>Can Software Stop an LLM Agent From P-Hacking? Multi-Agent Orchestration with Enforced Process for Alpha Discovery</li>
+  <li>F1 WhyLap: who's winning, and why, every lap</li>
+  <li>Fixture: A Scheduling Assistant You Can Trust to Run on Its Own</li>
+  <li>[G/M]aze tracking</li>
+  <li>InspectBeforeBuy</li>
+  <li>InterviewLens: A Multimodal AI Coach for Behavioral Interview Practice</li>
+  <li>Knowing When to Trust the Merge: Confidence-Aware Reconciliation of Conflicting Company Records</li>
+  <li>Paper2Baseline: From ML Papers to Tested Baselines with AI Agents</li>
+  <li>SurveyScout: A Coverage-Tracked Literature-Review Harness</li>
+  <li>VetChamp</li>
+  <li>Waypoint: A Verified, Adaptive Course-and-Mentor Roadmap for Harvard Data Science Master's Students</li>
+{% endraw %}
+</ul>
