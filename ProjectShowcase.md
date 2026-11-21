@@ -91,6 +91,14 @@ Projects created by AC215 students.
 {% raw %}
 
 <div class="project-card">
+  <img src="../assets/projects/Accelerate-the-Accelerators.png" alt="Accelerate the Accelerators" class="project-image" loading="lazy">
+  <h3 class="project-title" id="project-accelerate-the-accelerators">Accelerate the Accelerators</h3>
+  <p class="project-description">
+    An accelerator receives far more applications than anyone can read carefully. We score each one at submit so reviewers read the most promising first, then run an AI interview that gathers evidence in the founder's own words. It orders the pile; it does not decide.
+  </p>
+</div>
+
+<div class="project-card">
   <img src="../assets/projects/Aesop.png" alt="Aesop" class="project-image" loading="lazy">
   <h3 class="project-title" id="project-aesop">Aesop</h3>
   <p class="project-description">
@@ -231,6 +239,14 @@ Projects created by AC215 students.
   <h3 class="project-title" id="project-everfit-ai">EverFit AI</h3>
   <p class="project-description">
     An agentic AI platform that monitors ML models, detects drift, and diagnoses performance issues. It recommends fixes and automates retraining to keep models accurate and reliable.
+  </p>
+</div>
+
+<div class="project-card">
+  <img src="../assets/projects/F1-WhyLap.png" alt="F1 WhyLap" class="project-image" loading="lazy">
+  <h3 class="project-title" id="project-f1-whylap">F1 WhyLap</h3>
+  <p class="project-description">
+    F1 WhyLap predicts who will win a Formula 1 race, before the start and lap by lap, and explains why. It is a deployed web app with live race following and an AI race agent.
   </p>
 </div>
 
@@ -411,6 +427,14 @@ Projects created by AC215 students.
 </div>
 
 <div class="project-card">
+  <img src="../assets/projects/VetChamp.png" alt="VetChamp" class="project-image" loading="lazy">
+  <h3 class="project-title" id="project-vetchamp">VetChamp</h3>
+  <p class="project-description">
+    OpenEvidence for Vets, citation sourced veterinary assistant.
+  </p>
+</div>
+
+<div class="project-card">
   <img src="../assets/projects/YardBird.png" alt="YardBird" class="project-image" loading="lazy">
   <h3 class="project-title" id="project-yardbird">YardBird</h3>
   <p class="project-description">
@@ -425,12 +449,10 @@ Projects created by AC215 students.
 
 <ul class="project-list">
 {% raw %}
-  <li>Accelerate the Accelerators</li>
   <li>AeroID Tool-Augmented Aircraft Identification: Making a Low-Cost LLM Expert-Accurate with ViT</li>
   <li>An AI Co-Agent and Knowledge Base for Sustainable Apparel Sourcing</li>
   <li>Bridgewatch API/SDK Migration and Dependency Repair</li>
   <li>Can Software Stop an LLM Agent From P-Hacking? Multi-Agent Orchestration with Enforced Process for Alpha Discovery</li>
-  <li>F1 WhyLap: who's winning, and why, every lap</li>
   <li>Fixture: A Scheduling Assistant You Can Trust to Run on Its Own</li>
   <li>[G/M]aze tracking</li>
   <li>InspectBeforeBuy</li>
@@ -438,7 +460,6 @@ Projects created by AC215 students.
   <li>Knowing When to Trust the Merge: Confidence-Aware Reconciliation of Conflicting Company Records</li>
   <li>Paper2Baseline: From ML Papers to Tested Baselines with AI Agents</li>
   <li>SurveyScout: A Coverage-Tracked Literature-Review Harness</li>
-  <li>VetChamp</li>
   <li>Waypoint: A Verified, Adaptive Course-and-Mentor Roadmap for Harvard Data Science Master's Students</li>
 {% endraw %}
 </ul>
