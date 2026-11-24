@@ -99,6 +99,14 @@ Projects created by AC215 students.
 </div>
 
 <div class="project-card">
+  <img src="../assets/projects/AeroID.jpg" alt="AeroID" class="project-image" loading="lazy">
+  <h3 class="project-title" id="project-aeroid">AeroID</h3>
+  <p class="project-description">
+    Snap a plane, know exactly what it is. AeroID runs a vision model and a registration reader in parallel on your photo, and an LLM weighs their evidence to name the exact variant. Collect trading cards and test your eye in planespotting games!
+  </p>
+</div>
+
+<div class="project-card">
   <img src="../assets/projects/Aesop.png" alt="Aesop" class="project-image" loading="lazy">
   <h3 class="project-title" id="project-aesop">Aesop</h3>
   <p class="project-description">
@@ -307,18 +315,18 @@ Projects created by AC215 students.
 </div>
 
 <div class="project-card">
-  <img src="../assets/projects/LandmarkersAI-NYC-Landmarks-Preservation-Commission-AI-Agent.png" alt="LandmarkersAI - NYC Landmarks Preservation Commission AI Agent" class="project-image" loading="lazy">
-  <h3 class="project-title" id="project-landmarkersai-nyc-landmarks-preservation-commission-ai-agent">LandmarkersAI - NYC Landmarks Preservation Commission AI Agent</h3>
-  <p class="project-description">
-    Enter a New York City property address and describe your proposed work. The app estimates the landmark permit review pathway and shows relevant Landmarks Preservation Commission rules and similar past permits.
-  </p>
-</div>
-
-<div class="project-card">
   <img src="../assets/projects/Medical-Assistant-Project-MAP.jpg" alt="Medical Assistant Project (MAP)" class="project-image" loading="lazy">
   <h3 class="project-title" id="project-medical-assistant-project-map">Medical Assistant Project (MAP)</h3>
   <p class="project-description">
     MAP helps patients explore and understand their medical records in plain language. In our demo, users can browse synthetic health records and ask questions about lab results, medications, and health history, with answers that cite the source records.
+  </p>
+</div>
+
+<div class="project-card">
+  <img src="../assets/projects/NYC-Landmarks-Preservation-Commission-AI-Agent.png" alt="NYC Landmarks Preservation Commission AI Agent" class="project-image" loading="lazy">
+  <h3 class="project-title" id="project-nyc-landmarks-preservation-commission-ai-agent">NYC Landmarks Preservation Commission AI Agent</h3>
+  <p class="project-description">
+    Enter a New York City property address and describe your proposed work. The app estimates the landmark permit review pathway and shows relevant Landmarks Preservation Commission rules and similar past permits.
   </p>
 </div>
 
@@ -449,7 +457,6 @@ Projects created by AC215 students.
 
 <ul class="project-list">
 {% raw %}
-  <li>AeroID Tool-Augmented Aircraft Identification: Making a Low-Cost LLM Expert-Accurate with ViT</li>
   <li>An AI Co-Agent and Knowledge Base for Sustainable Apparel Sourcing</li>
   <li>Bridgewatch API/SDK Migration and Dependency Repair</li>
   <li>Can Software Stop an LLM Agent From P-Hacking? Multi-Agent Orchestration with Enforced Process for Alpha Discovery</li>
